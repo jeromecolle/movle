@@ -1,0 +1,80 @@
+html, body {
+    height: 90%;
+}
+
+@font-face {
+    font-family: Archer;
+    src: url('../fonts/ArcherBookPro.otf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+h1 {
+    text-align: center;
+    font-size: large;
+}
+
+.header {
+    text-align: center;
+    /* background-color: aqua; */
+    padding: 25px;
+    margin: 5px;
+    height: 10%;
+    font-family: Archer;
+}
+
+.game {
+    text-align: center;
+    /* background-color: bisque; */
+    padding: 5px;
+    margin: 5px;
+    height: 90%;
+}
+
+.guess {
+    display: flexbox;
+    height: 50%;
+    padding: 5px;
+    /* background-color: blueviolet; */
+}
+
+.col {
+    background-color: cadetblue;
+    margin: 5px;
+    padding: 5px;
+}
+
+.row {
+    display: table;
+    width: 40%;
+    margin: 0 auto;
+    background-color:khaki;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    height: 15%;
+    width: 100%;
+    padding: 10px;
+    background-color:indianred;
+}
+
+form {
+    position: relative;
+    top: 75%;
+}
+
+input[type=text] {
+    width: 30%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    border-radius: 15px;
+    border: 2.5px solid #FDDDA4;
+    transition: .5s;
+}
+
+input[type=text]:focus, input[type=text]:active  {
+    border: 2.5px solid #f3bd5f;
+    outline: none;
+}
