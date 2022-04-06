@@ -3,7 +3,13 @@
 <head>
     <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" rel="stylesheet"/>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap" rel="stylesheet">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
     <script src="js/main.js"></script>
+    <script src="js/jquery.csv.js"></script>
+    <script src="js/jquery.csv.min.js"></script>
     <title>Movle</title>
 </head>
 <body>
@@ -12,30 +18,159 @@
     </div>
     <div class="game">
         <div class="guess">
-            <form>
-                <input type="text" onkeydown=populate()>
-            </form>
-        </div>
-        <div class="center">
-            <div class="row ">
-                <div class="col">
-    
-                </div>
-                <div class="col">
-                    
-                </div>
-                <div class="col">
-                    
-                </div>
-                <div class="col">
-                    
-                </div>
-                <div class="col">
-                    
+            <div class="dropdown">
+                <input id="guess-input" type="text" onkeyup=populate(this.value) onClick="this.select();" autocomplete="off" placeholder="Guess a movie...">
+                <div id="drop-menu" class="menu">
                 </div>
             </div>
         </div>
-        
+        <div id="guess 1" class="guess-name"data-placeholder="xxx"></div>
+        <div class="center">
+            <div id="guess-row 1" class="row ">
+                <div class="col">
+                    <div id="year 1" class="year"></div>
+                </div>
+                <div class="col">
+                    <div id="duration 1" class="duration"></div>
+                </div>
+                <div class="col">
+                    <div id="genres 1" class="genres"></div>
+                </div>
+                <div class="col">
+                    <div id="rating 1" class="rating"></div>
+                </div>
+                <div class="col">
+                    <div id="actors 1" class="actors"></div>
+                </div>
+            </div>
+        </div>
+        <div id="guess 2" class="guess-name"data-placeholder="xxx"></div>
+        <div class="center">
+            <div id="guess-row 2" class="row ">
+                <div class="col">
+                    <div id="year 2" class="year"></div>
+                </div>
+                <div class="col">
+                    <div id="duration 2" class="duration"></div>
+                </div>
+                <div class="col">
+                    <div id="genres 2" class="genres"></div>
+                </div>
+                <div class="col">
+                    <div id="rating 2" class="rating"></div>
+                </div>
+                <div class="col">
+                    <div id="actors 2" class="actors"></div>
+                </div>
+            </div>
+        </div>
+        <div id="guess 3" class="guess-name"data-placeholder="xxx"></div>
+        <div class="center">
+            <div id="guess-row 3" class="row ">
+                <div class="col">
+                    <div id="year 3" class="year"></div>
+                </div>
+                <div class="col">
+                    <div id="duration 3" class="duration"></div>
+                </div>
+                <div class="col">
+                    <div id="genres 3" class="genres"></div>
+                </div>
+                <div class="col">
+                    <div id="rating 3" class="rating"></div>
+                </div>
+                <div class="col">
+                    <div id="actors 3" class="actors"></div>
+                </div>
+            </div>
+        </div>
+        <div id="guess 4" class="guess-name"data-placeholder="xxx"></div>
+        <div class="center">
+            <div id="guess-row 4" class="row ">
+                <div class="col">
+                    <div id="year 4" class="year"></div>
+                </div>
+                <div class="col">
+                    <div id="duration 4" class="duration"></div>
+                </div>
+                <div class="col">
+                    <div id="genres 4" class="genres"></div>
+                </div>
+                <div class="col">
+                    <div id="rating 4" class="rating"></div>
+                </div>
+                <div class="col">
+                    <div id="actors 4" class="actors"></div>
+                </div>
+            </div>
+        </div>
+        <div id="guess 5" class="guess-name"data-placeholder="xxx"></div>
+        <div class="center">
+            <div id="guess-row 5" class="row ">
+                <div class="col">
+                    <div id="year 5" class="year"></div>
+                </div>
+                <div class="col">
+                    <div id="duration 5" class="duration"></div>
+                </div>
+                <div class="col">
+                    <div id="genres 5" class="genres"></div>
+                </div>
+                <div class="col">
+                    <div id="rating 5" class="rating"></div>
+                </div>
+                <div class="col">
+                    <div id="actors 5" class="actors"></div>
+                </div>
+            </div>
+        </div>
+        <div id="guess 6" class="guess-name"data-placeholder="xxx"></div>
+        <div class="center">
+            <div id="guess-row 6" class="row ">
+                <div class="col">
+                    <div id="year 6" class="year"></div>
+                </div>
+                <div class="col">
+                    <div id="duration 6" class="duration"></div>
+                </div>
+                <div class="col">
+                    <div id="genres 6" class="genres"></div>
+                </div>
+                <div class="col">
+                    <div id="rating 6" class="rating"></div>
+                </div>
+                <div class="col">
+                    <div id="actors 6" class="actors"></div>
+                </div>
+            </div>
+        </div>
+        <div id="guess 7" class="guess-name"data-placeholder="xxx" ></div>
+        <div class="center">
+            <div id="guess-row 7" class="row ">
+                <div class="col">
+                    <div id="year 7" class="year"></div>
+                </div>
+                <div class="col">
+                    <div id="duration 7" class="duration"></div>
+                </div>
+                <div class="col">
+                    <div id="genres 7" class="genres"></div>
+                </div>
+                <div class="col">
+                    <div id="rating 7" class="rating"></div>
+                </div>
+                <div class="col">
+                    <div id="actors 7" class="actors"></div>
+                </div>
+            </div>
+        </div>
+        <div class="hover_bkgr_fricc">
+            <span class="helper"></span>
+            <div>
+                <div class="popupCloseButton" onclick="close_popup()">&times;</div>
+                <h1 id="finish-message"></h1>
+            </div>
+        </div>
     </div>
 
 </body>
