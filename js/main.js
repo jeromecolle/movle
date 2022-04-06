@@ -135,7 +135,7 @@ function guess(g){
         if (guessed_film.runtimeMinutes < answer.runtimeMinutes){
             duration_result += " &#8593";
         }
-        else if (guessed_film.startYear > answer.runtimeMinutes){
+        else if (guessed_film.runtimeMinutes > answer.runtimeMinutes){
             duration_result += " &#8595"
         }
         else {
