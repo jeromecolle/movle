@@ -30,11 +30,11 @@ $(document).ready(function(){
         shuffle(films);
 
         // Uncomment for quick random
-        answer = films[0];
-        console.log(answer);
-        var quote = answer.quotes[Math.floor(Math.random() * answer.quotes.length)];
-        qt_field = document.getElementById('quote-tag');
-        qt_field.innerHTML = quote;
+        // answer = films[0];
+        // console.log(answer);
+        // var quote = answer.quotes[Math.floor(Math.random() * answer.quotes.length)];
+        // qt_field = document.getElementById('quote-tag');
+        // qt_field.innerHTML = quote;
     });
 
          // Here the data in films is NOT available because this line
