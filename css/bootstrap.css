@@ -179,9 +179,7 @@ background: #f3bd5f;
 
 .genres {
     font-weight: 700;
-    font-size:x-small;
-    overflow: hidden;
-    flex-shrink: 10;
+    font-size:small;
 }
 
 .rating {
@@ -190,6 +188,7 @@ background: #f3bd5f;
 
 .actors {
     font-weight: 700;
+    font-size: small;
 }
 
 .genre-true {
@@ -270,5 +269,9 @@ div:empty:before {
     margin: 20px;
     display: inline-block;
     font-weight: bold;
+}
+#finish-message {
+    font-size: small;
+    line-height: 3em;
 }
 /* Popup box BEGIN */

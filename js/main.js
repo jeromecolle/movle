@@ -4,6 +4,7 @@ var answer;
 var actor_colors = ["#FF8989", "#FFB3A5", "#7ABD91", "#5FA777"]
 var color_correct = "#76A08A"
 var color_wrong = "#B62A3D"
+var color_close = "#CB9E23"
 
 var finished = false;
 
@@ -63,10 +64,11 @@ function populate(string){
                 div.innerHTML = getFilmString(films[i]);
                 div.className = 'drop-item';
                 // div.setAttribute("href","javascript:void(0)");
-                div.onclick = function(string){
+                let touchEvent = 'ontouchstart' in window ? 'touchstart' : 'click';
+                div.addEventListener(touchEvent, function(string){
                     film_guess = string.path[0].innerHTML.split('(')[0].trim();
                     guess(film_guess);
-                };
+                });
                 divs.push(div);
                 list.appendChild(div);
             }
@@ -92,7 +94,14 @@ function guess(g){
                 msg.innerHTML = "(｡◕‿◕｡)";
             }
             else{
-                msg.innerHTML = "į̶̨̥̥̠͓̃̌͐̅̚ɒ̶̯̖̞͍̍̈́͂̎͜͝m̵̫̗̻̼͇̊̓̾͆̓m̶̡̞̺͙̙͐̀̿͝͝ɘ̸̟͓̺͇̞͒͂̓̌͊ɿ̷̨̨̡͖̬͗͋̊̿͝"
+                var jammer = document.createTextNode("į̶̨̥̥̠͓̃̌͐̅̚ɒ̶̯̖̞͍̍̈́͂̎͜͝m̵̫̗̻̼͇̊̓̾͆̓m̶̡̞̺͙̙͐̀̿͝͝ɘ̸̟͓̺͇̞͒͂̓̌͊ɿ̷̨̨̡͖̬͗͋̊̿͝ ");
+                var br = document.createElement('br');
+                var corr = document.createTextNode("Correct answer: " + getFilmString(answer));
+                msg.appendChild(jammer);
+                msg.appendChild(br);
+                msg.appendChild(br);
+                msg.appendChild(br);
+                msg.appendChild(corr);
             }
 
             $('.hover_bkgr_fricc').show();
@@ -113,6 +122,10 @@ function guess(g){
         year_sp = document.createElement("SPAN");
         year_sp.style.color = color_wrong;
 
+        if (Math.abs(guessed_film.startYear - answer.startYear) <= 2){
+            year_sp.style.color = color_close;
+        }
+
         if (guessed_film.startYear < answer.startYear){
             year_result += " &#8593";
         }
@@ -131,6 +144,10 @@ function guess(g){
 
         duration_sp = document.createElement("SPAN");
         duration_sp.style.color = color_wrong;
+
+        if (Math.abs(guessed_film.runtimeMinutes - answer.runtimeMinutes) <= 5){
+            duration.style.color = color_close;
+        }
 
         if (guessed_film.runtimeMinutes < answer.runtimeMinutes){
             duration_result += " &#8593";
@@ -163,15 +180,16 @@ function guess(g){
             genres.appendChild(sp);
         }
 
-        if (correct_genres == answer.genres.split("(").length){
-        }
-
         // Assess rating
         var rating = document.getElementById("rating " + String(guesses))
         var rating_result = String(guessed_film.averageRating);
 
         rating_sp = document.createElement("SPAN");
         rating_sp.style.color = color_wrong;
+
+        if (Math.abs(guessed_film.averageRating - answer.averageRating) <= .3){
+            rating_sp.style.color = color_close;
+        }
 
         if (guessed_film.averageRating < answer.averageRating){
             rating_result += " &#8593";
@@ -191,18 +209,19 @@ function guess(g){
         var actors_count = 0;
         var actors_arr = guessed_film.actorList.split(",");
 
-
         for (var i=0;i<actors_arr.length;i++){
+            sp = document.createElement("SPAN");
             if (answer.actorList.toLowerCase().includes(actors_arr[i].toLowerCase())){
                 actors_count++;
-                actors.style.color = actor_colors[i];
+                sp.className = "genre-true";
             }
+            else {
+                sp.className = "genre-false";
+            }
+            var end = (i==actors_arr.length-1) ? " " : ", ";
+            sp.innerHTML = actors_arr[i] + end;
+            actors.appendChild(sp);
         }
-
-        if (actors_count == 4){
-        }
-
-        actors.innerHTML = actors_count;
 
         // Set guess
         g_name = document.getElementById("guess " + String(guesses));
