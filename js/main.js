@@ -216,7 +216,7 @@ function guess(g){
                 sp.className = "genre-true";
             }
             else {
-                sp.className = "genre-false";
+                sp.className = "genre-false"; //new
             }
             var end = (i==actors_arr.length-1) ? " " : ", ";
             sp.innerHTML = actors_arr[i] + end;
