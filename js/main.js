@@ -37,7 +37,7 @@ $(document).ready(function(){
             }
         }
 
-        // shuffle(films)
+        shuffle(films)
     });
 
          // Here the data in films is NOT available because this line
