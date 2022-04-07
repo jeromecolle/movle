@@ -2,31 +2,16 @@ var films = [];
 var guesses = 0;
 var answer;
 var actor_colors = ["#FF8989", "#FFB3A5", "#7ABD91", "#5FA777"]
-var color_correct = "#76A08A"
-var color_wrong = "#B62A3D"
-var color_close = "#CB9E23"
+var color_correct = "#456355"
+var color_close = "#FCD16B"
+var color_wrong = "#AEA8A8"
 
 var finished = false;
 
 $(document).ready(function(){
     var films_temp = [];
-    $.getJSON("db/films-60-actors-update.json", function(data){
+    $.getJSON("db/titles-60-final.json", function(data){
         films = data;
-        // for(i=0;i<data.length;i++){
-        //     films_temp[i]=[
-        //         // String(data[i].tconst),
-        //         String(data[i].primaryTitle),
-        //         data[i].startYear,
-        //         data[i].runtimeMinutes,
-        //         String(data[i].genres),
-        //         data[i].averageRating,
-        //         String(data[i].actorList),
-        //         // String(data[i].directors),
-        //         // String(data[i].writers),
-        //     ];
-        // }
-                 // The data in films is available here becuase
-                 //    this alert() doesn't run until the response is received.
 
         var today = new Date();
         var date = String(today.getFullYear()+'-'+String((today.getMonth()+1)).padStart(2, '0')+'-'+String(today.getDate()).padStart(2, '0'));
@@ -34,11 +19,22 @@ $(document).ready(function(){
         for (var i = 0; i<films.length;i++){
             if (date === films[i].date){
                 answer = films[i];
+                var quote = answer.quotes[Math.floor(Math.random() * answer.quotes.length)];
+                qt_field = document.getElementById('quote-tag');
+                qt_field.innerHTML = quote;
+                
                 console.log("Film found on " + i)
             }
         }
 
-        shuffle(films)
+        shuffle(films);
+
+        // Uncomment for quick random
+        answer = films[0];
+        console.log(answer);
+        var quote = answer.quotes[Math.floor(Math.random() * answer.quotes.length)];
+        qt_field = document.getElementById('quote-tag');
+        qt_field.innerHTML = quote;
     });
 
          // Here the data in films is NOT available because this line
@@ -53,6 +49,7 @@ function populate(string){
     // window.alert(string);
     list = document.getElementById("drop-menu");
     list.replaceChildren()
+    shuffle(films)
     if (string){
         var selection = [];
         var divs = [];
@@ -108,22 +105,16 @@ function guess(g){
         }
         populate("")
 
-        var gr = document.getElementById("guess-row " + String(guesses));
-        var cols = gr.children;
-        console.log(cols)
-        for (var i=0;i<cols.length;i++){
-            cols[i].style.backgroundColor = "#C4CFD0";
-        }
-            
         // Assess year
         var year = document.getElementById("year " + String(guesses))
         var year_result = String(guessed_film.startYear);
+        var col = year.parentElement;
         
         year_sp = document.createElement("SPAN");
-        year_sp.style.color = color_wrong;
+        year.style.backgroundColor = color_wrong;
 
         if (Math.abs(guessed_film.startYear - answer.startYear) <= 2){
-            year_sp.style.color = color_close;
+            year.style.backgroundColor = color_close;
         }
 
         if (guessed_film.startYear < answer.startYear){
@@ -133,38 +124,46 @@ function guess(g){
             year_result += " &#8595"
         }
         else {
-            year_sp.style.color = color_correct;
+            year.style.backgroundColor = color_correct;
         }
         year_sp.innerHTML = year_result;
         year.appendChild(year_sp)
+        
+        col.style.transform = "rotateY(180deg)";
 
-        // Assess duration
-        var duration = document.getElementById("duration " + String(guesses))
-        var duration_result = String(guessed_film.runtimeMinutes);
+        // Assess directors
+        var directors = document.getElementById("directors " + String(guesses))
+        var directors_result = String(guessed_film.runtimeMinutes);
+        var directors_arr = guessed_film.directors.split(",")
+        var correct_directors = 0
 
-        duration_sp = document.createElement("SPAN");
-        duration_sp.style.color = color_wrong;
+        directors.style.backgroundColor = color_wrong;
 
-        if (Math.abs(guessed_film.runtimeMinutes - answer.runtimeMinutes) <= 5){
-            duration.style.color = color_close;
+        for (var i=0;i<directors_arr.length;i++){
+            sp = document.createElement("SPAN");
+            if (answer.directors.toLowerCase().includes(directors_arr[i].toLowerCase())){
+                correct_directors++;
+                directors.style.backgroundColor = color_close;
+            }
+            var end = (i==directors_arr.length-1) ? " " : ", ";
+            sp.innerHTML = directors_arr[i] + end;
+            directors.appendChild(sp);
         }
-
-        if (guessed_film.runtimeMinutes < answer.runtimeMinutes){
-            duration_result += " &#8593";
+        console.log(answer.directors.split(",").length)
+        console.log(correct_directors)
+        if (correct_directors == answer.directors.split(",").length){
+            directors.style.backgroundColor = color_correct;
         }
-        else if (guessed_film.runtimeMinutes > answer.runtimeMinutes){
-            duration_result += " &#8595"
-        }
-        else {
-            duration_sp.style.color = color_correct;
-        }
-        duration_sp.innerHTML = duration_result;
-        duration.appendChild(duration_sp)
+        var col = directors.parentElement;
+        col.style.transform = "rotateY(180deg)";
 
         // Assess genres
         var genres = document.getElementById("genres " + String(guesses))
         var genres_arr = guessed_film.genres.split(",");
         var correct_genres = 0;
+        var col = genres.parentElement;
+
+        genres.style.backgroundColor = color_wrong;
 
 
         for (var i=0;i<genres_arr.length;i++){
@@ -172,23 +171,31 @@ function guess(g){
             if (answer.genres.toLowerCase().includes(genres_arr[i].toLowerCase())){
                 sp.className = "genre-true";
                 correct_genres++;
+                genres.style.backgroundColor = color_close;
             }
             else {
                 sp.className = "genre-false";
             }
-            sp.innerHTML = genres_arr[i] + " ";
+            var end = (i==genres_arr.length-1) ? " " : ", ";
+            sp.innerHTML = genres_arr[i] + end;
             genres.appendChild(sp);
         }
+        
+        if (correct_genres == answer.genres.split(",").length){
+            genres.style.backgroundColor = color_correct;
+        }
+
+        col.style.transform = "rotateY(180deg)";
 
         // Assess rating
         var rating = document.getElementById("rating " + String(guesses))
         var rating_result = String(guessed_film.averageRating);
 
         rating_sp = document.createElement("SPAN");
-        rating_sp.style.color = color_wrong;
+        rating.style.backgroundColor = color_wrong;
 
         if (Math.abs(guessed_film.averageRating - answer.averageRating) <= .3){
-            rating_sp.style.color = color_close;
+            rating.style.backgroundColor = color_close;
         }
 
         if (guessed_film.averageRating < answer.averageRating){
@@ -198,22 +205,27 @@ function guess(g){
             rating_result += " &#8595"
         }
         else {
-            rating_sp.style.color = color_correct;
+            rating.style.backgroundColor = color_correct;
         }
 
         rating_sp.innerHTML = rating_result;
         rating.appendChild(rating_sp)
 
+        var col = rating.parentElement;
+        col.style.transform = "rotateY(180deg)";
+
         // Assess actors
         var actors = document.getElementById("actors " + String(guesses))
         var actors_count = 0;
         var actors_arr = guessed_film.actorList.split(",");
+        actors.style.backgroundColor = color_wrong
 
         for (var i=0;i<actors_arr.length;i++){
             sp = document.createElement("SPAN");
             if (answer.actorList.toLowerCase().includes(actors_arr[i].toLowerCase())){
                 actors_count++;
                 sp.className = "genre-true";
+                actors.style.backgroundColor = color_close;
             }
             else {
                 sp.className = "genre-false"; //new
@@ -223,11 +235,35 @@ function guess(g){
             actors.appendChild(sp);
         }
 
+        if (actors_count == actors_arr.length){
+            actors.style.backgroundColor = color_correct
+        }
+
+        var col = actors.parentElement;
+        col.style.transform = "rotateY(180deg)";
+
+        // Assess company
+        var company = document.getElementById("company " + String(guesses))
+        var company_result = String(guessed_film.productionCompany);
+
+        company_sp = document.createElement('SPAN');
+        company.style.backgroundColor = color_wrong;
+
+        if (company_result == answer.productionCompany){
+            company.style.backgroundColor = color_correct;
+        }
+
+        company_sp.innerHTML = company_result;
+        company.appendChild(company_sp)
+
+        var col = company.parentElement;
+        col.style.transform = "rotateY(180deg)";
+
+
         // Set guess
         g_name = document.getElementById("guess " + String(guesses));
         g_name.innerHTML = getFilmString(guessed_film) + ": "
 
-        $('gere').FluidFontType({ phraseMode: true});
     }
 
 }
@@ -259,6 +295,39 @@ function shuffle(array) {
   
     return array;
   }
+
+function toggle_qt(btn){
+    qt_field = document.getElementById('quote-tag');
+    qt_field.replaceChildren()
+    if (btn.innerHTML == "Click for tagline"){
+        var tl = answer.tagline;
+        console.log(tl.toLowerCase());
+        console.log(answer.primaryTitle.toLowerCase());
+        if (tl.toLowerCase().includes(answer.primaryTitle.toLowerCase())){
+            console.log("oi");
+            var t = answer.primaryTitle;
+            var sRegExInput = new RegExp(t, "gi");
+            tl = tl.replace(sRegExInput, '*'.repeat(answer.primaryTitle.length));
+        }
+
+        qt_field.innerHTML = tl;
+        btn.innerHTML = "Click for random quote";
+    }
+    else if (btn.innerHTML == "Click for random quote"){
+        var quote = answer.quotes[Math.floor(Math.random() * answer.quotes.length)];
+        // console.log(quote)
+        // for (var i=0;i<quote.length;i++){
+        //     sp = document.createElement('SPAN');
+        //     sp.innerHTML=quote[i];
+        //     qt_field.appendChild(sp);
+        //     br = document.createElement('br');
+        //     qt_field.appendChild(br);
+        // }
+
+        qt_field.innerHTML = quote;
+        btn.innerHTML = "Click for tagline";
+    }
+}
 
 function readCSV(string){
     var file = "db/films-60-unix.csv";

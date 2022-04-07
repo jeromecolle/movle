@@ -37,34 +37,46 @@ h1 {
     font-family: 'Oswald', sans-serif;
 }
 
+#quote-tag-container {
+    display: flexbox;
+    width: 100%;
+    height: 17.5%;
+    /* background-color: #76A08A; */
+}
+
+#quote-tag {
+    height: 70%;
+    overflow: scroll;
+}
+
+
 .col {
+    position: relative;
+    transform-style:preserve-3d;
+    transition: transform .5s;
     background-color: white;
     display:inline-flex;
     justify-content: center;
-    align-items: center;
     margin: 5px;
-    padding:0;
-    border: 2px solid #76A08A;
-    border-radius: 10px;
+    /* border: 2px solid #76A08A; */
     font-family: 'Oswald',sans-serif;
-    overflow:hidden;
-    text-overflow:ellipsis;
-    word-wrap: break-word;
     line-height: 1em;
     max-height: 3em;
     height: 3em;
     font-size-adjust: .5;
+    perspective: 1000px;
+    
 }
 
 #center-header {
-    height: 5%;
+    height: 6%;
 }
 
 #guess-row .col {
     border:none;
     border-bottom: 2px solid #555;
     border-radius: 0px;
-    font-size: x-small;
+    font-size: small;
     margin: 0 0;
     padding: 0;
 }
@@ -169,26 +181,33 @@ margin:10px
 background: #f3bd5f; 
 }
 
-.year {
-    font-weight: 700;
+.guess-back {
+    border: 1px solid #555;
+    width: 100%;
+    height: 100%;
+    position:absolute;
+    backface-visibility: hidden;
 }
 
-.duration {
+.year, .directors, .genres, .rating, .actors, .company {
+    /* background-color: rgb(190, 189, 189); */
+    color: white;
+    position:absolute;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* transform: translate(-50%, -50%); */
     font-weight: 700;
+    transform:rotateY(180deg);
+    backface-visibility: hidden;
 }
 
-.genres {
+
+.genres, .actors {
     font-weight: 700;
     font-size:small;
-}
-
-.rating {
-    font-weight: 700;
-}
-
-.actors {
-    font-weight: 700;
-    font-size: small;
 }
 
 .genre-true {
@@ -196,7 +215,7 @@ background: #f3bd5f;
 }
 
 .genre-false {
-    color: #B62A3D;
+    color: white;
 }
 
 .guess-name {

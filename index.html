@@ -19,6 +19,10 @@
         <h1>Movle</h1>
     </div>
     <div class="game">
+        <div id="quote-tag-container">
+            <button type="button" id="toggle-btn" onclick="toggle_qt(this)">Click for tagline</button>
+            <div id="quote-tag"></div>
+        </div>
         <div class="guess">
             <div class="dropdown">
                 <input id="guess-input" type="text" onkeyup=populate(this.value) onClick="this.select();" autocomplete="off" placeholder="Guess a movie...">
@@ -29,19 +33,22 @@
         <div id="center-header" class="center">
             <div id="guess-row" class="row ">
                 <div id="" class="col">
-                    <div class="h">YEAR</div>
+                    YEAR
                 </div>
-                <div id="" class="col">
-                    DURATION
+                <div class="col">
+                    DIRECTORS
                 </div>
-                <div id="" class="col">
+                <div class="col">
                     GENRES
                 </div>
-                <div id="" class="col">
+                <div class="col">
                     RATING
                 </div>
-                <div id=""  class="col">
+                <div class="col">
                     TOP-BILLED CAST
+                </div>
+                <div class="col">
+                    COMPANY
                 </div>
             </div>
         </div> 
@@ -49,19 +56,28 @@
         <div class="center">
             <div id="guess-row 1" class="row ">
                 <div class="col">
+                    <div class="guess-back"></div>
                     <div id="year 1" c  class="year"></div>
                 </div>
                 <div class="col">
-                    <div id="duration 1" class="duration"></div>
+                    <div class="guess-back"></div>
+                    <div id="directors 1" class="directors"></div>
                 </div>
-                <div id="gere" class="col">
+                <div class="col">
+                    <div class="guess-back"></div>
                     <div id="genres 1" class="genres"></div>
                 </div>
                 <div class="col">
+                    <div class="guess-back"></div>
                     <div id="rating 1" class="rating"></div>
                 </div>
                 <div class="col">
+                    <div class="guess-back"></div>
                     <div id="actors 1" class="actors"></div>
+                </div>
+                <div class="col">
+                    <div class="guess-back"></div>
+                    <div id="company 1" class="company"></div>
                 </div>
             </div>
         </div>
@@ -69,19 +85,28 @@
         <div class="center">
             <div id="guess-row 2" class="row ">
                 <div class="col">
+                    <div class="guess-back"></div>
                     <div id="year 2" class="year"></div>
                 </div>
                 <div class="col">
-                    <div id="duration 2" class="duration"></div>
+                    <div class="guess-back"></div>
+                    <div id="directors 2" class="directors"></div>
                 </div>
                 <div class="col">
+                    <div class="guess-back"></div>
                     <div id="genres 2" class="genres"></div>
                 </div>
                 <div class="col">
+                    <div class="guess-back"></div>
                     <div id="rating 2" class="rating"></div>
                 </div>
                 <div class="col">
+                    <div class="guess-back"></div>
                     <div id="actors 2" class="actors"></div>
+                </div>
+                <div class="col">
+                    <div class="guess-back"></div>
+                    <div id="company 2" class="company"></div>
                 </div>
             </div>
         </div>
@@ -89,19 +114,28 @@
         <div class="center">
             <div id="guess-row 3" class="row ">
                 <div class="col">
+                    <div class="guess-back"></div>
                     <div id="year 3" class="year"></div>
                 </div>
                 <div class="col">
-                    <div id="duration 3" class="duration"></div>
+                    <div class="guess-back"></div>
+                    <div id="directors 3" class="directors"></div>
                 </div>
                 <div class="col">
+                    <div class="guess-back"></div>
                     <div id="genres 3" class="genres"></div>
                 </div>
                 <div class="col">
+                    <div class="guess-back"></div>
                     <div id="rating 3" class="rating"></div>
                 </div>
                 <div class="col">
+                    <div class="guess-back"></div>
                     <div id="actors 3" class="actors"></div>
+                </div>
+                <div class="col">
+                    <div class="guess-back"></div>
+                    <div id="company 3" class="company"></div>
                 </div>
             </div>
         </div>
@@ -109,19 +143,28 @@
         <div class="center">
             <div id="guess-row 4" class="row ">
                 <div class="col">
+                    <div class="guess-back"></div>
                     <div id="year 4" class="year"></div>
                 </div>
                 <div class="col">
-                    <div id="duration 4" class="duration"></div>
+                    <div class="guess-back"></div>
+                    <div id="directors 4" class="directors"></div>
                 </div>
                 <div class="col">
+                    <div class="guess-back"></div>
                     <div id="genres 4" class="genres"></div>
                 </div>
                 <div class="col">
+                    <div class="guess-back"></div>
                     <div id="rating 4" class="rating"></div>
                 </div>
                 <div class="col">
+                    <div class="guess-back"></div>
                     <div id="actors 4" class="actors"></div>
+                </div>
+                <div class="col">
+                    <div class="guess-back"></div>
+                    <div id="company 4" class="company"></div>
                 </div>
             </div>
         </div>
@@ -129,19 +172,28 @@
         <div class="center">
             <div id="guess-row 5" class="row ">
                 <div class="col">
+                    <div class="guess-back"></div>
                     <div id="year 5" class="year"></div>
                 </div>
                 <div class="col">
-                    <div id="duration 5" class="duration"></div>
+                    <div class="guess-back"></div>
+                    <div id="directors 5" class="directors"></div>
                 </div>
                 <div class="col">
+                    <div class="guess-back"></div>
                     <div id="genres 5" class="genres"></div>
                 </div>
                 <div class="col">
+                    <div class="guess-back"></div>
                     <div id="rating 5" class="rating"></div>
                 </div>
                 <div class="col">
+                    <div class="guess-back"></div>
                     <div id="actors 5" class="actors"></div>
+                </div>
+                <div class="col">
+                    <div class="guess-back"></div>
+                    <div id="company 5" class="company"></div>
                 </div>
             </div>
         </div>
@@ -149,19 +201,28 @@
         <div class="center">
             <div id="guess-row 6" class="row ">
                 <div class="col">
+                    <div class="guess-back"></div>
                     <div id="year 6" class="year"></div>
                 </div>
                 <div class="col">
-                    <div id="duration 6" class="duration"></div>
+                    <div class="guess-back"></div>
+                    <div id="directors 6" class="directors"></div>
                 </div>
                 <div class="col">
+                    <div class="guess-back"></div>
                     <div id="genres 6" class="genres"></div>
                 </div>
                 <div class="col">
+                    <div class="guess-back"></div>
                     <div id="rating 6" class="rating"></div>
                 </div>
                 <div class="col">
+                    <div class="guess-back"></div>
                     <div id="actors 6" class="actors"></div>
+                </div>
+                <div class="col">
+                    <div class="guess-back"></div>
+                    <div id="company 6" class="company"></div>
                 </div>
             </div>
         </div>
@@ -169,19 +230,28 @@
         <div class="center">
             <div id="guess-row 7" class="row ">
                 <div class="col">
+                    <div class="guess-back"></div>
                     <div id="year 7" class="year"></div>
                 </div>
                 <div class="col">
-                    <div id="duration 7" class="duration"></div>
+                    <div class="guess-back"></div>
+                    <div id="directors 7" class="directors"></div>
                 </div>
                 <div class="col">
+                    <div class="guess-back"></div>
                     <div id="genres 7" class="genres"></div>
                 </div>
                 <div class="col">
+                    <div class="guess-back"></div>
                     <div id="rating 7" class="rating"></div>
                 </div>
                 <div class="col">
+                    <div class="guess-back"></div>
                     <div id="actors 7" class="actors"></div>
+                </div>
+                <div class="col">
+                    <div class="guess-back"></div>
+                    <div id="company 7" class="company"></div>
                 </div>
             </div>
         </div>
