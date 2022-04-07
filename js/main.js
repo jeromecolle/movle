@@ -176,7 +176,7 @@ function guess(g){
         if (guessed_film.averageRating < answer.averageRating){
             rating_result += " &#8593";
         }
-        else if (guessed_film.startYear > answer.startYear){
+        else if (guessed_film.averageRating > answer.averageRating){
             rating_result += " &#8595"
         }
         else {
@@ -207,6 +207,8 @@ function guess(g){
         // Set guess
         g_name = document.getElementById("guess " + String(guesses));
         g_name.innerHTML = getFilmString(guessed_film) + ": "
+
+        $('gere').FluidFontType({ phraseMode: true});
     }
 
 }

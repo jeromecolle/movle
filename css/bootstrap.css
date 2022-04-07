@@ -1,5 +1,6 @@
 html, body {
     height: 90%;
+    display: flexbox;
 }
 
 @font-face {
@@ -38,19 +39,39 @@ h1 {
 
 .col {
     background-color: white;
-    display: flex;
+    display:inline-flex;
     justify-content: center;
     align-items: center;
     margin: 5px;
-    padding: 5px;
+    padding:0;
     border: 2px solid #76A08A;
     border-radius: 10px;
     font-family: 'Oswald',sans-serif;
+    overflow:hidden;
+    text-overflow:ellipsis;
+    word-wrap: break-word;
+    line-height: 1em;
+    max-height: 3em;
+    height: 3em;
+    font-size-adjust: .5;
+}
+
+#center-header {
+    height: 5%;
+}
+
+#guess-row .col {
+    border:none;
+    border-bottom: 2px solid #555;
+    border-radius: 0px;
+    font-size: x-small;
+    margin: 0 0;
+    padding: 0;
 }
 
 .row {
     display: table;
-    width: 30%;
+    width: 100%;
     margin: 0 auto;
     /* background-color:khaki; */
 }
@@ -58,7 +79,6 @@ h1 {
 .center {
     display: flex;
     justify-content: center;
-    height: 10%;
     width: 100%;
     padding: 5px;
     /* background-color:indianred; */
@@ -82,19 +102,20 @@ input[type=text]:focus, input[type=text]:active  {
     text-align: center;
     /* background-color: bisque; */
     padding: 5px;
-    margin: 5px;
+    margin: auto;
     height: 90%;
+    width:90%
 }
 
 .guess {
     display: flexbox;
-    height: 40%;
+    height: 25%;
     padding: 5px;
     /* background-color: blueviolet; */
 }
 
 .dropdown {
-    width: 30%;
+    /* width: 30%; */
     height: 100%;
     margin: auto;
     /* background-color: saddlebrown; */
@@ -160,6 +181,7 @@ background: #f3bd5f;
     font-weight: 700;
     font-size:x-small;
     overflow: hidden;
+    flex-shrink: 10;
 }
 
 .rating {
@@ -181,6 +203,10 @@ background: #f3bd5f;
 .guess-name {
     font-size: x-small;
     font-weight: 500;
+}
+
+#guess-row {
+    height:10px;
 }
 
 div:empty:before {
