@@ -16,8 +16,8 @@ var number_unicode = [
     "\u0034\uFE0F\u20E3"
 ];
 var green_tile = "🟩";
-var black_tile = "⬛"
-var orange_tile = "🟧"
+var black_tile = "⬛";
+var orange_tile = "🟧";
 
 var today = new Date();
 var date = String(today.getFullYear()+'-'+String((today.getMonth()+1)).padStart(2, '0')+'-'+String(today.getDate()).padStart(2, '0'));
