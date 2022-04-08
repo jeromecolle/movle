@@ -1,0 +1,5069 @@
+[
+    {
+        "actorList": "Morgan Freeman,Tim Robbins,William Sadler,Bob Gunton",
+        "averageRating": 9.3,
+        "genres": "Drama",
+        "primaryTitle": "The Shawshank Redemption",
+        "runtimeMinutes": 142,
+        "startYear": 1994,
+        "tconst": "tt0111161"
+    },
+    {
+        "actorList": "Marlon Brando,Al Pacino,Diane Keaton,James Caan",
+        "averageRating": 9.2,
+        "genres": "Crime,Drama",
+        "primaryTitle": "The Godfather",
+        "runtimeMinutes": 175,
+        "startYear": 1972,
+        "tconst": "tt0068646"
+    },
+    {
+        "actorList": "Christian Bale,Michael Caine,Aaron Eckhart,Heath Ledger",
+        "averageRating": 9.1,
+        "genres": "Action,Crime,Drama",
+        "primaryTitle": "The Dark Knight",
+        "runtimeMinutes": 152,
+        "startYear": 2008,
+        "tconst": "tt0468569"
+    },
+    {
+        "actorList": "Elijah Wood,Viggo Mortensen,Ian McKellen,Orlando Bloom",
+        "averageRating": 9.0,
+        "genres": "Action,Adventure,Drama",
+        "primaryTitle": "The Lord of the Rings: The Return of the King",
+        "runtimeMinutes": 201,
+        "startYear": 2003,
+        "tconst": "tt0167260"
+    },
+    {
+        "actorList": "Robert De Niro,Al Pacino,Robert Duvall,Diane Keaton",
+        "averageRating": 9.0,
+        "genres": "Crime,Drama",
+        "primaryTitle": "The Godfather: Part II",
+        "runtimeMinutes": 202,
+        "startYear": 1974,
+        "tconst": "tt0071562"
+    },
+    {
+        "actorList": "Ralph Fiennes,Liam Neeson,Ben Kingsley,Caroline Goodall",
+        "averageRating": 9.0,
+        "genres": "Biography,Drama,History",
+        "primaryTitle": "Schindler's List",
+        "runtimeMinutes": 195,
+        "startYear": 1993,
+        "tconst": "tt0108052"
+    },
+    {
+        "actorList": "Henry Fonda,Martin Balsam,Lee J. Cobb,John Fiedler",
+        "averageRating": 9.0,
+        "genres": "Crime,Drama",
+        "primaryTitle": "12 Angry Men",
+        "runtimeMinutes": 96,
+        "startYear": 1957,
+        "tconst": "tt0050083"
+    },
+    {
+        "actorList": "Sean Bean,Elijah Wood,Ian McKellen,Orlando Bloom",
+        "averageRating": 8.9,
+        "genres": "Action,Adventure,Drama",
+        "primaryTitle": "The Lord of the Rings: The Fellowship of the Ring",
+        "runtimeMinutes": 178,
+        "startYear": 2001,
+        "tconst": "tt0120737"
+    },
+    {
+        "actorList": "Samuel L. Jackson,Uma Thurman,John Travolta,Bruce Willis",
+        "averageRating": 8.9,
+        "genres": "Crime,Drama",
+        "primaryTitle": "Pulp Fiction",
+        "runtimeMinutes": 154,
+        "startYear": 1994,
+        "tconst": "tt0110912"
+    },
+    {
+        "actorList": "Elijah Wood,Viggo Mortensen,Ian McKellen,Orlando Bloom",
+        "averageRating": 8.8,
+        "genres": "Action,Adventure,Drama",
+        "primaryTitle": "The Lord of the Rings: The Two Towers",
+        "runtimeMinutes": 179,
+        "startYear": 2002,
+        "tconst": "tt0167261"
+    },
+    {
+        "actorList": "Clint Eastwood,Lee Van Cleef,Aldo Giuffrè,Eli Wallach",
+        "averageRating": 8.8,
+        "genres": "Adventure,Western",
+        "primaryTitle": "The Good, the Bad and the Ugly",
+        "runtimeMinutes": 161,
+        "startYear": 1966,
+        "tconst": "tt0060196"
+    },
+    {
+        "actorList": "Leonardo DiCaprio,Joseph Gordon-Levitt,Elliot Page,Ken Watanabe",
+        "averageRating": 8.8,
+        "genres": "Action,Adventure,Sci-Fi",
+        "primaryTitle": "Inception",
+        "runtimeMinutes": 148,
+        "startYear": 2010,
+        "tconst": "tt1375666"
+    },
+    {
+        "actorList": "Tom Hanks,Sally Field,Gary Sinise,Robin Wright",
+        "averageRating": 8.8,
+        "genres": "Drama,Romance",
+        "primaryTitle": "Forrest Gump",
+        "runtimeMinutes": 142,
+        "startYear": 1994,
+        "tconst": "tt0109830"
+    },
+    {
+        "actorList": "Brad Pitt,Meat Loaf,Edward Norton,Zach Grenier",
+        "averageRating": 8.8,
+        "genres": "Drama",
+        "primaryTitle": "Fight Club",
+        "runtimeMinutes": 139,
+        "startYear": 1999,
+        "tconst": "tt0137523"
+    },
+    {
+        "actorList": "Keanu Reeves,Laurence Fishburne,Carrie-Anne Moss,Hugo Weaving",
+        "averageRating": 8.7,
+        "genres": "Action,Sci-Fi",
+        "primaryTitle": "The Matrix",
+        "runtimeMinutes": 136,
+        "startYear": 1999,
+        "tconst": "tt0133093"
+    },
+    {
+        "actorList": "Harrison Ford,Carrie Fisher,Mark Hamill,Billy Dee Williams",
+        "averageRating": 8.7,
+        "genres": "Action,Adventure,Fantasy",
+        "primaryTitle": "Star Wars: Episode V - The Empire Strikes Back",
+        "runtimeMinutes": 124,
+        "startYear": 1980,
+        "tconst": "tt0080684"
+    },
+    {
+        "actorList": "Toshirô Mifune,Yukiko Shimazaki,Takashi Shimura,Keiko Tsushima",
+        "averageRating": 8.7,
+        "genres": "Action,Drama",
+        "primaryTitle": "Seven Samurai",
+        "runtimeMinutes": 207,
+        "startYear": 1954,
+        "tconst": "tt0047478"
+    },
+    {
+        "actorList": "Jack Nicholson,Louise Fletcher,Michael Berryman,Peter Brocco",
+        "averageRating": 8.7,
+        "genres": "Drama",
+        "primaryTitle": "One Flew Over the Cuckoo's Nest",
+        "runtimeMinutes": 133,
+        "startYear": 1975,
+        "tconst": "tt0073486"
+    },
+    {
+        "actorList": "James Stewart,Lionel Barrymore,Donna Reed,Thomas Mitchell",
+        "averageRating": 8.7,
+        "genres": "Drama,Family,Fantasy",
+        "primaryTitle": "It's a Wonderful Life",
+        "runtimeMinutes": 130,
+        "startYear": 1946,
+        "tconst": "tt0038650"
+    },
+    {
+        "actorList": "Matthew McConaughey,Anne Hathaway,Jessica Chastain,Mackenzie Foy",
+        "averageRating": 8.7,
+        "genres": "Adventure,Drama,Sci-Fi",
+        "primaryTitle": "Interstellar",
+        "runtimeMinutes": 169,
+        "startYear": 2014,
+        "tconst": "tt0816692"
+    },
+    {
+        "actorList": "Robert De Niro,Ray Liotta,Joe Pesci,Lorraine Bracco",
+        "averageRating": 8.7,
+        "genres": "Biography,Crime,Drama",
+        "primaryTitle": "Goodfellas",
+        "runtimeMinutes": 145,
+        "startYear": 1990,
+        "tconst": "tt0099685"
+    },
+    {
+        "actorList": "Jodie Foster,Anthony Hopkins,Lawrence A. Bonney,Kasi Lemmons",
+        "averageRating": 8.6,
+        "genres": "Crime,Drama,Thriller",
+        "primaryTitle": "The Silence of the Lambs",
+        "runtimeMinutes": 118,
+        "startYear": 1991,
+        "tconst": "tt0102926"
+    },
+    {
+        "actorList": "Adrien Brody,Frank Finlay,Emilia Fox,Thomas Kretschmann",
+        "averageRating": 8.6,
+        "genres": "Biography,Drama,Music",
+        "primaryTitle": "The Pianist",
+        "runtimeMinutes": 150,
+        "startYear": 2002,
+        "tconst": "tt0253474"
+    },
+    {
+        "actorList": "Tom Hanks,Bonnie Hunt,David Morse,Michael Clarke Duncan",
+        "averageRating": 8.6,
+        "genres": "Crime,Drama,Fantasy",
+        "primaryTitle": "The Green Mile",
+        "runtimeMinutes": 189,
+        "startYear": 1999,
+        "tconst": "tt0120689"
+    },
+    {
+        "actorList": "Linda Hamilton,Arnold Schwarzenegger,Edward Furlong,Robert Patrick",
+        "averageRating": 8.6,
+        "genres": "Action,Sci-Fi",
+        "primaryTitle": "Terminator 2: Judgment Day",
+        "runtimeMinutes": 137,
+        "startYear": 1991,
+        "tconst": "tt0103064"
+    },
+    {
+        "actorList": "Alec Guinness,Harrison Ford,Carrie Fisher,Mark Hamill",
+        "averageRating": 8.6,
+        "genres": "Action,Adventure,Fantasy",
+        "primaryTitle": "Star Wars",
+        "runtimeMinutes": 121,
+        "startYear": 1977,
+        "tconst": "tt0076759"
+    },
+    {
+        "actorList": "Daveigh Chase,Rumi Hiiragi,Suzanne Pleshette,Miyu Irino",
+        "averageRating": 8.6,
+        "genres": "Adventure,Animation,Family",
+        "primaryTitle": "Spirited Away",
+        "runtimeMinutes": 125,
+        "startYear": 2001,
+        "tconst": "tt0245429"
+    },
+    {
+        "actorList": "Brad Pitt,Morgan Freeman,Kevin Spacey,Andrew Kevin Walker",
+        "averageRating": 8.6,
+        "genres": "Crime,Drama,Mystery",
+        "primaryTitle": "Se7en",
+        "runtimeMinutes": 127,
+        "startYear": 1995,
+        "tconst": "tt0114369"
+    },
+    {
+        "actorList": "Tom Hanks,Matt Damon,Tom Sizemore,Edward Burns",
+        "averageRating": 8.6,
+        "genres": "Drama,War",
+        "primaryTitle": "Saving Private Ryan",
+        "runtimeMinutes": 169,
+        "startYear": 1998,
+        "tconst": "tt0120815"
+    },
+    {
+        "actorList": "Gary Oldman,Natalie Portman,Jean Reno,Danny Aiello",
+        "averageRating": 8.6,
+        "genres": "Action,Crime,Drama",
+        "primaryTitle": "Léon: The Professional",
+        "runtimeMinutes": 110,
+        "startYear": 1994,
+        "tconst": "tt0110413"
+    },
+    {
+        "actorList": "Matheus Nachtergaele,Leandro Firmino,Alexandre Rodrigues,Phellipe Haagensen",
+        "averageRating": 8.6,
+        "genres": "Crime,Drama",
+        "primaryTitle": "City of God",
+        "runtimeMinutes": 130,
+        "startYear": 2002,
+        "tconst": "tt0317248"
+    },
+    {
+        "actorList": "Michael J. Fox,Crispin Glover,Christopher Lloyd,Lea Thompson",
+        "averageRating": 8.6,
+        "genres": "Adventure,Comedy,Sci-Fi",
+        "primaryTitle": "Back to the Future",
+        "runtimeMinutes": 116,
+        "startYear": 1985,
+        "tconst": "tt0088763"
+    },
+    {
+        "actorList": "Paul Reiser,J.K. Simmons,Miles Teller,Melissa Benoist",
+        "averageRating": 8.5,
+        "genres": "Drama,Music",
+        "primaryTitle": "Whiplash",
+        "runtimeMinutes": 106,
+        "startYear": 2014,
+        "tconst": "tt2582802"
+    },
+    {
+        "actorList": "Kevin Spacey,Stephen Baldwin,Gabriel Byrne,Chazz Palminteri",
+        "averageRating": 8.5,
+        "genres": "Crime,Drama,Mystery",
+        "primaryTitle": "The Usual Suspects",
+        "runtimeMinutes": 106,
+        "startYear": 1995,
+        "tconst": "tt0114814"
+    },
+    {
+        "actorList": "Christian Bale,Michael Caine,Hugh Jackman,Scarlett Johansson",
+        "averageRating": 8.5,
+        "genres": "Drama,Mystery,Thriller",
+        "primaryTitle": "The Prestige",
+        "runtimeMinutes": 130,
+        "startYear": 2006,
+        "tconst": "tt0482571"
+    },
+    {
+        "actorList": "Matthew Broderick,Whoopi Goldberg,Jeremy Irons,James Earl Jones",
+        "averageRating": 8.5,
+        "genres": "Adventure,Animation,Drama",
+        "primaryTitle": "The Lion King",
+        "runtimeMinutes": 88,
+        "startYear": 1994,
+        "tconst": "tt0110357"
+    },
+    {
+        "actorList": "François Cluzet,Anne Le Ny,Omar Sy,Audrey Fleurot",
+        "averageRating": 8.5,
+        "genres": "Biography,Comedy,Drama",
+        "primaryTitle": "The Intouchables",
+        "runtimeMinutes": 112,
+        "startYear": 2011,
+        "tconst": "tt1675434"
+    },
+    {
+        "actorList": "Leonardo DiCaprio,Jack Nicholson,Mark Wahlberg,Matt Damon",
+        "averageRating": 8.5,
+        "genres": "Crime,Drama,Thriller",
+        "primaryTitle": "The Departed",
+        "runtimeMinutes": 151,
+        "startYear": 2006,
+        "tconst": "tt0407887"
+    },
+    {
+        "actorList": "Benedict Cumberbatch,Zendaya,Tom Holland,Jacob Batalon",
+        "averageRating": 8.5,
+        "genres": "Action,Adventure,Fantasy",
+        "primaryTitle": "Spider-Man: No Way Home",
+        "runtimeMinutes": 148,
+        "startYear": 2021,
+        "tconst": "tt10872600"
+    },
+    {
+        "actorList": "Grace Kelly,James Stewart,Wendell Corey,Thelma Ritter",
+        "averageRating": 8.5,
+        "genres": "Mystery,Thriller",
+        "primaryTitle": "Rear Window",
+        "runtimeMinutes": 112,
+        "startYear": 1954,
+        "tconst": "tt0047396"
+    },
+    {
+        "actorList": "Anthony Perkins,John Gavin,Janet Leigh,Vera Miles",
+        "averageRating": 8.5,
+        "genres": "Horror,Mystery,Thriller",
+        "primaryTitle": "Psycho",
+        "runtimeMinutes": 109,
+        "startYear": 1960,
+        "tconst": "tt0054215"
+    },
+    {
+        "actorList": "Kang-ho Song,Sun-kyun Lee,Yeo-jeong Cho,Choi Woo-sik",
+        "averageRating": 8.5,
+        "genres": "Comedy,Drama,Thriller",
+        "primaryTitle": "Parasite",
+        "runtimeMinutes": 132,
+        "startYear": 2019,
+        "tconst": "tt6751668"
+    },
+    {
+        "actorList": "Henry Fonda,Charles Bronson,Claudia Cardinale,Jason Robards",
+        "averageRating": 8.5,
+        "genres": "Western",
+        "primaryTitle": "Once Upon a Time in the West",
+        "runtimeMinutes": 165,
+        "startYear": 1968,
+        "tconst": "tt0064116"
+    },
+    {
+        "actorList": "Joe Pantoliano,Guy Pearce,Carrie-Anne Moss,Mark Boone Junior",
+        "averageRating": 8.5,
+        "genres": "Mystery,Thriller",
+        "primaryTitle": "Memento",
+        "runtimeMinutes": 113,
+        "startYear": 2000,
+        "tconst": "tt0209144"
+    },
+    {
+        "actorList": "Russell Crowe,Connie Nielsen,Joaquin Phoenix,Oliver Reed",
+        "averageRating": 8.5,
+        "genres": "Action,Adventure,Drama",
+        "primaryTitle": "Gladiator",
+        "runtimeMinutes": 155,
+        "startYear": 2000,
+        "tconst": "tt0172495"
+    },
+    {
+        "actorList": "Leonardo DiCaprio,Jamie Foxx,Christoph Waltz,Kerry Washington",
+        "averageRating": 8.5,
+        "genres": "Drama,Western",
+        "primaryTitle": "Django Unchained",
+        "runtimeMinutes": 165,
+        "startYear": 2012,
+        "tconst": "tt1853728"
+    },
+    {
+        "actorList": "Ingrid Bergman,Humphrey Bogart,Claude Rains,Paul Henreid",
+        "averageRating": 8.5,
+        "genres": "Drama,Romance,War",
+        "primaryTitle": "Casablanca",
+        "runtimeMinutes": 102,
+        "startYear": 1942,
+        "tconst": "tt0034583"
+    },
+    {
+        "actorList": "Robert Downey Jr.,Chris Evans,Mark Ruffalo,Chris Hemsworth",
+        "averageRating": 8.5,
+        "genres": "Action,Adventure,Sci-Fi",
+        "primaryTitle": "Avengers: Infinity War",
+        "runtimeMinutes": 149,
+        "startYear": 2018,
+        "tconst": "tt4154756"
+    },
+    {
+        "actorList": "Marlon Brando,Robert Duvall,Martin Sheen,Frederic Forrest",
+        "averageRating": 8.5,
+        "genres": "Drama,Mystery,War",
+        "primaryTitle": "Apocalypse Now",
+        "runtimeMinutes": 147,
+        "startYear": 1979,
+        "tconst": "tt0078788"
+    },
+    {
+        "actorList": "Beverly D'Angelo,Edward Furlong,Jennifer Lien,Edward Norton",
+        "averageRating": 8.5,
+        "genres": "Drama",
+        "primaryTitle": "American History X",
+        "runtimeMinutes": 119,
+        "startYear": 1998,
+        "tconst": "tt0120586"
+    },
+    {
+        "actorList": "Sigourney Weaver,John Hurt,Tom Skerritt,Veronica Cartwright",
+        "averageRating": 8.5,
+        "genres": "Horror,Sci-Fi",
+        "primaryTitle": "Alien",
+        "runtimeMinutes": 117,
+        "startYear": 1979,
+        "tconst": "tt0078748"
+    },
+    {
+        "actorList": "Ben Burtt,Jeff Garlin,Fred Willard,Elissa Knight",
+        "averageRating": 8.4,
+        "genres": "Adventure,Animation,Family",
+        "primaryTitle": "WALL·E",
+        "runtimeMinutes": 98,
+        "startYear": 2008,
+        "tconst": "tt0910970"
+    },
+    {
+        "actorList": "Jack Nicholson,Scatman Crothers,Shelley Duvall,Danny Lloyd",
+        "averageRating": 8.4,
+        "genres": "Drama,Horror",
+        "primaryTitle": "The Shining",
+        "runtimeMinutes": 146,
+        "startYear": 1980,
+        "tconst": "tt0081505"
+    },
+    {
+        "actorList": "Martina Gedeck,Sebastian Koch,Ulrich Mühe,Ulrich Tukur",
+        "averageRating": 8.4,
+        "genres": "Drama,Mystery,Thriller",
+        "primaryTitle": "The Lives of Others",
+        "runtimeMinutes": 137,
+        "startYear": 2006,
+        "tconst": "tt0405094"
+    },
+    {
+        "actorList": "Gary Oldman,Christian Bale,Anne Hathaway,Tom Hardy",
+        "averageRating": 8.4,
+        "genres": "Action,Crime,Drama",
+        "primaryTitle": "The Dark Knight Rises",
+        "runtimeMinutes": 164,
+        "startYear": 2012,
+        "tconst": "tt1345836"
+    },
+    {
+        "actorList": "Mahershala Ali,Jake Johnson,Hailee Steinfeld,Shameik Moore",
+        "averageRating": 8.4,
+        "genres": "Action,Adventure,Animation",
+        "primaryTitle": "Spider-Man: Into the Spider-Verse",
+        "runtimeMinutes": 117,
+        "startYear": 2018,
+        "tconst": "tt4633694"
+    },
+    {
+        "actorList": "Billy Crudup,Yuriko Ishida,Yôji Matsuda,Yûko Tanaka",
+        "averageRating": 8.4,
+        "genres": "Action,Adventure,Animation",
+        "primaryTitle": "Princess Mononoke",
+        "runtimeMinutes": 134,
+        "startYear": 1997,
+        "tconst": "tt0119698"
+    },
+    {
+        "actorList": "Robert De Niro,James Woods,Elizabeth McGovern,Treat Williams",
+        "averageRating": 8.4,
+        "genres": "Crime,Drama",
+        "primaryTitle": "Once Upon a Time in America",
+        "runtimeMinutes": 229,
+        "startYear": 1984,
+        "tconst": "tt0087843"
+    },
+    {
+        "actorList": "Choi Min-sik,Yoo Ji-Tae,Kim Byeong-Ok,Kang Hye-jeong",
+        "averageRating": 8.4,
+        "genres": "Action,Drama,Mystery",
+        "primaryTitle": "Old Boy",
+        "runtimeMinutes": 120,
+        "startYear": 2003,
+        "tconst": "tt0364569"
+    },
+    {
+        "actorList": "Harrison Ford,Karen Allen,Paul Freeman,John Rhys-Davies",
+        "averageRating": 8.4,
+        "genres": "Action,Adventure",
+        "primaryTitle": "Indiana Jones and the Raiders of the Lost Ark",
+        "runtimeMinutes": 115,
+        "startYear": 1981,
+        "tconst": "tt0082971"
+    },
+    {
+        "actorList": "Peter Sellers,Sterling Hayden,George C. Scott,Keenan Wynn",
+        "averageRating": 8.4,
+        "genres": "Comedy,War",
+        "primaryTitle": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+        "runtimeMinutes": 95,
+        "startYear": 1964,
+        "tconst": "tt0057012"
+    },
+    {
+        "actorList": "Benjamin Bratt,Alanna Ubach,Gael García Bernal,Anthony Gonzalez",
+        "averageRating": 8.4,
+        "genres": "Adventure,Animation,Comedy",
+        "primaryTitle": "Coco",
+        "runtimeMinutes": 105,
+        "startYear": 2017,
+        "tconst": "tt2380307"
+    },
+    {
+        "actorList": "Mel Gibson,Sophie Marceau,Patrick McGoohan,Angus Macfadyen",
+        "averageRating": 8.4,
+        "genres": "Biography,Drama,History",
+        "primaryTitle": "Braveheart",
+        "runtimeMinutes": 178,
+        "startYear": 1995,
+        "tconst": "tt0112573"
+    },
+    {
+        "actorList": "Robert Downey Jr.,Chris Evans,Mark Ruffalo,Chris Hemsworth",
+        "averageRating": 8.4,
+        "genres": "Action,Adventure,Drama",
+        "primaryTitle": "Avengers: Endgame",
+        "runtimeMinutes": 181,
+        "startYear": 2019,
+        "tconst": "tt4154796"
+    },
+    {
+        "actorList": "Kevin Spacey,Thora Birch,Annette Bening,Wes Bentley",
+        "averageRating": 8.4,
+        "genres": "Drama",
+        "primaryTitle": "American Beauty",
+        "runtimeMinutes": 122,
+        "startYear": 1999,
+        "tconst": "tt0169547"
+    },
+    {
+        "actorList": "F. Murray Abraham,Elizabeth Berridge,Tom Hulce,Roy Dotrice",
+        "averageRating": 8.4,
+        "genres": "Biography,Drama,Music",
+        "primaryTitle": "Amadeus",
+        "runtimeMinutes": 160,
+        "startYear": 1984,
+        "tconst": "tt0086879"
+    },
+    {
+        "actorList": "Sigourney Weaver,Michael Biehn,Carrie Henn,Paul Reiser",
+        "averageRating": 8.4,
+        "genres": "Action,Adventure,Sci-Fi",
+        "primaryTitle": "Aliens",
+        "runtimeMinutes": 137,
+        "startYear": 1986,
+        "tconst": "tt0090605"
+    },
+    {
+        "actorList": "James Stewart,Barbara Bel Geddes,Kim Novak,Tom Helmore",
+        "averageRating": 8.3,
+        "genres": "Mystery,Romance,Thriller",
+        "primaryTitle": "Vertigo",
+        "runtimeMinutes": 128,
+        "startYear": 1958,
+        "tconst": "tt0052357"
+    },
+    {
+        "actorList": "Edward Asner,Christopher Plummer,John Ratzenberger,Jordan Nagai",
+        "averageRating": 8.3,
+        "genres": "Adventure,Animation,Comedy",
+        "primaryTitle": "Up",
+        "runtimeMinutes": 96,
+        "startYear": 2009,
+        "tconst": "tt1049413"
+    },
+    {
+        "actorList": "Tom Hanks,Joan Cusack,Tim Allen,Ned Beatty",
+        "averageRating": 8.3,
+        "genres": "Adventure,Animation,Comedy",
+        "primaryTitle": "Toy Story 3",
+        "runtimeMinutes": 103,
+        "startYear": 2010,
+        "tconst": "tt0435761"
+    },
+    {
+        "actorList": "Gregory Peck,John Megna,Rosemary Murphy,Frank Overton",
+        "averageRating": 8.3,
+        "genres": "Crime,Drama",
+        "primaryTitle": "To Kill a Mockingbird",
+        "runtimeMinutes": 129,
+        "startYear": 1962,
+        "tconst": "tt0056592"
+    },
+    {
+        "actorList": "Thomas Bo Larsen,Mads Mikkelsen,Annika Wedderkopp,Lasse Fogelstrøm",
+        "averageRating": 8.3,
+        "genres": "Drama",
+        "primaryTitle": "The Hunt",
+        "runtimeMinutes": 115,
+        "startYear": 2012,
+        "tconst": "tt2106476"
+    },
+    {
+        "actorList": "Colin Farrell,Jeffrey Wright,Robert Pattinson,Zoë Kravitz",
+        "averageRating": 8.3,
+        "genres": "Action,Crime,Drama",
+        "primaryTitle": "The Batman",
+        "runtimeMinutes": 176,
+        "startYear": 2022,
+        "tconst": "tt1877830"
+    },
+    {
+        "actorList": "Harrison Ford,Carrie Fisher,Mark Hamill,Billy Dee Williams",
+        "averageRating": 8.3,
+        "genres": "Action,Adventure,Fantasy",
+        "primaryTitle": "Star Wars: Episode VI - Return of the Jedi",
+        "runtimeMinutes": 131,
+        "startYear": 1983,
+        "tconst": "tt0086190"
+    },
+    {
+        "actorList": "Brad Pitt,Vinnie Jones,Jason Statham,Stephen Graham",
+        "averageRating": 8.3,
+        "genres": "Comedy,Crime",
+        "primaryTitle": "Snatch",
+        "runtimeMinutes": 104,
+        "startYear": 2000,
+        "tconst": "tt0208092"
+    },
+    {
+        "actorList": "Al Pacino,Michelle Pfeiffer,Steven Bauer,Mary Elizabeth Mastrantonio",
+        "averageRating": 8.3,
+        "genres": "Crime,Drama",
+        "primaryTitle": "Scarface",
+        "runtimeMinutes": 170,
+        "startYear": 1983,
+        "tconst": "tt0086250"
+    },
+    {
+        "actorList": "Harvey Keitel,Michael Madsen,Tim Roth,Chris Penn",
+        "averageRating": 8.3,
+        "genres": "Crime,Drama,Thriller",
+        "primaryTitle": "Reservoir Dogs",
+        "runtimeMinutes": 99,
+        "startYear": 1992,
+        "tconst": "tt0105236"
+    },
+    {
+        "actorList": "Jennifer Connelly,Ellen Burstyn,Jared Leto,Marlon Wayans",
+        "averageRating": 8.3,
+        "genres": "Drama",
+        "primaryTitle": "Requiem for a Dream",
+        "runtimeMinutes": 102,
+        "startYear": 2000,
+        "tconst": "tt0180093"
+    },
+    {
+        "actorList": "Cary Grant,James Mason,Eva Marie Saint,Jessie Royce Landis",
+        "averageRating": 8.3,
+        "genres": "Adventure,Mystery,Thriller",
+        "primaryTitle": "North by Northwest",
+        "runtimeMinutes": 136,
+        "startYear": 1959,
+        "tconst": "tt0053125"
+    },
+    {
+        "actorList": "Kim Basinger,Russell Crowe,Kevin Spacey,Guy Pearce",
+        "averageRating": 8.3,
+        "genres": "Crime,Drama,Mystery",
+        "primaryTitle": "L.A. Confidential",
+        "runtimeMinutes": 138,
+        "startYear": 1997,
+        "tconst": "tt0119488"
+    },
+    {
+        "actorList": "Brad Pitt,Mélanie Laurent,Eli Roth,Diane Kruger",
+        "averageRating": 8.3,
+        "genres": "Adventure,Drama,War",
+        "primaryTitle": "Inglourious Basterds",
+        "runtimeMinutes": 153,
+        "startYear": 2009,
+        "tconst": "tt0361748"
+    },
+    {
+        "actorList": "Sean Connery,Harrison Ford,Denholm Elliott,Alison Doody",
+        "averageRating": 8.3,
+        "genres": "Action,Adventure",
+        "primaryTitle": "Indiana Jones and the Last Crusade",
+        "runtimeMinutes": 127,
+        "startYear": 1989,
+        "tconst": "tt0097576"
+    },
+    {
+        "actorList": "Robert De Niro,Val Kilmer,Al Pacino,Jon Voight",
+        "averageRating": 8.3,
+        "genres": "Action,Crime,Drama",
+        "primaryTitle": "Heat",
+        "runtimeMinutes": 170,
+        "startYear": 1995,
+        "tconst": "tt0113277"
+    },
+    {
+        "actorList": "Robin Williams,Ben Affleck,Matt Damon,Stellan Skarsgård",
+        "averageRating": 8.3,
+        "genres": "Drama,Romance",
+        "primaryTitle": "Good Will Hunting",
+        "runtimeMinutes": 126,
+        "startYear": 1997,
+        "tconst": "tt0119217"
+    },
+    {
+        "actorList": "Adam Baldwin,Vincent D'Onofrio,R. Lee Ermey,Matthew Modine",
+        "averageRating": 8.3,
+        "genres": "Drama,War",
+        "primaryTitle": "Full Metal Jacket",
+        "runtimeMinutes": 116,
+        "startYear": 1987,
+        "tconst": "tt0093058"
+    },
+    {
+        "actorList": "Jim Carrey,Kate Winslet,Gerry Robert Byrne,Tom Wilkinson",
+        "averageRating": 8.3,
+        "genres": "Drama,Romance,Sci-Fi",
+        "primaryTitle": "Eternal Sunshine of the Spotless Mind",
+        "runtimeMinutes": 108,
+        "startYear": 2004,
+        "tconst": "tt0338013"
+    },
+    {
+        "actorList": "Bruce Willis,Alan Rickman,Bonnie Bedelia,Reginald VelJohnson",
+        "averageRating": 8.3,
+        "genres": "Action,Thriller",
+        "primaryTitle": "Die Hard",
+        "runtimeMinutes": 132,
+        "startYear": 1988,
+        "tconst": "tt0095016"
+    },
+    {
+        "actorList": "Orson Welles,Joseph Cotten,Agnes Moorehead,Dorothy Comingore",
+        "averageRating": 8.3,
+        "genres": "Drama,Mystery",
+        "primaryTitle": "Citizen Kane",
+        "runtimeMinutes": 119,
+        "startYear": 1941,
+        "tconst": "tt0033467"
+    },
+    {
+        "actorList": "Christian Bale,Michael Caine,Liam Neeson,Ken Watanabe",
+        "averageRating": 8.3,
+        "genres": "Action,Crime,Drama",
+        "primaryTitle": "Batman Begins",
+        "runtimeMinutes": 140,
+        "startYear": 2005,
+        "tconst": "tt0372784"
+    },
+    {
+        "actorList": "Lorella Cravotta,Mathieu Kassovitz,Rufus,Audrey Tautou",
+        "averageRating": 8.3,
+        "genres": "Comedy,Romance",
+        "primaryTitle": "Amélie",
+        "runtimeMinutes": 122,
+        "startYear": 2001,
+        "tconst": "tt0211915"
+    },
+    {
+        "actorList": "Malcolm McDowell,Michael Bates,Warren Clarke,Patrick Magee",
+        "averageRating": 8.3,
+        "genres": "Crime,Sci-Fi",
+        "primaryTitle": "A Clockwork Orange",
+        "runtimeMinutes": 136,
+        "startYear": 1971,
+        "tconst": "tt0066921"
+    },
+    {
+        "actorList": "Keir Dullea,Gary Lockwood,Daniel Richter,William Sylvester",
+        "averageRating": 8.3,
+        "genres": "Adventure,Sci-Fi",
+        "primaryTitle": "2001: A Space Odyssey",
+        "runtimeMinutes": 149,
+        "startYear": 1968,
+        "tconst": "tt0062622"
+    },
+    {
+        "actorList": "Colin Firth,Daniel Mays,George MacKay,Dean-Charles Chapman",
+        "averageRating": 8.3,
+        "genres": "Action,Drama,War",
+        "primaryTitle": "1917",
+        "runtimeMinutes": 119,
+        "startYear": 2019,
+        "tconst": "tt8579674"
+    },
+    {
+        "actorList": "Natalie Portman,Rupert Graves,Stephen Rea,Hugo Weaving",
+        "averageRating": 8.2,
+        "genres": "Action,Drama,Sci-Fi",
+        "primaryTitle": "V for Vendetta",
+        "runtimeMinutes": 132,
+        "startYear": 2005,
+        "tconst": "tt0434409"
+    },
+    {
+        "actorList": "Clint Eastwood,Morgan Freeman,Gene Hackman,Richard Harris",
+        "averageRating": 8.2,
+        "genres": "Drama,Western",
+        "primaryTitle": "Unforgiven",
+        "runtimeMinutes": 130,
+        "startYear": 1992,
+        "tconst": "tt0105695"
+    },
+    {
+        "actorList": "Ewan McGregor,Jonny Lee Miller,Ewen Bremner,Kevin McKidd",
+        "averageRating": 8.2,
+        "genres": "Drama",
+        "primaryTitle": "Trainspotting",
+        "runtimeMinutes": 93,
+        "startYear": 1996,
+        "tconst": "tt0117951"
+    },
+    {
+        "actorList": "Daniel Day-Lewis,Ciarán Hinds,Paul Dano,Martin Stringer",
+        "averageRating": 8.2,
+        "genres": "Drama",
+        "primaryTitle": "There Will Be Blood",
+        "runtimeMinutes": 158,
+        "startYear": 2007,
+        "tconst": "tt0469494"
+    },
+    {
+        "actorList": "Leonardo DiCaprio,Matthew McConaughey,Jonah Hill,Margot Robbie",
+        "averageRating": 8.2,
+        "genres": "Biography,Comedy,Crime",
+        "primaryTitle": "The Wolf of Wall Street",
+        "runtimeMinutes": 180,
+        "startYear": 2013,
+        "tconst": "tt0993846"
+    },
+    {
+        "actorList": "Jim Carrey,Ed Harris,Noah Emmerich,Laura Linney",
+        "averageRating": 8.2,
+        "genres": "Comedy,Drama",
+        "primaryTitle": "The Truman Show",
+        "runtimeMinutes": 103,
+        "startYear": 1998,
+        "tconst": "tt0120382"
+    },
+    {
+        "actorList": "Kurt Russell,Wilford Brimley,Keith David,Richard Masur",
+        "averageRating": 8.2,
+        "genres": "Horror,Mystery,Sci-Fi",
+        "primaryTitle": "The Thing",
+        "runtimeMinutes": 109,
+        "startYear": 1982,
+        "tconst": "tt0084787"
+    },
+    {
+        "actorList": "Bruce Willis,Toni Collette,Haley Joel Osment,Olivia Williams",
+        "averageRating": 8.2,
+        "genres": "Drama,Mystery,Thriller",
+        "primaryTitle": "The Sixth Sense",
+        "runtimeMinutes": 107,
+        "startYear": 1999,
+        "tconst": "tt0167404"
+    },
+    {
+        "actorList": "Leonardo DiCaprio,Ben Kingsley,Emily Mortimer,Mark Ruffalo",
+        "averageRating": 8.2,
+        "genres": "Mystery,Thriller",
+        "primaryTitle": "Shutter Island",
+        "runtimeMinutes": 138,
+        "startYear": 2010,
+        "tconst": "tt1130884"
+    },
+    {
+        "actorList": "Robert De Niro,Joe Pesci,Cathy Moriarty,Frank Vincent",
+        "averageRating": 8.2,
+        "genres": "Biography,Drama,Sport",
+        "primaryTitle": "Raging Bull",
+        "runtimeMinutes": 129,
+        "startYear": 1980,
+        "tconst": "tt0081398"
+    },
+    {
+        "actorList": "Ariadna Gil,Sergi López,Maribel Verdú,Ivana Baquero",
+        "averageRating": 8.2,
+        "genres": "Drama,Fantasy,War",
+        "primaryTitle": "Pan's Labyrinth",
+        "runtimeMinutes": 118,
+        "startYear": 2006,
+        "tconst": "tt0457430"
+    },
+    {
+        "actorList": "Tommy Lee Jones,Woody Harrelson,Javier Bardem,Josh Brolin",
+        "averageRating": 8.2,
+        "genres": "Crime,Drama,Thriller",
+        "primaryTitle": "No Country for Old Men",
+        "runtimeMinutes": 122,
+        "startYear": 2007,
+        "tconst": "tt0477348"
+    },
+    {
+        "actorList": "Noriko Hidaka,Shigesato Itoi,Chika Sakamoto,Hitoshi Takagi",
+        "averageRating": 8.2,
+        "genres": "Animation,Comedy,Family",
+        "primaryTitle": "My Neighbor Totoro",
+        "runtimeMinutes": 86,
+        "startYear": 1988,
+        "tconst": "tt0096283"
+    },
+    {
+        "actorList": "John Cleese,Terry Gilliam,Graham Chapman,Eric Idle",
+        "averageRating": 8.2,
+        "genres": "Adventure,Comedy,Fantasy",
+        "primaryTitle": "Monty Python and the Holy Grail",
+        "runtimeMinutes": 91,
+        "startYear": 1975,
+        "tconst": "tt0071853"
+    },
+    {
+        "actorList": "Jason Flemyng,Dexter Fletcher,Jason Statham,Nick Moran",
+        "averageRating": 8.2,
+        "genres": "Action,Comedy,Crime",
+        "primaryTitle": "Lock, Stock and Two Smoking Barrels",
+        "runtimeMinutes": 107,
+        "startYear": 1998,
+        "tconst": "tt0120735"
+    },
+    {
+        "actorList": "Uma Thurman,Daryl Hannah,Michael Madsen,David Carradine",
+        "averageRating": 8.2,
+        "genres": "Action,Crime,Drama",
+        "primaryTitle": "Kill Bill: Vol. 1",
+        "runtimeMinutes": 111,
+        "startYear": 2003,
+        "tconst": "tt0266697"
+    },
+    {
+        "actorList": "Jeff Goldblum,Richard Attenborough,Laura Dern,Sam Neill",
+        "averageRating": 8.2,
+        "genres": "Action,Adventure,Sci-Fi",
+        "primaryTitle": "Jurassic Park",
+        "runtimeMinutes": 127,
+        "startYear": 1993,
+        "tconst": "tt0107290"
+    },
+    {
+        "actorList": "Lewis Black,Bill Hader,Amy Poehler,Mindy Kaling",
+        "averageRating": 8.2,
+        "genres": "Adventure,Animation,Comedy",
+        "primaryTitle": "Inside Out",
+        "runtimeMinutes": 95,
+        "startYear": 2015,
+        "tconst": "tt2096673"
+    },
+    {
+        "actorList": "Chieko Baishô,Tatsuya Gashûin,Takuya Kimura,Akihiro Miwa",
+        "averageRating": 8.2,
+        "genres": "Adventure,Animation,Family",
+        "primaryTitle": "Howl's Moving Castle",
+        "runtimeMinutes": 119,
+        "startYear": 2004,
+        "tconst": "tt0347149"
+    },
+    {
+        "actorList": "Michael Gambon,Rupert Grint,Daniel Radcliffe,Emma Watson",
+        "averageRating": 8.2,
+        "genres": "Adventure,Fantasy,Mystery",
+        "primaryTitle": "Harry Potter and the Deathly Hallows: Part 2",
+        "runtimeMinutes": 130,
+        "startYear": 2011,
+        "tconst": "tt1201607"
+    },
+    {
+        "actorList": "Viggo Mortensen,Linda Cardellini,Mahershala Ali,Sebastian Maniscalco",
+        "averageRating": 8.2,
+        "genres": "Biography,Comedy,Drama",
+        "primaryTitle": "Green Book",
+        "runtimeMinutes": 130,
+        "startYear": 2018,
+        "tconst": "tt6966692"
+    },
+    {
+        "actorList": "Clark Gable,Vivien Leigh,Thomas Mitchell,Barbara O'Neil",
+        "averageRating": 8.2,
+        "genres": "Drama,History,Romance",
+        "primaryTitle": "Gone with the Wind",
+        "runtimeMinutes": 238,
+        "startYear": 1939,
+        "tconst": "tt0031381"
+    },
+    {
+        "actorList": "Willem Dafoe,Albert Brooks,Ellen DeGeneres,Alexander Gould",
+        "averageRating": 8.2,
+        "genres": "Adventure,Animation,Comedy",
+        "primaryTitle": "Finding Nemo",
+        "runtimeMinutes": 100,
+        "startYear": 2003,
+        "tconst": "tt0266543"
+    },
+    {
+        "actorList": "Bruno Ganz,Juliane Köhler,Alexandra Maria Lara,Ulrich Matthes",
+        "averageRating": 8.2,
+        "genres": "Biography,Drama,History",
+        "primaryTitle": "Downfall",
+        "runtimeMinutes": 156,
+        "startYear": 2004,
+        "tconst": "tt0363163"
+    },
+    {
+        "actorList": "Jack Nicholson,Faye Dunaway,John Huston,Perry Lopez",
+        "averageRating": 8.2,
+        "genres": "Drama,Mystery,Thriller",
+        "primaryTitle": "Chinatown",
+        "runtimeMinutes": 130,
+        "startYear": 1974,
+        "tconst": "tt0071315"
+    },
+    {
+        "actorList": "Robert De Niro,Sharon Stone,James Woods,Joe Pesci",
+        "averageRating": 8.2,
+        "genres": "Crime,Drama",
+        "primaryTitle": "Casino",
+        "runtimeMinutes": 178,
+        "startYear": 1995,
+        "tconst": "tt0112641"
+    },
+    {
+        "actorList": "Jennifer Connelly,Russell Crowe,Ed Harris,Christopher Plummer",
+        "averageRating": 8.2,
+        "genres": "Biography,Drama",
+        "primaryTitle": "A Beautiful Mind",
+        "runtimeMinutes": 135,
+        "startYear": 2001,
+        "tconst": "tt0268978"
+    },
+    {
+        "actorList": "Ben Affleck,Amy Adams,Henry Cavill,Gal Gadot",
+        "averageRating": 8.1,
+        "genres": "Action,Adventure,Fantasy",
+        "primaryTitle": "Zack Snyder's Justice League",
+        "runtimeMinutes": 242,
+        "startYear": 2021,
+        "tconst": "tt12361974"
+    },
+    {
+        "actorList": "Woody Harrelson,Frances McDormand,Sam Rockwell,Caleb Landry Jones",
+        "averageRating": 8.1,
+        "genres": "Comedy,Crime,Drama",
+        "primaryTitle": "Three Billboards Outside Ebbing, Missouri",
+        "runtimeMinutes": 115,
+        "startYear": 2017,
+        "tconst": "tt5027774"
+    },
+    {
+        "actorList": "Judy Garland,Ray Bolger,Bert Lahr,Frank Morgan",
+        "averageRating": 8.1,
+        "genres": "Adventure,Family,Fantasy",
+        "primaryTitle": "The Wizard of Oz",
+        "runtimeMinutes": 102,
+        "startYear": 1939,
+        "tconst": "tt0032138"
+    },
+    {
+        "actorList": "Linda Hamilton,Arnold Schwarzenegger,Michael Biehn,Paul Winfield",
+        "averageRating": 8.1,
+        "genres": "Action,Sci-Fi",
+        "primaryTitle": "The Terminator",
+        "runtimeMinutes": 107,
+        "startYear": 1984,
+        "tconst": "tt0088247"
+    },
+    {
+        "actorList": "Samuel L. Jackson,Holly Hunter,Jason Lee,Craig T. Nelson",
+        "averageRating": 8.1,
+        "genres": "Action,Adventure,Animation",
+        "primaryTitle": "The Incredibles",
+        "runtimeMinutes": 115,
+        "startYear": 2004,
+        "tconst": "tt0317705"
+    },
+    {
+        "actorList": "Viola Davis,Bryce Dallas Howard,Octavia Spencer,Emma Stone",
+        "averageRating": 8.1,
+        "genres": "Drama",
+        "primaryTitle": "The Help",
+        "runtimeMinutes": 146,
+        "startYear": 2011,
+        "tconst": "tt1454029"
+    },
+    {
+        "actorList": "Ralph Fiennes,F. Murray Abraham,Adrien Brody,Mathieu Amalric",
+        "averageRating": 8.1,
+        "genres": "Adventure,Comedy,Crime",
+        "primaryTitle": "The Grand Budapest Hotel",
+        "runtimeMinutes": 99,
+        "startYear": 2014,
+        "tconst": "tt2278388"
+    },
+    {
+        "actorList": "Linda Blair,Ellen Burstyn,Max von Sydow,Lee J. Cobb",
+        "averageRating": 8.1,
+        "genres": "Horror",
+        "primaryTitle": "The Exorcist",
+        "runtimeMinutes": 122,
+        "startYear": 1973,
+        "tconst": "tt0070047"
+    },
+    {
+        "actorList": "Robert De Niro,Christopher Walken,John Cazale,John Savage",
+        "averageRating": 8.1,
+        "genres": "Drama,War",
+        "primaryTitle": "The Deer Hunter",
+        "runtimeMinutes": 183,
+        "startYear": 1978,
+        "tconst": "tt0077416"
+    },
+    {
+        "actorList": "Steve Buscemi,Julianne Moore,Jeff Bridges,John Goodman",
+        "averageRating": 8.1,
+        "genres": "Comedy,Crime",
+        "primaryTitle": "The Big Lebowski",
+        "runtimeMinutes": 117,
+        "startYear": 1998,
+        "tconst": "tt0118715"
+    },
+    {
+        "actorList": "Robert Downey Jr.,Chris Evans,Scarlett Johansson,Jeremy Renner",
+        "averageRating": 8.1,
+        "genres": "Action,Adventure,Sci-Fi",
+        "primaryTitle": "The Avengers",
+        "runtimeMinutes": 143,
+        "startYear": 2012,
+        "tconst": "tt0848228"
+    },
+    {
+        "actorList": "River Phoenix,Corey Feldman,Wil Wheaton,Jerry O'Connell",
+        "averageRating": 8.1,
+        "genres": "Adventure,Drama",
+        "primaryTitle": "Stand by Me",
+        "runtimeMinutes": 89,
+        "startYear": 1986,
+        "tconst": "tt0092005"
+    },
+    {
+        "actorList": "Michael Keaton,Liev Schreiber,Mark Ruffalo,Rachel McAdams",
+        "averageRating": 8.1,
+        "genres": "Biography,Crime,Drama",
+        "primaryTitle": "Spotlight",
+        "runtimeMinutes": 129,
+        "startYear": 2015,
+        "tconst": "tt1895587"
+    },
+    {
+        "actorList": "Sean Bridgers,Wendy Crewson,Brie Larson,Jacob Tremblay",
+        "averageRating": 8.1,
+        "genres": "Drama,Thriller",
+        "primaryTitle": "Room",
+        "runtimeMinutes": 118,
+        "startYear": 2015,
+        "tconst": "tt3170832"
+    },
+    {
+        "actorList": "Ian Holm,Brad Garrett,Patton Oswalt,Lou Romano",
+        "averageRating": 8.1,
+        "genres": "Adventure,Animation,Comedy",
+        "primaryTitle": "Ratatouille",
+        "runtimeMinutes": 111,
+        "startYear": 2007,
+        "tconst": "tt0382932"
+    },
+    {
+        "actorList": "Viola Davis,Jake Gyllenhaal,Hugh Jackman,Melissa Leo",
+        "averageRating": 8.1,
+        "genres": "Crime,Drama,Mystery",
+        "primaryTitle": "Prisoners",
+        "runtimeMinutes": 153,
+        "startYear": 2013,
+        "tconst": "tt1392214"
+    },
+    {
+        "actorList": "Charlie Sheen,Tom Berenger,Willem Dafoe,Keith David",
+        "averageRating": 8.1,
+        "genres": "Drama,War",
+        "primaryTitle": "Platoon",
+        "runtimeMinutes": 120,
+        "startYear": 1986,
+        "tconst": "tt0091763"
+    },
+    {
+        "actorList": "Johnny Depp,Geoffrey Rush,Orlando Bloom,Keira Knightley",
+        "averageRating": 8.1,
+        "genres": "Action,Adventure,Fantasy",
+        "primaryTitle": "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "runtimeMinutes": 143,
+        "startYear": 2003,
+        "tconst": "tt0325980"
+    },
+    {
+        "actorList": "Steve Buscemi,Billy Crystal,John Goodman,Mary Gibbs",
+        "averageRating": 8.1,
+        "genres": "Adventure,Animation,Comedy",
+        "primaryTitle": "Monsters, Inc.",
+        "runtimeMinutes": 92,
+        "startYear": 2001,
+        "tconst": "tt0198781"
+    },
+    {
+        "actorList": "Clint Eastwood,Morgan Freeman,Hilary Swank,Jay Baruchel",
+        "averageRating": 8.1,
+        "genres": "Drama,Sport",
+        "primaryTitle": "Million Dollar Baby",
+        "runtimeMinutes": 132,
+        "startYear": 2004,
+        "tconst": "tt0405159"
+    },
+    {
+        "actorList": "Charlize Theron,Tom Hardy,Nicholas Hoult,Zoë Kravitz",
+        "averageRating": 8.1,
+        "genres": "Action,Adventure,Sci-Fi",
+        "primaryTitle": "Mad Max: Fury Road",
+        "runtimeMinutes": 120,
+        "startYear": 2015,
+        "tconst": "tt1392190"
+    },
+    {
+        "actorList": "Patrick Stewart,Hugh Jackman,Boyd Holbrook,Dafne Keen",
+        "averageRating": 8.1,
+        "genres": "Action,Drama,Sci-Fi",
+        "primaryTitle": "Logan",
+        "runtimeMinutes": 137,
+        "startYear": 2017,
+        "tconst": "tt3315342"
+    },
+    {
+        "actorList": "John Cleese,Terry Gilliam,Graham Chapman,Michael Palin",
+        "averageRating": 8.1,
+        "genres": "Comedy",
+        "primaryTitle": "Life of Brian",
+        "runtimeMinutes": 94,
+        "startYear": 1979,
+        "tconst": "tt0079470"
+    },
+    {
+        "actorList": "Richard Dreyfuss,Roy Scheider,Robert Shaw,Lorraine Gary",
+        "averageRating": 8.1,
+        "genres": "Adventure,Thriller",
+        "primaryTitle": "Jaws",
+        "runtimeMinutes": 124,
+        "startYear": 1975,
+        "tconst": "tt0073195"
+    },
+    {
+        "actorList": "Vince Vaughn,Marcia Gay Harden,Catherine Keener,Emile Hirsch",
+        "averageRating": 8.1,
+        "genres": "Adventure,Biography,Drama",
+        "primaryTitle": "Into the Wild",
+        "runtimeMinutes": 148,
+        "startYear": 2007,
+        "tconst": "tt0758758"
+    },
+    {
+        "actorList": "Jay Baruchel,Gerard Butler,Craig Ferguson,Christopher Mintz-Plasse",
+        "averageRating": 8.1,
+        "genres": "Action,Adventure,Animation",
+        "primaryTitle": "How to Train Your Dragon",
+        "runtimeMinutes": 98,
+        "startYear": 2010,
+        "tconst": "tt0892769"
+    },
+    {
+        "actorList": "Don Cheadle,Joaquin Phoenix,Sophie Okonedo,Xolani Mali",
+        "averageRating": 8.1,
+        "genres": "Biography,Drama,History",
+        "primaryTitle": "Hotel Rwanda",
+        "runtimeMinutes": 121,
+        "startYear": 2004,
+        "tconst": "tt0395169"
+    },
+    {
+        "actorList": "Sam Worthington,Andrew Garfield,Teresa Palmer,Luke Bracey",
+        "averageRating": 8.1,
+        "genres": "Biography,Drama,History",
+        "primaryTitle": "Hacksaw Ridge",
+        "runtimeMinutes": 139,
+        "startYear": 2016,
+        "tconst": "tt2119532"
+    },
+    {
+        "actorList": "Vin Diesel,Bradley Cooper,Chris Pratt,Zoe Saldana",
+        "averageRating": 8.1,
+        "genres": "Action,Adventure,Comedy",
+        "primaryTitle": "Guardians of the Galaxy",
+        "runtimeMinutes": 121,
+        "startYear": 2014,
+        "tconst": "tt2015381"
+    },
+    {
+        "actorList": "Bill Murray,Andie MacDowell,Chris Elliott,Stephen Tobolowsky",
+        "averageRating": 8.1,
+        "genres": "Comedy,Drama,Fantasy",
+        "primaryTitle": "Groundhog Day",
+        "runtimeMinutes": 101,
+        "startYear": 1993,
+        "tconst": "tt0107048"
+    },
+    {
+        "actorList": "Clint Eastwood,Christopher Carley,Bee Vang,Ahney Her",
+        "averageRating": 8.1,
+        "genres": "Drama",
+        "primaryTitle": "Gran Torino",
+        "runtimeMinutes": 116,
+        "startYear": 2008,
+        "tconst": "tt1205489"
+    },
+    {
+        "actorList": "Ben Affleck,Neil Patrick Harris,Rosamund Pike,Tyler Perry",
+        "averageRating": 8.1,
+        "genres": "Drama,Mystery,Thriller",
+        "primaryTitle": "Gone Girl",
+        "runtimeMinutes": 149,
+        "startYear": 2014,
+        "tconst": "tt2267998"
+    },
+    {
+        "actorList": "Christian Bale,Matt Damon,Jon Bernthal,Caitriona Balfe",
+        "averageRating": 8.1,
+        "genres": "Action,Biography,Drama",
+        "primaryTitle": "Ford v Ferrari",
+        "runtimeMinutes": 152,
+        "startYear": 2019,
+        "tconst": "tt1950186"
+    },
+    {
+        "actorList": "Steve Buscemi,William H. Macy,Frances McDormand,Peter Stormare",
+        "averageRating": 8.1,
+        "genres": "Crime,Thriller",
+        "primaryTitle": "Fargo",
+        "runtimeMinutes": 98,
+        "startYear": 1996,
+        "tconst": "tt0116282"
+    },
+    {
+        "actorList": "Rebecca Ferguson,Oscar Isaac,Timothée Chalamet,Zendaya",
+        "averageRating": 8.1,
+        "genres": "Action,Adventure,Drama",
+        "primaryTitle": "Dune",
+        "runtimeMinutes": 155,
+        "startYear": 2021,
+        "tconst": "tt1160419"
+    },
+    {
+        "actorList": "Ethan Hawke,Robin Williams,Robert Sean Leonard,Josh Charles",
+        "averageRating": 8.1,
+        "genres": "Comedy,Drama",
+        "primaryTitle": "Dead Poets Society",
+        "runtimeMinutes": 128,
+        "startYear": 1989,
+        "tconst": "tt0097165"
+    },
+    {
+        "actorList": "Leonardo DiCaprio,Tom Hanks,Martin Sheen,Christopher Walken",
+        "averageRating": 8.1,
+        "genres": "Biography,Crime,Drama",
+        "primaryTitle": "Catch Me If You Can",
+        "runtimeMinutes": 141,
+        "startYear": 2002,
+        "tconst": "tt0264464"
+    },
+    {
+        "actorList": "Harrison Ford,Rutger Hauer,Sean Young,Edward James Olmos",
+        "averageRating": 8.1,
+        "genres": "Action,Drama,Sci-Fi",
+        "primaryTitle": "Blade Runner",
+        "runtimeMinutes": 117,
+        "startYear": 1982,
+        "tconst": "tt0083658"
+    },
+    {
+        "actorList": "Robin Williams,Jonathan Freeman,Linda Larkin,Scott Weinger",
+        "averageRating": 8.1,
+        "genres": "Adventure,Animation,Comedy",
+        "primaryTitle": "Aladdin",
+        "runtimeMinutes": 90,
+        "startYear": 1992,
+        "tconst": "tt0103639"
+    },
+    {
+        "actorList": "Brad Pitt,Chiwetel Ejiofor,Michael Kenneth Williams,Michael Fassbender",
+        "averageRating": 8.1,
+        "genres": "Biography,Drama,History",
+        "primaryTitle": "12 Years a Slave",
+        "runtimeMinutes": 134,
+        "startYear": 2013,
+        "tconst": "tt2024544"
+    },
+    {
+        "actorList": "Jason Bateman,Idris Elba,Ginnifer Goodwin,Jenny Slate",
+        "averageRating": 8.0,
+        "genres": "Adventure,Animation,Comedy",
+        "primaryTitle": "Zootopia",
+        "runtimeMinutes": 108,
+        "startYear": 2016,
+        "tconst": "tt2948356"
+    },
+    {
+        "actorList": "Patrick Stewart,Ian McKellen,Hugh Jackman,James McAvoy",
+        "averageRating": 8.0,
+        "genres": "Action,Adventure,Sci-Fi",
+        "primaryTitle": "X-Men: Days of Future Past",
+        "runtimeMinutes": 132,
+        "startYear": 2014,
+        "tconst": "tt1877832"
+    },
+    {
+        "actorList": "Leonardo DiCaprio,Tom Hardy,Domhnall Gleeson,Will Poulter",
+        "averageRating": 8.0,
+        "genres": "Action,Adventure,Drama",
+        "primaryTitle": "The Revenant",
+        "runtimeMinutes": 156,
+        "startYear": 2015,
+        "tconst": "tt1663202"
+    },
+    {
+        "actorList": "Will Smith,Brian Howe,Thandiwe Newton,Jaden Smith",
+        "averageRating": 8.0,
+        "genres": "Biography,Drama",
+        "primaryTitle": "The Pursuit of Happyness",
+        "runtimeMinutes": 117,
+        "startYear": 2006,
+        "tconst": "tt0454921"
+    },
+    {
+        "actorList": "Cary Elwes,Robin Wright,Mandy Patinkin,Chris Sarandon",
+        "averageRating": 8.0,
+        "genres": "Adventure,Family,Fantasy",
+        "primaryTitle": "The Princess Bride",
+        "runtimeMinutes": 98,
+        "startYear": 1987,
+        "tconst": "tt0093779"
+    },
+    {
+        "actorList": "Logan Lerman,Paul Rudd,Emma Watson,Ezra Miller",
+        "averageRating": 8.0,
+        "genres": "Drama,Romance",
+        "primaryTitle": "The Perks of Being a Wallflower",
+        "runtimeMinutes": 103,
+        "startYear": 2012,
+        "tconst": "tt1659337"
+    },
+    {
+        "actorList": "Matt Damon,Kate Mara,Kristen Wiig,Jessica Chastain",
+        "averageRating": 8.0,
+        "genres": "Adventure,Drama,Sci-Fi",
+        "primaryTitle": "The Martian",
+        "runtimeMinutes": 144,
+        "startYear": 2015,
+        "tconst": "tt3659388"
+    },
+    {
+        "actorList": "Colin Firth,Helena Bonham Carter,Derek Jacobi,Geoffrey Rush",
+        "averageRating": 8.0,
+        "genres": "Biography,Drama,History",
+        "primaryTitle": "The King's Speech",
+        "runtimeMinutes": 118,
+        "startYear": 2010,
+        "tconst": "tt1504320"
+    },
+    {
+        "actorList": "Matthew Goode,Keira Knightley,Benedict Cumberbatch,Allen Leech",
+        "averageRating": 8.0,
+        "genres": "Biography,Drama,Thriller",
+        "primaryTitle": "The Imitation Game",
+        "runtimeMinutes": 114,
+        "startYear": 2014,
+        "tconst": "tt2084970"
+    },
+    {
+        "actorList": "Joan Allen,Matt Damon,Julia Stiles,Edgar Ramírez",
+        "averageRating": 8.0,
+        "genres": "Action,Mystery,Thriller",
+        "primaryTitle": "The Bourne Ultimatum",
+        "runtimeMinutes": 115,
+        "startYear": 2007,
+        "tconst": "tt0440963"
+    },
+    {
+        "actorList": "Leonard Nimoy,Simon Pegg,Zachary Quinto,Chris Pine",
+        "averageRating": 8.0,
+        "genres": "Action,Adventure,Sci-Fi",
+        "primaryTitle": "Star Trek",
+        "runtimeMinutes": 127,
+        "startYear": 2009,
+        "tconst": "tt0796366"
+    },
+    {
+        "actorList": "Anil Kapoor,Saurabh Shukla,Dev Patel,Freida Pinto",
+        "averageRating": 8.0,
+        "genres": "Drama,Romance",
+        "primaryTitle": "Slumdog Millionaire",
+        "runtimeMinutes": 120,
+        "startYear": 2008,
+        "tconst": "tt1010048"
+    },
+    {
+        "actorList": "Bruce Willis,Mickey Rourke,Jessica Alba,Clive Owen",
+        "averageRating": 8.0,
+        "genres": "Crime,Thriller",
+        "primaryTitle": "Sin City",
+        "runtimeMinutes": 124,
+        "startYear": 2005,
+        "tconst": "tt0401792"
+    },
+    {
+        "actorList": "Tom Cruise,Dustin Hoffman,Valeria Golino,Gerald R. Molen",
+        "averageRating": 8.0,
+        "genres": "Drama",
+        "primaryTitle": "Rain Man",
+        "runtimeMinutes": 133,
+        "startYear": 1988,
+        "tconst": "tt0095953"
+    },
+    {
+        "actorList": "Tom Cruise,Julianne Moore,Philip Seymour Hoffman,Jason Robards",
+        "averageRating": 8.0,
+        "genres": "Drama",
+        "primaryTitle": "Magnolia",
+        "runtimeMinutes": 188,
+        "startYear": 1999,
+        "tconst": "tt0175880"
+    },
+    {
+        "actorList": "Ryan Gosling,J.K. Simmons,Emma Stone,Rosemarie DeWitt",
+        "averageRating": 8.0,
+        "genres": "Comedy,Drama,Music",
+        "primaryTitle": "La La Land",
+        "runtimeMinutes": 128,
+        "startYear": 2016,
+        "tconst": "tt3783958"
+    },
+    {
+        "actorList": "Uma Thurman,Daryl Hannah,Michael Madsen,David Carradine",
+        "averageRating": 8.0,
+        "genres": "Action,Crime,Thriller",
+        "primaryTitle": "Kill Bill: Vol. 2",
+        "runtimeMinutes": 137,
+        "startYear": 2004,
+        "tconst": "tt0378194"
+    },
+    {
+        "actorList": "Joaquin Phoenix,Amy Adams,Scarlett Johansson,Rooney Mara",
+        "averageRating": 8.0,
+        "genres": "Drama,Romance,Sci-Fi",
+        "primaryTitle": "Her",
+        "runtimeMinutes": 126,
+        "startYear": 2013,
+        "tconst": "tt1798709"
+    },
+    {
+        "actorList": "Mary McDonnell,Jake Gyllenhaal,Jena Malone,Holmes Osborne",
+        "averageRating": 8.0,
+        "genres": "Drama,Mystery,Sci-Fi",
+        "primaryTitle": "Donnie Darko",
+        "runtimeMinutes": 113,
+        "startYear": 2001,
+        "tconst": "tt0246578"
+    },
+    {
+        "actorList": "Ryan Reynolds,Morena Baccarin,T.J. Miller,Ed Skrein",
+        "averageRating": 8.0,
+        "genres": "Action,Adventure,Comedy",
+        "primaryTitle": "Deadpool",
+        "runtimeMinutes": 108,
+        "startYear": 2016,
+        "tconst": "tt1431045"
+    },
+    {
+        "actorList": "Matthew McConaughey,Jared Leto,Steve Zahn,Jennifer Garner",
+        "averageRating": 8.0,
+        "genres": "Biography,Drama",
+        "primaryTitle": "Dallas Buyers Club",
+        "runtimeMinutes": 117,
+        "startYear": 2013,
+        "tconst": "tt0790636"
+    },
+    {
+        "actorList": "Judi Dench,Daniel Craig,Jeffrey Wright,Eva Green",
+        "averageRating": 8.0,
+        "genres": "Action,Adventure,Thriller",
+        "primaryTitle": "Casino Royale",
+        "runtimeMinutes": 144,
+        "startYear": 2006,
+        "tconst": "tt0381061"
+    },
+    {
+        "actorList": "Rami Malek,Lucy Boynton,Gwilym Lee,Ben Hardy",
+        "averageRating": 8.0,
+        "genres": "Biography,Drama,Music",
+        "primaryTitle": "Bohemian Rhapsody",
+        "runtimeMinutes": 134,
+        "startYear": 2018,
+        "tconst": "tt1727824"
+    },
+    {
+        "actorList": "Jennifer Connelly,Leonardo DiCaprio,Djimon Hounsou,Kagiso Kuypers",
+        "averageRating": 8.0,
+        "genres": "Adventure,Drama,Thriller",
+        "primaryTitle": "Blood Diamond",
+        "runtimeMinutes": 143,
+        "startYear": 2006,
+        "tconst": "tt0450259"
+    },
+    {
+        "actorList": "Harrison Ford,Ryan Gosling,Dave Bautista,Ana de Armas",
+        "averageRating": 8.0,
+        "genres": "Action,Drama,Mystery",
+        "primaryTitle": "Blade Runner 2049",
+        "runtimeMinutes": 164,
+        "startYear": 2017,
+        "tconst": "tt1856101"
+    },
+    {
+        "actorList": "Natalie Portman,Winona Ryder,Vincent Cassel,Mila Kunis",
+        "averageRating": 8.0,
+        "genres": "Drama,Thriller",
+        "primaryTitle": "Black Swan",
+        "runtimeMinutes": 108,
+        "startYear": 2010,
+        "tconst": "tt0947798"
+    },
+    {
+        "actorList": "Ewan McGregor,Billy Crudup,Albert Finney,Jessica Lange",
+        "averageRating": 8.0,
+        "genres": "Adventure,Drama,Fantasy",
+        "primaryTitle": "Big Fish",
+        "runtimeMinutes": 125,
+        "startYear": 2003,
+        "tconst": "tt0319061"
+    },
+    {
+        "actorList": "Brad Pitt,Bruce Willis,Madeleine Stowe,Joseph Melito",
+        "averageRating": 8.0,
+        "genres": "Mystery,Sci-Fi,Thriller",
+        "primaryTitle": "12 Monkeys",
+        "runtimeMinutes": 129,
+        "startYear": 1995,
+        "tconst": "tt0114746"
+    },
+    {
+        "actorList": "Tom Hanks,Joan Cusack,Tim Allen,Kelsey Grammer",
+        "averageRating": 7.9,
+        "genres": "Adventure,Animation,Comedy",
+        "primaryTitle": "Toy Story 2",
+        "runtimeMinutes": 92,
+        "startYear": 1999,
+        "tconst": "tt0120363"
+    },
+    {
+        "actorList": "Leonardo DiCaprio,Kate Winslet,Billy Zane,Kathy Bates",
+        "averageRating": 7.9,
+        "genres": "Drama,Romance",
+        "primaryTitle": "Titanic",
+        "runtimeMinutes": 194,
+        "startYear": 1997,
+        "tconst": "tt0120338"
+    },
+    {
+        "actorList": "Cate Blanchett,Mark Ruffalo,Tom Hiddleston,Chris Hemsworth",
+        "averageRating": 7.9,
+        "genres": "Action,Adventure,Comedy",
+        "primaryTitle": "Thor: Ragnarok",
+        "runtimeMinutes": 130,
+        "startYear": 2017,
+        "tconst": "tt3501632"
+    },
+    {
+        "actorList": "Mickey Rourke,Marisa Tomei,Mark Margolis,Evan Rachel Wood",
+        "averageRating": 7.9,
+        "genres": "Drama,Sport",
+        "primaryTitle": "The Wrestler",
+        "runtimeMinutes": 109,
+        "startYear": 2008,
+        "tconst": "tt1125849"
+    },
+    {
+        "actorList": "Sean Connery,Kevin Costner,Robert De Niro,Charles Martin Smith",
+        "averageRating": 7.9,
+        "genres": "Crime,Drama,Thriller",
+        "primaryTitle": "The Untouchables",
+        "runtimeMinutes": 119,
+        "startYear": 1987,
+        "tconst": "tt0094226"
+    },
+    {
+        "actorList": "Matt Damon,Franka Potente,Chris Cooper,Clive Owen",
+        "averageRating": 7.9,
+        "genres": "Action,Mystery,Thriller",
+        "primaryTitle": "The Bourne Identity",
+        "runtimeMinutes": 119,
+        "startYear": 2002,
+        "tconst": "tt0258463"
+    },
+    {
+        "actorList": "Oscar Isaac,Domhnall Gleeson,John Boyega,Daisy Ridley",
+        "averageRating": 7.9,
+        "genres": "Action,Adventure,Sci-Fi",
+        "primaryTitle": "Star Wars: Episode VII - The Force Awakens",
+        "runtimeMinutes": 138,
+        "startYear": 2015,
+        "tconst": "tt2488496"
+    },
+    {
+        "actorList": "Cameron Diaz,Mike Myers,Eddie Murphy,John Lithgow",
+        "averageRating": 7.9,
+        "genres": "Adventure,Animation,Comedy",
+        "primaryTitle": "Shrek",
+        "runtimeMinutes": 90,
+        "startYear": 2001,
+        "tconst": "tt0126029"
+    },
+    {
+        "actorList": "Kate Ashfield,Lucy Davis,Nick Frost,Simon Pegg",
+        "averageRating": 7.9,
+        "genres": "Comedy,Horror",
+        "primaryTitle": "Shaun of the Dead",
+        "runtimeMinutes": 99,
+        "startYear": 2004,
+        "tconst": "tt0365748"
+    },
+    {
+        "actorList": "Bill Paxton,Rene Russo,Jake Gyllenhaal,Riz Ahmed",
+        "averageRating": 7.9,
+        "genres": "Crime,Drama,Thriller",
+        "primaryTitle": "Nightcrawler",
+        "runtimeMinutes": 117,
+        "startYear": 2014,
+        "tconst": "tt2872718"
+    },
+    {
+        "actorList": "Kevin Bacon,Tim Robbins,Sean Penn,Emmy Rossum",
+        "averageRating": 7.9,
+        "genres": "Crime,Drama,Mystery",
+        "primaryTitle": "Mystic River",
+        "runtimeMinutes": 138,
+        "startYear": 2003,
+        "tconst": "tt0327056"
+    },
+    {
+        "actorList": "Laura Harring,Jeanne Bates,Justin Theroux,Naomi Watts",
+        "averageRating": 7.9,
+        "genres": "Drama,Mystery,Thriller",
+        "primaryTitle": "Mulholland Drive",
+        "runtimeMinutes": 147,
+        "startYear": 2001,
+        "tconst": "tt0166924"
+    },
+    {
+        "actorList": "Jamie Lee Curtis,Daniel Craig,Chris Evans,Ana de Armas",
+        "averageRating": 7.9,
+        "genres": "Comedy,Crime,Drama",
+        "primaryTitle": "Knives Out",
+        "runtimeMinutes": 130,
+        "startYear": 2019,
+        "tconst": "tt8946378"
+    },
+    {
+        "actorList": "Taika Waititi,Scarlett Johansson,Thomasin McKenzie,Roman Griffin Davis",
+        "averageRating": 7.9,
+        "genres": "Comedy,Drama,War",
+        "primaryTitle": "Jojo Rabbit",
+        "runtimeMinutes": 108,
+        "startYear": 2019,
+        "tconst": "tt2584384"
+    },
+    {
+        "actorList": "Jeff Bridges,Robert Downey Jr.,Gwyneth Paltrow,Terrence Howard",
+        "averageRating": 7.9,
+        "genres": "Action,Adventure,Sci-Fi",
+        "primaryTitle": "Iron Man",
+        "runtimeMinutes": 126,
+        "startYear": 2008,
+        "tconst": "tt0371746"
+    },
+    {
+        "actorList": "Ciarán Hinds,Elizabeth Berrington,Colin Farrell,Brendan Gleeson",
+        "averageRating": 7.9,
+        "genres": "Comedy,Crime,Drama",
+        "primaryTitle": "In Bruges",
+        "runtimeMinutes": 107,
+        "startYear": 2008,
+        "tconst": "tt0780536"
+    },
+    {
+        "actorList": "Richard Griffiths,Rupert Grint,Daniel Radcliffe,Emma Watson",
+        "averageRating": 7.9,
+        "genres": "Adventure,Family,Fantasy",
+        "primaryTitle": "Harry Potter and the Prisoner of Azkaban",
+        "runtimeMinutes": 142,
+        "startYear": 2004,
+        "tconst": "tt0304141"
+    },
+    {
+        "actorList": "Johnny Depp,Winona Ryder,Anthony Michael Hall,Dianne Wiest",
+        "averageRating": 7.9,
+        "genres": "Drama,Fantasy,Romance",
+        "primaryTitle": "Edward Scissorhands",
+        "runtimeMinutes": 105,
+        "startYear": 1990,
+        "tconst": "tt0099487"
+    },
+    {
+        "actorList": "Tom Cruise,Bill Paxton,Brendan Gleeson,Emily Blunt",
+        "averageRating": 7.9,
+        "genres": "Action,Adventure,Sci-Fi",
+        "primaryTitle": "Edge of Tomorrow",
+        "runtimeMinutes": 113,
+        "startYear": 2014,
+        "tconst": "tt1631867"
+    },
+    {
+        "actorList": "Drew Barrymore,Peter Coyote,Henry Thomas,Dee Wallace",
+        "averageRating": 7.9,
+        "genres": "Adventure,Family,Sci-Fi",
+        "primaryTitle": "E.T. the Extra-Terrestrial",
+        "runtimeMinutes": 115,
+        "startYear": 1982,
+        "tconst": "tt0083866"
+    },
+    {
+        "actorList": "Nathalie Boltt,Sharlto Copley,Jason Cope,David James",
+        "averageRating": 7.9,
+        "genres": "Action,Sci-Fi,Thriller",
+        "primaryTitle": "District 9",
+        "runtimeMinutes": 112,
+        "startYear": 2009,
+        "tconst": "tt1136608"
+    },
+    {
+        "actorList": "Julianne Moore,Michael Caine,Chiwetel Ejiofor,Clive Owen",
+        "averageRating": 7.9,
+        "genres": "Action,Drama,Sci-Fi",
+        "primaryTitle": "Children of Men",
+        "runtimeMinutes": 109,
+        "startYear": 2006,
+        "tconst": "tt0206634"
+    },
+    {
+        "actorList": "Patricia Arquette,Ethan Hawke,Ellar Coltrane,Elijah Smith",
+        "averageRating": 7.9,
+        "genres": "Drama",
+        "primaryTitle": "Boyhood",
+        "runtimeMinutes": 165,
+        "startYear": 2014,
+        "tconst": "tt1065073"
+    },
+    {
+        "actorList": "Michael J. Fox,Christopher Lloyd,Lea Thompson,Tom Wilson",
+        "averageRating": 7.9,
+        "genres": "Adventure,Comedy,Sci-Fi",
+        "primaryTitle": "Back to the Future Part II",
+        "runtimeMinutes": 108,
+        "startYear": 1989,
+        "tconst": "tt0096874"
+    },
+    {
+        "actorList": "Sigourney Weaver,Michelle Rodriguez,Zoe Saldana,Sam Worthington",
+        "averageRating": 7.9,
+        "genres": "Action,Adventure,Fantasy",
+        "primaryTitle": "Avatar",
+        "runtimeMinutes": 162,
+        "startYear": 2009,
+        "tconst": "tt0499549"
+    },
+    {
+        "actorList": "Forest Whitaker,Amy Adams,Jeremy Renner,Michael Stuhlbarg",
+        "averageRating": 7.9,
+        "genres": "Drama,Sci-Fi",
+        "primaryTitle": "Arrival",
+        "runtimeMinutes": 116,
+        "startYear": 2016,
+        "tconst": "tt2543164"
+    },
+    {
+        "actorList": "Justin Timberlake,Jesse Eisenberg,Rooney Mara,Andrew Garfield",
+        "averageRating": 7.8,
+        "genres": "Biography,Drama",
+        "primaryTitle": "The Social Network",
+        "runtimeMinutes": 120,
+        "startYear": 2010,
+        "tconst": "tt1285016"
+    },
+    {
+        "actorList": "James Garner,Gena Rowlands,Ryan Gosling,Rachel McAdams",
+        "averageRating": 7.8,
+        "genres": "Drama,Romance",
+        "primaryTitle": "The Notebook",
+        "runtimeMinutes": 123,
+        "startYear": 2004,
+        "tconst": "tt0332280"
+    },
+    {
+        "actorList": "Tom Cruise,William Atherton,Billy Connolly,Ken Watanabe",
+        "averageRating": 7.8,
+        "genres": "Action,Drama",
+        "primaryTitle": "The Last Samurai",
+        "runtimeMinutes": 154,
+        "startYear": 2003,
+        "tconst": "tt0325710"
+    },
+    {
+        "actorList": "Robert De Niro,Harvey Keitel,Al Pacino,Joe Pesci",
+        "averageRating": 7.8,
+        "genres": "Biography,Crime,Drama",
+        "primaryTitle": "The Irishman",
+        "runtimeMinutes": 209,
+        "startYear": 2019,
+        "tconst": "tt1302006"
+    },
+    {
+        "actorList": "Ian McKellen,Richard Armitage,Martin Freeman,Ken Stott",
+        "averageRating": 7.8,
+        "genres": "Adventure,Fantasy",
+        "primaryTitle": "The Hobbit: The Desolation of Smaug",
+        "runtimeMinutes": 161,
+        "startYear": 2013,
+        "tconst": "tt1170358"
+    },
+    {
+        "actorList": "Ian McKellen,Richard Armitage,Martin Freeman,Andy Serkis",
+        "averageRating": 7.8,
+        "genres": "Adventure,Fantasy",
+        "primaryTitle": "The Hobbit: An Unexpected Journey",
+        "runtimeMinutes": 169,
+        "startYear": 2012,
+        "tconst": "tt0903624"
+    },
+    {
+        "actorList": "Samuel L. Jackson,Jennifer Jason Leigh,Kurt Russell,Walton Goggins",
+        "averageRating": 7.8,
+        "genres": "Crime,Drama,Mystery",
+        "primaryTitle": "The Hateful Eight",
+        "runtimeMinutes": 168,
+        "startYear": 2015,
+        "tconst": "tt3460252"
+    },
+    {
+        "actorList": "Christopher Plummer,Stellan Skarsgård,Daniel Craig,Rooney Mara",
+        "averageRating": 7.8,
+        "genres": "Crime,Drama,Mystery",
+        "primaryTitle": "The Girl with the Dragon Tattoo",
+        "runtimeMinutes": 158,
+        "startYear": 2011,
+        "tconst": "tt1568346"
+    },
+    {
+        "actorList": "Matthew McConaughey,Charlie Hunnam,Jeremy Strong,Michelle Dockery",
+        "averageRating": 7.8,
+        "genres": "Action,Comedy,Crime",
+        "primaryTitle": "The Gentlemen",
+        "runtimeMinutes": 113,
+        "startYear": 2019,
+        "tconst": "tt8367814"
+    },
+    {
+        "actorList": "Michael Douglas,Sean Penn,Deborah Kara Unger,James Rebhorn",
+        "averageRating": 7.8,
+        "genres": "Drama,Mystery,Thriller",
+        "primaryTitle": "The Game",
+        "runtimeMinutes": 129,
+        "startYear": 1997,
+        "tconst": "tt0119174"
+    },
+    {
+        "actorList": "Brad Pitt,Julia Ormond,Cate Blanchett,Tilda Swinton",
+        "averageRating": 7.8,
+        "genres": "Drama,Fantasy,Romance",
+        "primaryTitle": "The Curious Case of Benjamin Button",
+        "runtimeMinutes": 166,
+        "startYear": 2008,
+        "tconst": "tt0421715"
+    },
+    {
+        "actorList": "Molly Ringwald,Emilio Estevez,Judd Nelson,Ally Sheedy",
+        "averageRating": 7.8,
+        "genres": "Comedy,Drama",
+        "primaryTitle": "The Breakfast Club",
+        "runtimeMinutes": 97,
+        "startYear": 1985,
+        "tconst": "tt0088847"
+    },
+    {
+        "actorList": "Brad Pitt,Christian Bale,Steve Carell,Ryan Gosling",
+        "averageRating": 7.8,
+        "genres": "Biography,Comedy,Drama",
+        "primaryTitle": "The Big Short",
+        "runtimeMinutes": 130,
+        "startYear": 2015,
+        "tconst": "tt1596363"
+    },
+    {
+        "actorList": "Ron Perlman,Mandy Moore,Donna Murphy,Zachary Levi",
+        "averageRating": 7.8,
+        "genres": "Adventure,Animation,Comedy",
+        "primaryTitle": "Tangled",
+        "runtimeMinutes": 100,
+        "startYear": 2010,
+        "tconst": "tt0398286"
+    },
+    {
+        "actorList": "Famke Janssen,Liam Neeson,Leland Orser,Maggie Grace",
+        "averageRating": 7.8,
+        "genres": "Action,Crime,Thriller",
+        "primaryTitle": "Taken",
+        "runtimeMinutes": 90,
+        "startYear": 2008,
+        "tconst": "tt0936501"
+    },
+    {
+        "actorList": "Javier Bardem,Judi Dench,Daniel Craig,Naomie Harris",
+        "averageRating": 7.8,
+        "genres": "Action,Adventure,Thriller",
+        "primaryTitle": "Skyfall",
+        "runtimeMinutes": 143,
+        "startYear": 2012,
+        "tconst": "tt1074638"
+    },
+    {
+        "actorList": "Felicity Jones,Diego Luna,Alan Tudyk,Donnie Yen",
+        "averageRating": 7.8,
+        "genres": "Action,Adventure,Sci-Fi",
+        "primaryTitle": "Rogue One: A Star Wars Story",
+        "runtimeMinutes": 133,
+        "startYear": 2016,
+        "tconst": "tt3748528"
+    },
+    {
+        "actorList": "Arnold Schwarzenegger,Kevin Peter Hall,Carl Weathers,Elpidia Carrillo",
+        "averageRating": 7.8,
+        "genres": "Action,Adventure,Horror",
+        "primaryTitle": "Predator",
+        "runtimeMinutes": 107,
+        "startYear": 1987,
+        "tconst": "tt0093773"
+    },
+    {
+        "actorList": "Bill Murray,Bruce Willis,Jared Gilman,Kara Hayward",
+        "averageRating": 7.8,
+        "genres": "Comedy,Drama,Romance",
+        "primaryTitle": "Moonrise Kingdom",
+        "runtimeMinutes": 94,
+        "startYear": 2012,
+        "tconst": "tt1748122"
+    },
+    {
+        "actorList": "Kevin Spacey,Sam Rockwell,Dominique McElligott,Rosie Shaw",
+        "averageRating": 7.8,
+        "genres": "Drama,Mystery,Sci-Fi",
+        "primaryTitle": "Moon",
+        "runtimeMinutes": 97,
+        "startYear": 2009,
+        "tconst": "tt1182345"
+    },
+    {
+        "actorList": "Toni Collette,Greg Kinnear,Steve Carell,Abigail Breslin",
+        "averageRating": 7.8,
+        "genres": "Comedy,Drama",
+        "primaryTitle": "Little Miss Sunshine",
+        "runtimeMinutes": 101,
+        "startYear": 2006,
+        "tconst": "tt0449059"
+    },
+    {
+        "actorList": "Cate Blanchett,Jay Baruchel,Gerard Butler,Craig Ferguson",
+        "averageRating": 7.8,
+        "genres": "Action,Adventure,Animation",
+        "primaryTitle": "How to Train Your Dragon 2",
+        "runtimeMinutes": 102,
+        "startYear": 2014,
+        "tconst": "tt1646971"
+    },
+    {
+        "actorList": "Martin Freeman,Nick Frost,Bill Nighy,Simon Pegg",
+        "averageRating": 7.8,
+        "genres": "Action,Comedy,Mystery",
+        "primaryTitle": "Hot Fuzz",
+        "runtimeMinutes": 121,
+        "startYear": 2007,
+        "tconst": "tt0425112"
+    },
+    {
+        "actorList": "Dan Aykroyd,Bill Murray,Sigourney Weaver,Harold Ramis",
+        "averageRating": 7.8,
+        "genres": "Action,Comedy,Fantasy",
+        "primaryTitle": "Ghostbusters",
+        "runtimeMinutes": 105,
+        "startYear": 1984,
+        "tconst": "tt0087332"
+    },
+    {
+        "actorList": "Matthew Broderick,Mia Sara,Jeffrey Jones,Alan Ruck",
+        "averageRating": 7.8,
+        "genres": "Comedy",
+        "primaryTitle": "Ferris Bueller's Day Off",
+        "runtimeMinutes": 103,
+        "startYear": 1986,
+        "tconst": "tt0091042"
+    },
+    {
+        "actorList": "Tom Hardy,Mark Rylance,Barry Keoghan,Fionn Whitehead",
+        "averageRating": 7.8,
+        "genres": "Action,Drama,History",
+        "primaryTitle": "Dunkirk",
+        "runtimeMinutes": 106,
+        "startYear": 2017,
+        "tconst": "tt5013056"
+    },
+    {
+        "actorList": "Sandra Bullock,Don Cheadle,Karina Arroyave,Thandiwe Newton",
+        "averageRating": 7.8,
+        "genres": "Crime,Drama,Thriller",
+        "primaryTitle": "Crash",
+        "runtimeMinutes": 112,
+        "startYear": 2004,
+        "tconst": "tt0375679"
+    },
+    {
+        "actorList": "Tom Hanks,Helen Hunt,Paul Sanchez,Lari White",
+        "averageRating": 7.8,
+        "genres": "Adventure,Drama,Romance",
+        "primaryTitle": "Cast Away",
+        "runtimeMinutes": 143,
+        "startYear": 2000,
+        "tconst": "tt0162222"
+    },
+    {
+        "actorList": "Tom Hanks,Catherine Keener,Barkhad Abdi,Barkhad Abdirahman",
+        "averageRating": 7.8,
+        "genres": "Action,Biography,Crime",
+        "primaryTitle": "Captain Phillips",
+        "runtimeMinutes": 134,
+        "startYear": 2013,
+        "tconst": "tt1535109"
+    },
+    {
+        "actorList": "Samuel L. Jackson,Robert Redford,Chris Evans,Scarlett Johansson",
+        "averageRating": 7.8,
+        "genres": "Action,Adventure,Sci-Fi",
+        "primaryTitle": "Captain America: The Winter Soldier",
+        "runtimeMinutes": 136,
+        "startYear": 2014,
+        "tconst": "tt1843866"
+    },
+    {
+        "actorList": "Robert Downey Jr.,Chris Evans,Scarlett Johansson,Sebastian Stan",
+        "averageRating": 7.8,
+        "genres": "Action,Adventure,Sci-Fi",
+        "primaryTitle": "Captain America: Civil War",
+        "runtimeMinutes": 147,
+        "startYear": 2016,
+        "tconst": "tt3498820"
+    },
+    {
+        "actorList": "Scott Adsit,Jamie Chung,T.J. Miller,Ryan Potter",
+        "averageRating": 7.8,
+        "genres": "Action,Adventure,Animation",
+        "primaryTitle": "Big Hero 6",
+        "runtimeMinutes": 102,
+        "startYear": 2014,
+        "tconst": "tt2245084"
+    },
+    {
+        "actorList": "John Cusack,Cameron Diaz,John Malkovich,Catherine Keener",
+        "averageRating": 7.8,
+        "genres": "Comedy,Drama,Fantasy",
+        "primaryTitle": "Being John Malkovich",
+        "runtimeMinutes": 113,
+        "startYear": 1999,
+        "tconst": "tt0120601"
+    },
+    {
+        "actorList": "Gerardo Taracena,Raoul Max Trujillo,Rudy Youngblood,Dalia Hernández",
+        "averageRating": 7.8,
+        "genres": "Action,Adventure,Drama",
+        "primaryTitle": "Apocalypto",
+        "runtimeMinutes": 139,
+        "startYear": 2006,
+        "tconst": "tt0472043"
+    },
+    {
+        "actorList": "Russell Crowe,Denzel Washington,Josh Brolin,Chiwetel Ejiofor",
+        "averageRating": 7.8,
+        "genres": "Biography,Crime,Drama",
+        "primaryTitle": "American Gangster",
+        "runtimeMinutes": 157,
+        "startYear": 2007,
+        "tconst": "tt0765429"
+    },
+    {
+        "actorList": "Bill Nighy,Rachel McAdams,Domhnall Gleeson,Lydia Wilson",
+        "averageRating": 7.8,
+        "genres": "Comedy,Drama,Fantasy",
+        "primaryTitle": "About Time",
+        "runtimeMinutes": 123,
+        "startYear": 2013,
+        "tconst": "tt2194499"
+    },
+    {
+        "actorList": "Robert Downey Jr.,Anthony Edwards,Jake Gyllenhaal,Mark Ruffalo",
+        "averageRating": 7.7,
+        "genres": "Crime,Drama,Mystery",
+        "primaryTitle": "Zodiac",
+        "runtimeMinutes": 157,
+        "startYear": 2007,
+        "tconst": "tt0443706"
+    },
+    {
+        "actorList": "Kevin Bacon,James McAvoy,Michael Fassbender,Jennifer Lawrence",
+        "averageRating": 7.7,
+        "genres": "Action,Adventure,Sci-Fi",
+        "primaryTitle": "X-Men: First Class",
+        "runtimeMinutes": 131,
+        "startYear": 2011,
+        "tconst": "tt1270798"
+    },
+    {
+        "actorList": "John C. Reilly,Jane Lynch,Sarah Silverman,Jack McBrayer",
+        "averageRating": 7.7,
+        "genres": "Adventure,Animation,Comedy",
+        "primaryTitle": "Wreck-It Ralph",
+        "runtimeMinutes": 101,
+        "startYear": 2012,
+        "tconst": "tt1772341"
+    },
+    {
+        "actorList": "Carla Gugino,Malin Akerman,Jackie Earle Haley,Patrick Wilson",
+        "averageRating": 7.7,
+        "genres": "Action,Drama,Mystery",
+        "primaryTitle": "Watchmen",
+        "runtimeMinutes": 162,
+        "startYear": 2009,
+        "tconst": "tt0409459"
+    },
+    {
+        "actorList": "Ethan Hawke,Denzel Washington,Tom Berenger,Scott Glenn",
+        "averageRating": 7.7,
+        "genres": "Action,Crime,Drama",
+        "primaryTitle": "Training Day",
+        "runtimeMinutes": 122,
+        "startYear": 2001,
+        "tconst": "tt0139654"
+    },
+    {
+        "actorList": "Felicity Jones,Eddie Redmayne,Tom Prior,Sophie Perry",
+        "averageRating": 7.7,
+        "genres": "Biography,Drama,Romance",
+        "primaryTitle": "The Theory of Everything",
+        "runtimeMinutes": 123,
+        "startYear": 2014,
+        "tconst": "tt2980516"
+    },
+    {
+        "actorList": "Christian Bale,Jennifer Jason Leigh,John Sharian,Aitana Sánchez-Gijón",
+        "averageRating": 7.7,
+        "genres": "Drama,Thriller",
+        "primaryTitle": "The Machinist",
+        "runtimeMinutes": 101,
+        "startYear": 2004,
+        "tconst": "tt0361862"
+    },
+    {
+        "actorList": "Will Ferrell,Will Arnett,Elizabeth Banks,Chris Pratt",
+        "averageRating": 7.7,
+        "genres": "Action,Adventure,Animation",
+        "primaryTitle": "The Lego Movie",
+        "runtimeMinutes": 100,
+        "startYear": 2014,
+        "tconst": "tt1490017"
+    },
+    {
+        "actorList": "Justin Bartha,Bradley Cooper,Zach Galifianakis,Ed Helms",
+        "averageRating": 7.7,
+        "genres": "Comedy",
+        "primaryTitle": "The Hangover",
+        "runtimeMinutes": 100,
+        "startYear": 2009,
+        "tconst": "tt1119646"
+    },
+    {
+        "actorList": "Milla Jovovich,Gary Oldman,Bruce Willis,Ian Holm",
+        "averageRating": 7.7,
+        "genres": "Action,Adventure,Sci-Fi",
+        "primaryTitle": "The Fifth Element",
+        "runtimeMinutes": 126,
+        "startYear": 1997,
+        "tconst": "tt0119116"
+    },
+    {
+        "actorList": "Laura Dern,Shailene Woodley,Nat Wolff,Ansel Elgort",
+        "averageRating": 7.7,
+        "genres": "Drama,Romance",
+        "primaryTitle": "The Fault in Our Stars",
+        "runtimeMinutes": 126,
+        "startYear": 2014,
+        "tconst": "tt2582846"
+    },
+    {
+        "actorList": "Joan Allen,Matt Damon,Brian Cox,Franka Potente",
+        "averageRating": 7.7,
+        "genres": "Action,Mystery,Thriller",
+        "primaryTitle": "The Bourne Supremacy",
+        "runtimeMinutes": 108,
+        "startYear": 2004,
+        "tconst": "tt0372183"
+    },
+    {
+        "actorList": "Zachary Quinto,Zoe Saldana,Benedict Cumberbatch,Chris Pine",
+        "averageRating": 7.7,
+        "genres": "Action,Adventure,Sci-Fi",
+        "primaryTitle": "Star Trek Into Darkness",
+        "runtimeMinutes": 132,
+        "startYear": 2013,
+        "tconst": "tt1408101"
+    },
+    {
+        "actorList": "Robert De Niro,Bradley Cooper,Jacki Weaver,Jennifer Lawrence",
+        "averageRating": 7.7,
+        "genres": "Comedy,Drama,Romance",
+        "primaryTitle": "Silver Linings Playbook",
+        "runtimeMinutes": 122,
+        "startYear": 2012,
+        "tconst": "tt1045658"
+    },
+    {
+        "actorList": "Josh Brolin,Benicio Del Toro,Jon Bernthal,Emily Blunt",
+        "averageRating": 7.7,
+        "genres": "Action,Crime,Drama",
+        "primaryTitle": "Sicario",
+        "runtimeMinutes": 121,
+        "startYear": 2015,
+        "tconst": "tt3397884"
+    },
+    {
+        "actorList": "Brad Pitt,George Clooney,Julia Roberts,Matt Damon",
+        "averageRating": 7.7,
+        "genres": "Crime,Thriller",
+        "primaryTitle": "Ocean's Eleven",
+        "runtimeMinutes": 116,
+        "startYear": 2001,
+        "tconst": "tt0240772"
+    },
+    {
+        "actorList": "George Clooney,John Goodman,John Turturro,Tim Blake Nelson",
+        "averageRating": 7.7,
+        "genres": "Adventure,Comedy,Crime",
+        "primaryTitle": "O Brother, Where Art Thou?",
+        "runtimeMinutes": 107,
+        "startYear": 2000,
+        "tconst": "tt0190590"
+    },
+    {
+        "actorList": "Tom Cruise,Ving Rhames,Henry Cavill,Simon Pegg",
+        "averageRating": 7.7,
+        "genres": "Action,Adventure,Thriller",
+        "primaryTitle": "Mission: Impossible - Fallout",
+        "runtimeMinutes": 147,
+        "startYear": 2018,
+        "tconst": "tt4912910"
+    },
+    {
+        "actorList": "Tom Cruise,Max von Sydow,Colin Farrell,Samantha Morton",
+        "averageRating": 7.7,
+        "genres": "Action,Crime,Mystery",
+        "primaryTitle": "Minority Report",
+        "runtimeMinutes": 145,
+        "startYear": 2002,
+        "tconst": "tt0181689"
+    },
+    {
+        "actorList": "Kathy Bates,Owen Wilson,Kurt Fuller,Rachel McAdams",
+        "averageRating": 7.7,
+        "genres": "Comedy,Fantasy,Romance",
+        "primaryTitle": "Midnight in Paris",
+        "runtimeMinutes": 94,
+        "startYear": 2011,
+        "tconst": "tt1605783"
+    },
+    {
+        "actorList": "Denzel Washington,Christopher Walken,Dakota Fanning,Radha Mitchell",
+        "averageRating": 7.7,
+        "genres": "Action,Crime,Drama",
+        "primaryTitle": "Man on Fire",
+        "runtimeMinutes": 146,
+        "startYear": 2004,
+        "tconst": "tt0328107"
+    },
+    {
+        "actorList": "Morgan Freeman,Josh Hartnett,Ben Kingsley,Lucy Liu",
+        "averageRating": 7.7,
+        "genres": "Crime,Drama,Thriller",
+        "primaryTitle": "Lucky Number Slevin",
+        "runtimeMinutes": 110,
+        "startYear": 2006,
+        "tconst": "tt0425210"
+    },
+    {
+        "actorList": "Bill Murray,Giovanni Ribisi,Anna Faris,Scarlett Johansson",
+        "averageRating": 7.7,
+        "genres": "Comedy,Drama",
+        "primaryTitle": "Lost in Translation",
+        "runtimeMinutes": 102,
+        "startYear": 2003,
+        "tconst": "tt0335266"
+    },
+    {
+        "actorList": "Colin Firth,Samuel L. Jackson,Michael Caine,Taron Egerton",
+        "averageRating": 7.7,
+        "genres": "Action,Adventure,Comedy",
+        "primaryTitle": "Kingsman: The Secret Service",
+        "runtimeMinutes": 129,
+        "startYear": 2014,
+        "tconst": "tt2802144"
+    },
+    {
+        "actorList": "Macaulay Culkin,Joe Pesci,John Heard,Daniel Stern",
+        "averageRating": 7.7,
+        "genres": "Comedy,Family",
+        "primaryTitle": "Home Alone",
+        "runtimeMinutes": 103,
+        "startYear": 1990,
+        "tconst": "tt0099785"
+    },
+    {
+        "actorList": "Rupert Grint,Daniel Radcliffe,Eric Sykes,Emma Watson",
+        "averageRating": 7.7,
+        "genres": "Adventure,Family,Fantasy",
+        "primaryTitle": "Harry Potter and the Goblet of Fire",
+        "runtimeMinutes": 157,
+        "startYear": 2005,
+        "tconst": "tt0330373"
+    },
+    {
+        "actorList": "Rupert Grint,Bill Nighy,Daniel Radcliffe,Emma Watson",
+        "averageRating": 7.7,
+        "genres": "Adventure,Family,Fantasy",
+        "primaryTitle": "Harry Potter and the Deathly Hallows: Part 1",
+        "runtimeMinutes": 146,
+        "startYear": 2010,
+        "tconst": "tt0926084"
+    },
+    {
+        "actorList": "Sandra Bullock,George Clooney,Ed Harris,Orto Ignatiussen",
+        "averageRating": 7.7,
+        "genres": "Action,Drama,Sci-Fi",
+        "primaryTitle": "Gravity",
+        "runtimeMinutes": 91,
+        "startYear": 2013,
+        "tconst": "tt1454468"
+    },
+    {
+        "actorList": "Catherine Keener,Bradley Whitford,Daniel Kaluuya,Allison Williams",
+        "averageRating": 7.7,
+        "genres": "Horror,Mystery,Thriller",
+        "primaryTitle": "Get Out",
+        "runtimeMinutes": 104,
+        "startYear": 2017,
+        "tconst": "tt5052448"
+    },
+    {
+        "actorList": "Oscar Isaac,Domhnall Gleeson,Alicia Vikander,Sonoya Mizuno",
+        "averageRating": 7.7,
+        "genres": "Drama,Sci-Fi,Thriller",
+        "primaryTitle": "Ex Machina",
+        "runtimeMinutes": 108,
+        "startYear": 2014,
+        "tconst": "tt0470752"
+    },
+    {
+        "actorList": "Josh Brolin,Ryan Reynolds,Morena Baccarin,Julian Dennison",
+        "averageRating": 7.7,
+        "genres": "Action,Adventure,Comedy",
+        "primaryTitle": "Deadpool 2",
+        "runtimeMinutes": 119,
+        "startYear": 2018,
+        "tconst": "tt5463162"
+    },
+    {
+        "actorList": "Randy Quaid,Heath Ledger,Jake Gyllenhaal,Michelle Williams",
+        "averageRating": 7.7,
+        "genres": "Drama,Romance",
+        "primaryTitle": "Brokeback Mountain",
+        "runtimeMinutes": 134,
+        "startYear": 2005,
+        "tconst": "tt0388795"
+    },
+    {
+        "actorList": "Ewan McGregor,Josh Hartnett,Tom Sizemore,Eric Bana",
+        "averageRating": 7.7,
+        "genres": "Action,Drama,History",
+        "primaryTitle": "Black Hawk Down",
+        "runtimeMinutes": 144,
+        "startYear": 2001,
+        "tconst": "tt0265086"
+    },
+    {
+        "actorList": "Michael Keaton,Edward Norton,Zach Galifianakis,Andrea Riseborough",
+        "averageRating": 7.7,
+        "genres": "Comedy,Drama",
+        "primaryTitle": "Birdman or (The Unexpected Virtue of Ignorance)",
+        "runtimeMinutes": 119,
+        "startYear": 2014,
+        "tconst": "tt2562232"
+    },
+    {
+        "actorList": "Ben Affleck,Alan Arkin,John Goodman,Bryan Cranston",
+        "averageRating": 7.7,
+        "genres": "Biography,Drama,Thriller",
+        "primaryTitle": "Argo",
+        "runtimeMinutes": 120,
+        "startYear": 2012,
+        "tconst": "tt1024648"
+    },
+    {
+        "actorList": "Geoffrey Arend,Zooey Deschanel,Joseph Gordon-Levitt,Chloë Grace Moretz",
+        "averageRating": 7.7,
+        "genres": "Comedy,Drama,Romance",
+        "primaryTitle": "500 Days of Summer",
+        "runtimeMinutes": 95,
+        "startYear": 2009,
+        "tconst": "tt1022603"
+    },
+    {
+        "actorList": "Russell Crowe,Christian Bale,Ben Foster,Logan Lerman",
+        "averageRating": 7.7,
+        "genres": "Action,Crime,Drama",
+        "primaryTitle": "3:10 to Yuma",
+        "runtimeMinutes": 122,
+        "startYear": 2007,
+        "tconst": "tt0381849"
+    },
+    {
+        "actorList": "Woody Harrelson,Jesse Eisenberg,Abigail Breslin,Emma Stone",
+        "averageRating": 7.6,
+        "genres": "Action,Comedy,Horror",
+        "primaryTitle": "Zombieland",
+        "runtimeMinutes": 88,
+        "startYear": 2009,
+        "tconst": "tt1156398"
+    },
+    {
+        "actorList": "Jeff Bridges,Matt Damon,Josh Brolin,Hailee Steinfeld",
+        "averageRating": 7.6,
+        "genres": "Drama,Western",
+        "primaryTitle": "True Grit",
+        "runtimeMinutes": 110,
+        "startYear": 2010,
+        "tconst": "tt1403865"
+    },
+    {
+        "actorList": "Nicole Kidman,Christopher Eccleston,Fionnula Flanagan,Alakina Mann",
+        "averageRating": 7.6,
+        "genres": "Horror,Mystery,Thriller",
+        "primaryTitle": "The Others",
+        "runtimeMinutes": 101,
+        "startYear": 2001,
+        "tconst": "tt0230600"
+    },
+    {
+        "actorList": "Edward Norton,Rufus Sewell,Jessica Biel,Paul Giamatti",
+        "averageRating": 7.6,
+        "genres": "Drama,Fantasy,Mystery",
+        "primaryTitle": "The Illusionist",
+        "runtimeMinutes": 110,
+        "startYear": 2006,
+        "tconst": "tt0443543"
+    },
+    {
+        "actorList": "Guy Pearce,Jeremy Renner,Anthony Mackie,Brian Geraghty",
+        "averageRating": 7.6,
+        "genres": "Drama,Thriller,War",
+        "primaryTitle": "The Hurt Locker",
+        "runtimeMinutes": 131,
+        "startYear": 2008,
+        "tconst": "tt0887912"
+    },
+    {
+        "actorList": "Al Pacino,Andy Garcia,Diane Keaton,Talia Shire",
+        "averageRating": 7.6,
+        "genres": "Crime,Drama",
+        "primaryTitle": "The Godfather: Part III",
+        "runtimeMinutes": 162,
+        "startYear": 1990,
+        "tconst": "tt0099674"
+    },
+    {
+        "actorList": "Melora Walters,Ashton Kutcher,Amy Smart,Elden Henson",
+        "averageRating": 7.6,
+        "genres": "Drama,Sci-Fi,Thriller",
+        "primaryTitle": "The Butterfly Effect",
+        "runtimeMinutes": 113,
+        "startYear": 2004,
+        "tconst": "tt0289879"
+    },
+    {
+        "actorList": "Sandra Bullock,Tim McGraw,Jae Head,Quinton Aaron",
+        "averageRating": 7.6,
+        "genres": "Biography,Drama,Sport",
+        "primaryTitle": "The Blind Side",
+        "runtimeMinutes": 129,
+        "startYear": 2009,
+        "tconst": "tt0878804"
+    },
+    {
+        "actorList": "Michael Cera,Bill Hader,Jonah Hill,Christopher Mintz-Plasse",
+        "averageRating": 7.6,
+        "genres": "Comedy",
+        "primaryTitle": "Superbad",
+        "runtimeMinutes": 113,
+        "startYear": 2007,
+        "tconst": "tt0829482"
+    },
+    {
+        "actorList": "Samuel L. Jackson,Ewan McGregor,Natalie Portman,Hayden Christensen",
+        "averageRating": 7.6,
+        "genres": "Action,Adventure,Fantasy",
+        "primaryTitle": "Star Wars: Episode III - Revenge of the Sith",
+        "runtimeMinutes": 140,
+        "startYear": 2005,
+        "tconst": "tt0121766"
+    },
+    {
+        "actorList": "Jude Law,Robert Downey Jr.,Mark Strong,Rachel McAdams",
+        "averageRating": 7.6,
+        "genres": "Action,Adventure,Mystery",
+        "primaryTitle": "Sherlock Holmes",
+        "runtimeMinutes": 128,
+        "startYear": 2009,
+        "tconst": "tt0988045"
+    },
+    {
+        "actorList": "Kieran Culkin,Michael Cera,Anna Kendrick,Mary Elizabeth Winstead",
+        "averageRating": 7.6,
+        "genres": "Action,Comedy,Fantasy",
+        "primaryTitle": "Scott Pilgrim vs. the World",
+        "runtimeMinutes": 112,
+        "startYear": 2010,
+        "tconst": "tt0446029"
+    },
+    {
+        "actorList": "Cary Elwes,Danny Glover,Ken Leung,Leigh Whannell",
+        "averageRating": 7.6,
+        "genres": "Horror,Mystery,Thriller",
+        "primaryTitle": "Saw",
+        "runtimeMinutes": 103,
+        "startYear": 2004,
+        "tconst": "tt0387564"
+    },
+    {
+        "actorList": "James Franco,Karin Konoval,Andy Serkis,Freida Pinto",
+        "averageRating": 7.6,
+        "genres": "Action,Drama,Sci-Fi",
+        "primaryTitle": "Rise of the Planet of the Apes",
+        "runtimeMinutes": 105,
+        "startYear": 2011,
+        "tconst": "tt1318514"
+    },
+    {
+        "actorList": "Brad Pitt,Leonardo DiCaprio,Emile Hirsch,Margot Robbie",
+        "averageRating": 7.6,
+        "genres": "Comedy,Drama",
+        "primaryTitle": "Once Upon a Time... In Hollywood",
+        "runtimeMinutes": 161,
+        "startYear": 2019,
+        "tconst": "tt7131622"
+    },
+    {
+        "actorList": "Brad Pitt,Philip Seymour Hoffman,Robin Wright,Jonah Hill",
+        "averageRating": 7.6,
+        "genres": "Biography,Drama,Sport",
+        "primaryTitle": "Moneyball",
+        "runtimeMinutes": 133,
+        "startYear": 2011,
+        "tconst": "tt1210166"
+    },
+    {
+        "actorList": "Dwayne Johnson,Temuera Morrison,Rachel House,Auli'i Cravalho",
+        "averageRating": 7.6,
+        "genres": "Adventure,Animation,Comedy",
+        "primaryTitle": "Moana",
+        "runtimeMinutes": 107,
+        "startYear": 2016,
+        "tconst": "tt3521164"
+    },
+    {
+        "actorList": "Hugh Grant,Liam Neeson,Laura Linney,Martine McCutcheon",
+        "averageRating": 7.6,
+        "genres": "Comedy,Drama,Romance",
+        "primaryTitle": "Love Actually",
+        "runtimeMinutes": 135,
+        "startYear": 2003,
+        "tconst": "tt0314331"
+    },
+    {
+        "actorList": "Nicolas Cage,Ethan Hawke,Jared Leto,Bridget Moynahan",
+        "averageRating": 7.6,
+        "genres": "Crime,Drama",
+        "primaryTitle": "Lord of War",
+        "runtimeMinutes": 122,
+        "startYear": 2005,
+        "tconst": "tt0399295"
+    },
+    {
+        "actorList": "Russell Crowe,Anne Hathaway,Hugh Jackman,Amanda Seyfried",
+        "averageRating": 7.6,
+        "genres": "Drama,Musical,Romance",
+        "primaryTitle": "Les Misérables",
+        "runtimeMinutes": 158,
+        "startYear": 2012,
+        "tconst": "tt1707386"
+    },
+    {
+        "actorList": "Dustin Hoffman,Angelina Jolie,Jack Black,Ian McShane",
+        "averageRating": 7.6,
+        "genres": "Action,Adventure,Animation",
+        "primaryTitle": "Kung Fu Panda",
+        "runtimeMinutes": 92,
+        "startYear": 2008,
+        "tconst": "tt0441773"
+    },
+    {
+        "actorList": "Nicolas Cage,Garrett M. Brown,Aaron Taylor-Johnson,Chloë Grace Moretz",
+        "averageRating": 7.6,
+        "genres": "Action,Comedy,Crime",
+        "primaryTitle": "Kick-Ass",
+        "runtimeMinutes": 117,
+        "startYear": 2010,
+        "tconst": "tt1250777"
+    },
+    {
+        "actorList": "Jodie Foster,Denzel Washington,Christopher Plummer,Clive Owen",
+        "averageRating": 7.6,
+        "genres": "Crime,Drama,Mystery",
+        "primaryTitle": "Inside Man",
+        "runtimeMinutes": 129,
+        "startYear": 2006,
+        "tconst": "tt0454848"
+    },
+    {
+        "actorList": "Richard Harris,Maggie Smith,Rupert Grint,Daniel Radcliffe",
+        "averageRating": 7.6,
+        "genres": "Adventure,Family,Fantasy",
+        "primaryTitle": "Harry Potter and the Sorcerer's Stone",
+        "runtimeMinutes": 152,
+        "startYear": 2001,
+        "tconst": "tt0241527"
+    },
+    {
+        "actorList": "Michael Gambon,Rupert Grint,Daniel Radcliffe,Emma Watson",
+        "averageRating": 7.6,
+        "genres": "Action,Adventure,Family",
+        "primaryTitle": "Harry Potter and the Half-Blood Prince",
+        "runtimeMinutes": 153,
+        "startYear": 2009,
+        "tconst": "tt0417741"
+    },
+    {
+        "actorList": "Vin Diesel,Chris Pratt,Zoe Saldana,Dave Bautista",
+        "averageRating": 7.6,
+        "genres": "Action,Adventure,Comedy",
+        "primaryTitle": "Guardians of the Galaxy Vol. 2",
+        "runtimeMinutes": 136,
+        "startYear": 2017,
+        "tconst": "tt3896198"
+    },
+    {
+        "actorList": "Brad Pitt,Shia LaBeouf,Logan Lerman,Michael Peña",
+        "averageRating": 7.6,
+        "genres": "Action,Drama,War",
+        "primaryTitle": "Fury",
+        "runtimeMinutes": 134,
+        "startYear": 2014,
+        "tconst": "tt2713180"
+    },
+    {
+        "actorList": "Samuel L. Jackson,Bruce Willis,Jeremy Irons,Graham Greene",
+        "averageRating": 7.6,
+        "genres": "Action,Adventure,Thriller",
+        "primaryTitle": "Die Hard with a Vengeance",
+        "runtimeMinutes": 128,
+        "startYear": 1995,
+        "tconst": "tt0112864"
+    },
+    {
+        "actorList": "Julie Andrews,Steve Carell,Jason Segel,Russell Brand",
+        "averageRating": 7.6,
+        "genres": "Adventure,Animation,Comedy",
+        "primaryTitle": "Despicable Me",
+        "runtimeMinutes": 95,
+        "startYear": 2010,
+        "tconst": "tt1323594"
+    },
+    {
+        "actorList": "Gary Oldman,Keri Russell,Andy Serkis,Kodi Smit-McPhee",
+        "averageRating": 7.6,
+        "genres": "Action,Adventure,Drama",
+        "primaryTitle": "Dawn of the Planet of the Apes",
+        "runtimeMinutes": 130,
+        "startYear": 2014,
+        "tconst": "tt2103281"
+    },
+    {
+        "actorList": "Tom Hanks,Alan Alda,Amy Ryan,Mark Rylance",
+        "averageRating": 7.6,
+        "genres": "Drama,History,Thriller",
+        "primaryTitle": "Bridge of Spies",
+        "runtimeMinutes": 142,
+        "startYear": 2015,
+        "tconst": "tt3682448"
+    },
+    {
+        "actorList": "Jon Hamm,Jon Bernthal,Eiza González,Ansel Elgort",
+        "averageRating": 7.6,
+        "genres": "Action,Crime,Drama",
+        "primaryTitle": "Baby Driver",
+        "runtimeMinutes": 113,
+        "startYear": 2017,
+        "tconst": "tt3890160"
+    },
+    {
+        "actorList": "Christian Bale,Josh Lucas,Bill Sage,Justin Theroux",
+        "averageRating": 7.6,
+        "genres": "Crime,Drama,Horror",
+        "primaryTitle": "American Psycho",
+        "runtimeMinutes": 102,
+        "startYear": 2000,
+        "tconst": "tt0144084"
+    },
+    {
+        "actorList": "Sam Elliott,Bradley Cooper,Greg Grunberg,Lady Gaga",
+        "averageRating": 7.6,
+        "genres": "Drama,Music,Romance",
+        "primaryTitle": "A Star Is Born",
+        "runtimeMinutes": 136,
+        "startYear": 2018,
+        "tconst": "tt1517451"
+    },
+    {
+        "actorList": "Joseph Gordon-Levitt,Bryce Dallas Howard,Anna Kendrick,Seth Rogen",
+        "averageRating": 7.6,
+        "genres": "Comedy,Drama,Romance",
+        "primaryTitle": "50/50",
+        "runtimeMinutes": 100,
+        "startYear": 2011,
+        "tconst": "tt1306980"
+    },
+    {
+        "actorList": "Gerard Butler,Lena Headey,David Wenham,Dominic West",
+        "averageRating": 7.6,
+        "genres": "Action,Drama",
+        "primaryTitle": "300",
+        "runtimeMinutes": 117,
+        "startYear": 2006,
+        "tconst": "tt0416449"
+    },
+    {
+        "actorList": "James Franco,Kate Mara,Amber Tamblyn,Sean Bott",
+        "averageRating": 7.6,
+        "genres": "Biography,Drama",
+        "primaryTitle": "127 Hours",
+        "runtimeMinutes": 94,
+        "startYear": 2010,
+        "tconst": "tt1542344"
+    },
+    {
+        "actorList": "Arnold Schwarzenegger,Sharon Stone,Michael Ironside,Rachel Ticotin",
+        "averageRating": 7.5,
+        "genres": "Action,Adventure,Sci-Fi",
+        "primaryTitle": "Total Recall",
+        "runtimeMinutes": 113,
+        "startYear": 1990,
+        "tconst": "tt0100802"
+    },
+    {
+        "actorList": "Ben Affleck,Rebecca Hall,Jon Hamm,Jeremy Renner",
+        "averageRating": 7.5,
+        "genres": "Crime,Drama,Thriller",
+        "primaryTitle": "The Town",
+        "runtimeMinutes": 125,
+        "startYear": 2010,
+        "tconst": "tt0840361"
+    },
+    {
+        "actorList": "Philip Seymour Hoffman,Josh Hutcherson,Jennifer Lawrence,Liam Hemsworth",
+        "averageRating": 7.5,
+        "genres": "Action,Adventure,Drama",
+        "primaryTitle": "The Hunger Games: Catching Fire",
+        "runtimeMinutes": 146,
+        "startYear": 2013,
+        "tconst": "tt1951264"
+    },
+    {
+        "actorList": "Al Pacino,Keanu Reeves,Charlize Theron,Jeffrey Jones",
+        "averageRating": 7.5,
+        "genres": "Drama,Mystery,Thriller",
+        "primaryTitle": "The Devil's Advocate",
+        "runtimeMinutes": 144,
+        "startYear": 1997,
+        "tconst": "tt0118971"
+    },
+    {
+        "actorList": "Lili Taylor,Vera Farmiga,Ron Livingston,Patrick Wilson",
+        "averageRating": 7.5,
+        "genres": "Horror,Mystery,Thriller",
+        "primaryTitle": "The Conjuring",
+        "runtimeMinutes": 112,
+        "startYear": 2013,
+        "tconst": "tt1457767"
+    },
+    {
+        "actorList": "Leonardo DiCaprio,Kate Beckinsale,John C. Reilly,Cate Blanchett",
+        "averageRating": 7.5,
+        "genres": "Biography,Drama",
+        "primaryTitle": "The Aviator",
+        "runtimeMinutes": 170,
+        "startYear": 2004,
+        "tconst": "tt0338751"
+    },
+    {
+        "actorList": "Vera Farmiga,Jake Gyllenhaal,Jeffrey Wright,Michelle Monaghan",
+        "averageRating": 7.5,
+        "genres": "Action,Drama,Mystery",
+        "primaryTitle": "Source Code",
+        "runtimeMinutes": 93,
+        "startYear": 2011,
+        "tconst": "tt0945513"
+    },
+    {
+        "actorList": "Ben Kingsley,Tony Chiu-Wai Leung,Simu Liu,Awkwafina",
+        "averageRating": 7.5,
+        "genres": "Action,Adventure,Fantasy",
+        "primaryTitle": "Shang-Chi and the Legend of the Ten Rings",
+        "runtimeMinutes": 132,
+        "startYear": 2021,
+        "tconst": "tt9376612"
+    },
+    {
+        "actorList": "Jason Bateman,Jennifer Garner,Michael Cera,Elliot Page",
+        "averageRating": 7.5,
+        "genres": "Comedy,Drama",
+        "primaryTitle": "Juno",
+        "runtimeMinutes": 96,
+        "startYear": 2007,
+        "tconst": "tt0467406"
+    },
+    {
+        "actorList": "Keanu Reeves,Ian McShane,Riccardo Scamarcio,Ruby Rose",
+        "averageRating": 7.5,
+        "genres": "Action,Crime,Thriller",
+        "primaryTitle": "John Wick: Chapter 2",
+        "runtimeMinutes": 122,
+        "startYear": 2017,
+        "tconst": "tt4425200"
+    },
+    {
+        "actorList": "Samuel L. Jackson,Bridget Fonda,Pam Grier,Robert Forster",
+        "averageRating": 7.5,
+        "genres": "Crime,Drama,Thriller",
+        "primaryTitle": "Jackie Brown",
+        "runtimeMinutes": 154,
+        "startYear": 1997,
+        "tconst": "tt0119396"
+    },
+    {
+        "actorList": "Brad Pitt,Antonio Banderas,Tom Cruise,Kirsten Dunst",
+        "averageRating": 7.5,
+        "genres": "Drama,Fantasy,Horror",
+        "primaryTitle": "Interview with the Vampire: The Vampire Chronicles",
+        "runtimeMinutes": 123,
+        "startYear": 1994,
+        "tconst": "tt0110148"
+    },
+    {
+        "actorList": "Harrison Ford,Kate Capshaw,Amrish Puri,Ke Huy Quan",
+        "averageRating": 7.5,
+        "genres": "Action,Adventure",
+        "primaryTitle": "Indiana Jones and the Temple of Doom",
+        "runtimeMinutes": 118,
+        "startYear": 1984,
+        "tconst": "tt0087469"
+    },
+    {
+        "actorList": "Christopher Lee,Ben Kingsley,Chloë Grace Moretz,Asa Butterfield",
+        "averageRating": 7.5,
+        "genres": "Adventure,Drama,Family",
+        "primaryTitle": "Hugo",
+        "runtimeMinutes": 126,
+        "startYear": 2011,
+        "tconst": "tt0970179"
+    },
+    {
+        "actorList": "Brendan Gleeson,Rupert Grint,Daniel Radcliffe,Emma Watson",
+        "averageRating": 7.5,
+        "genres": "Action,Adventure,Family",
+        "primaryTitle": "Harry Potter and the Order of the Phoenix",
+        "runtimeMinutes": 138,
+        "startYear": 2007,
+        "tconst": "tt0373889"
+    },
+    {
+        "actorList": "Leonardo DiCaprio,Cameron Diaz,Daniel Day-Lewis,Jim Broadbent",
+        "averageRating": 7.5,
+        "genres": "Crime,Drama",
+        "primaryTitle": "Gangs of New York",
+        "runtimeMinutes": 167,
+        "startYear": 2002,
+        "tconst": "tt0217505"
+    },
+    {
+        "actorList": "Tom Cruise,Nicole Kidman,Sydney Pollack,Todd Field",
+        "averageRating": 7.5,
+        "genres": "Drama,Mystery,Thriller",
+        "primaryTitle": "Eyes Wide Shut",
+        "runtimeMinutes": 159,
+        "startYear": 1999,
+        "tconst": "tt0120663"
+    },
+    {
+        "actorList": "Chiwetel Ejiofor,Benedict Wong,Rachel McAdams,Benedict Cumberbatch",
+        "averageRating": 7.5,
+        "genres": "Action,Adventure,Fantasy",
+        "primaryTitle": "Doctor Strange",
+        "runtimeMinutes": 115,
+        "startYear": 2016,
+        "tconst": "tt1211837"
+    },
+    {
+        "actorList": "Tom Cruise,Jada Pinkett Smith,Jamie Foxx,Mark Ruffalo",
+        "averageRating": 7.5,
+        "genres": "Action,Crime,Drama",
+        "primaryTitle": "Collateral",
+        "runtimeMinutes": 120,
+        "startYear": 2004,
+        "tconst": "tt0369339"
+    },
+    {
+        "actorList": "Kim Basinger,Jack Nicholson,Michael Keaton,Robert Wuhl",
+        "averageRating": 7.5,
+        "genres": "Action,Adventure",
+        "primaryTitle": "Batman",
+        "runtimeMinutes": 126,
+        "startYear": 1989,
+        "tconst": "tt0096895"
+    },
+    {
+        "actorList": "Michael J. Fox,Christopher Lloyd,Tom Wilson,Mary Steenburgen",
+        "averageRating": 7.5,
+        "genres": "Adventure,Comedy,Sci-Fi",
+        "primaryTitle": "Back to the Future Part III",
+        "runtimeMinutes": 118,
+        "startYear": 1990,
+        "tconst": "tt0099088"
+    },
+    {
+        "actorList": "John Krasinski,Emily Blunt,Noah Jupe,Millicent Simmonds",
+        "averageRating": 7.5,
+        "genres": "Drama,Horror,Sci-Fi",
+        "primaryTitle": "A Quiet Place",
+        "runtimeMinutes": 90,
+        "startYear": 2018,
+        "tconst": "tt6644200"
+    },
+    {
+        "actorList": "Christopher Eccleston,Naomie Harris,Cillian Murphy,Alex Palmer",
+        "averageRating": 7.5,
+        "genres": "Drama,Horror,Sci-Fi",
+        "primaryTitle": "28 Days Later...",
+        "runtimeMinutes": 113,
+        "startYear": 2002,
+        "tconst": "tt0289043"
+    },
+    {
+        "actorList": "Halle Berry,Patrick Stewart,Ian McKellen,Hugh Jackman",
+        "averageRating": 7.4,
+        "genres": "Action,Sci-Fi,Thriller",
+        "primaryTitle": "X2: X-Men United",
+        "runtimeMinutes": 134,
+        "startYear": 2003,
+        "tconst": "tt0290334"
+    },
+    {
+        "actorList": "Famke Janssen,Patrick Stewart,Ian McKellen,Hugh Jackman",
+        "averageRating": 7.4,
+        "genres": "Action,Adventure,Sci-Fi",
+        "primaryTitle": "X-Men",
+        "runtimeMinutes": 104,
+        "startYear": 2000,
+        "tconst": "tt0120903"
+    },
+    {
+        "actorList": "Robin Wright,Lucy Davis,Chris Pine,Gal Gadot",
+        "averageRating": 7.4,
+        "genres": "Action,Adventure,Fantasy",
+        "primaryTitle": "Wonder Woman",
+        "runtimeMinutes": 141,
+        "startYear": 2017,
+        "tconst": "tt0451279"
+    },
+    {
+        "actorList": "George Clooney,Jason Bateman,Vera Farmiga,Anna Kendrick",
+        "averageRating": 7.4,
+        "genres": "Comedy,Drama,Romance",
+        "primaryTitle": "Up in the Air",
+        "runtimeMinutes": 109,
+        "startYear": 2009,
+        "tconst": "tt1193138"
+    },
+    {
+        "actorList": "Tom Hanks,Stanley Tucci,Catherine Zeta-Jones,Chi McBride",
+        "averageRating": 7.4,
+        "genres": "Comedy,Drama,Romance",
+        "primaryTitle": "The Terminal",
+        "runtimeMinutes": 128,
+        "startYear": 2004,
+        "tconst": "tt0362227"
+    },
+    {
+        "actorList": "Russell Crowe,Matt Bomer,Ryan Gosling,Angourie Rice",
+        "averageRating": 7.4,
+        "genres": "Action,Comedy,Crime",
+        "primaryTitle": "The Nice Guys",
+        "runtimeMinutes": 116,
+        "startYear": 2016,
+        "tconst": "tt3799694"
+    },
+    {
+        "actorList": "Cate Blanchett,Ian McKellen,Richard Armitage,Martin Freeman",
+        "averageRating": 7.4,
+        "genres": "Adventure,Fantasy",
+        "primaryTitle": "The Hobbit: The Battle of the Five Armies",
+        "runtimeMinutes": 144,
+        "startYear": 2014,
+        "tconst": "tt2310332"
+    },
+    {
+        "actorList": "John David Washington,Robert Pattinson,Juhan Ulfsak,Elizabeth Debicki",
+        "averageRating": 7.4,
+        "genres": "Action,Sci-Fi,Thriller",
+        "primaryTitle": "Tenet",
+        "runtimeMinutes": 150,
+        "startYear": 2020,
+        "tconst": "tt6723592"
+    },
+    {
+        "actorList": "Johnny Depp,Helena Bonham Carter,Alan Rickman,Timothy Spall",
+        "averageRating": 7.4,
+        "genres": "Drama,Horror,Musical",
+        "primaryTitle": "Sweeney Todd: The Demon Barber of Fleet Street",
+        "runtimeMinutes": 116,
+        "startYear": 2007,
+        "tconst": "tt0408236"
+    },
+    {
+        "actorList": "Robert Downey Jr.,Michael Keaton,Marisa Tomei,Tom Holland",
+        "averageRating": 7.4,
+        "genres": "Action,Adventure,Sci-Fi",
+        "primaryTitle": "Spider-Man: Homecoming",
+        "runtimeMinutes": 133,
+        "startYear": 2017,
+        "tconst": "tt2250912"
+    },
+    {
+        "actorList": "Samuel L. Jackson,Marisa Tomei,Jake Gyllenhaal,Tom Holland",
+        "averageRating": 7.4,
+        "genres": "Action,Adventure,Sci-Fi",
+        "primaryTitle": "Spider-Man: Far from Home",
+        "runtimeMinutes": 129,
+        "startYear": 2019,
+        "tconst": "tt6320628"
+    },
+    {
+        "actorList": "Kirsten Dunst,Alfred Molina,Tobey Maguire,James Franco",
+        "averageRating": 7.4,
+        "genres": "Action,Adventure,Sci-Fi",
+        "primaryTitle": "Spider-Man 2",
+        "runtimeMinutes": 127,
+        "startYear": 2004,
+        "tconst": "tt0316654"
+    },
+    {
+        "actorList": "Willem Dafoe,Kirsten Dunst,Tobey Maguire,James Franco",
+        "averageRating": 7.4,
+        "genres": "Action,Adventure,Sci-Fi",
+        "primaryTitle": "Spider-Man",
+        "runtimeMinutes": 121,
+        "startYear": 2002,
+        "tconst": "tt0145487"
+    },
+    {
+        "actorList": "Jude Law,Robert Downey Jr.,Jared Harris,Rachel McAdams",
+        "averageRating": 7.4,
+        "genres": "Action,Adventure,Mystery",
+        "primaryTitle": "Sherlock Holmes: A Game of Shadows",
+        "runtimeMinutes": 129,
+        "startYear": 2011,
+        "tconst": "tt1515091"
+    },
+    {
+        "actorList": "Neve Campbell,Skeet Ulrich,David Arquette,Courteney Cox",
+        "averageRating": 7.4,
+        "genres": "Horror,Mystery",
+        "primaryTitle": "Scream",
+        "runtimeMinutes": 111,
+        "startYear": 1996,
+        "tconst": "tt0117571"
+    },
+    {
+        "actorList": "Ben Mendelsohn,Lena Waithe,Tye Sheridan,Olivia Cooke",
+        "averageRating": 7.4,
+        "genres": "Action,Adventure,Sci-Fi",
+        "primaryTitle": "Ready Player One",
+        "runtimeMinutes": 140,
+        "startYear": 2018,
+        "tconst": "tt1677720"
+    },
+    {
+        "actorList": "Johnny Depp,Orlando Bloom,Jack Davenport,Keira Knightley",
+        "averageRating": 7.4,
+        "genres": "Action,Adventure,Fantasy",
+        "primaryTitle": "Pirates of the Caribbean: Dead Man's Chest",
+        "runtimeMinutes": 151,
+        "startYear": 2006,
+        "tconst": "tt0383574"
+    },
+    {
+        "actorList": "Tom Cruise,Rebecca Ferguson,Simon Pegg,Jeremy Renner",
+        "averageRating": 7.4,
+        "genres": "Action,Adventure,Thriller",
+        "primaryTitle": "Mission: Impossible - Rogue Nation",
+        "runtimeMinutes": 131,
+        "startYear": 2015,
+        "tconst": "tt2381249"
+    },
+    {
+        "actorList": "Tom Cruise,Simon Pegg,Jeremy Renner,Paula Patton",
+        "averageRating": 7.4,
+        "genres": "Action,Adventure,Thriller",
+        "primaryTitle": "Mission: Impossible - Ghost Protocol",
+        "runtimeMinutes": 132,
+        "startYear": 2011,
+        "tconst": "tt1229238"
+    },
+    {
+        "actorList": "Bruce Willis,Paul Dano,Joseph Gordon-Levitt,Emily Blunt",
+        "averageRating": 7.4,
+        "genres": "Action,Drama,Sci-Fi",
+        "primaryTitle": "Looper",
+        "runtimeMinutes": 119,
+        "startYear": 2012,
+        "tconst": "tt1276104"
+    },
+    {
+        "actorList": "Robert De Niro,Bradley Cooper,Abbie Cornish,Anna Friel",
+        "averageRating": 7.4,
+        "genres": "Sci-Fi,Thriller",
+        "primaryTitle": "Limitless",
+        "runtimeMinutes": 105,
+        "startYear": 2011,
+        "tconst": "tt1219289"
+    },
+    {
+        "actorList": "Keanu Reeves,Laurence Fishburne,Halle Berry,Ian McShane",
+        "averageRating": 7.4,
+        "genres": "Action,Crime,Thriller",
+        "primaryTitle": "John Wick: Chapter 3 - Parabellum",
+        "runtimeMinutes": 130,
+        "startYear": 2019,
+        "tconst": "tt6146586"
+    },
+    {
+        "actorList": "Keanu Reeves,Willem Dafoe,Michael Nyqvist,Alfie Allen",
+        "averageRating": 7.4,
+        "genres": "Action,Crime,Thriller",
+        "primaryTitle": "John Wick",
+        "runtimeMinutes": 101,
+        "startYear": 2014,
+        "tconst": "tt2911666"
+    },
+    {
+        "actorList": "Richard Harris,Rupert Grint,Daniel Radcliffe,Emma Watson",
+        "averageRating": 7.4,
+        "genres": "Adventure,Family,Fantasy",
+        "primaryTitle": "Harry Potter and the Chamber of Secrets",
+        "runtimeMinutes": 161,
+        "startYear": 2002,
+        "tconst": "tt0295297"
+    },
+    {
+        "actorList": "Christian Bale,Sean Bean,Emily Watson,Taye Diggs",
+        "averageRating": 7.4,
+        "genres": "Action,Drama,Sci-Fi",
+        "primaryTitle": "Equilibrium",
+        "runtimeMinutes": 107,
+        "startYear": 2002,
+        "tconst": "tt0238380"
+    },
+    {
+        "actorList": "Julianne Moore,Steve Carell,Ryan Gosling,Emma Stone",
+        "averageRating": 7.4,
+        "genres": "Comedy,Drama,Romance",
+        "primaryTitle": "Crazy, Stupid, Love.",
+        "runtimeMinutes": 118,
+        "startYear": 2011,
+        "tconst": "tt1570728"
+    },
+    {
+        "actorList": "Tom Hanks,Hugh Grant,Halle Berry,Hugo Weaving",
+        "averageRating": 7.4,
+        "genres": "Drama,Mystery,Sci-Fi",
+        "primaryTitle": "Cloud Atlas",
+        "runtimeMinutes": 172,
+        "startYear": 2012,
+        "tconst": "tt1371111"
+    },
+    {
+        "actorList": "Samuel L. Jackson,Bruce Willis,Robin Wright,Spencer Treat Clark",
+        "averageRating": 7.3,
+        "genres": "Drama,Mystery,Sci-Fi",
+        "primaryTitle": "Unbreakable",
+        "runtimeMinutes": 106,
+        "startYear": 2000,
+        "tconst": "tt0217869"
+    },
+    {
+        "actorList": "Brad Pitt,Julian Glover,Eric Bana,Orlando Bloom",
+        "averageRating": 7.3,
+        "genres": "Drama,History",
+        "primaryTitle": "Troy",
+        "runtimeMinutes": 163,
+        "startYear": 2004,
+        "tconst": "tt0332452"
+    },
+    {
+        "actorList": "Julie Kavner,Nancy Cartwright,Dan Castellaneta,Yeardley Smith",
+        "averageRating": 7.3,
+        "genres": "Adventure,Animation,Comedy",
+        "primaryTitle": "The Simpsons Movie",
+        "runtimeMinutes": 87,
+        "startYear": 2007,
+        "tconst": "tt0462538"
+    },
+    {
+        "actorList": "Doug Jones,Michael Shannon,Octavia Spencer,Sally Hawkins",
+        "averageRating": 7.3,
+        "genres": "Drama,Fantasy,Romance",
+        "primaryTitle": "The Shape of Water",
+        "runtimeMinutes": 123,
+        "startYear": 2017,
+        "tconst": "tt5580390"
+    },
+    {
+        "actorList": "Ben Stiller,Kathryn Hahn,Kristen Wiig,Jon Daly",
+        "averageRating": 7.3,
+        "genres": "Adventure,Comedy,Drama",
+        "primaryTitle": "The Secret Life of Walter Mitty",
+        "runtimeMinutes": 114,
+        "startYear": 2013,
+        "tconst": "tt0359950"
+    },
+    {
+        "actorList": "James McAvoy,Jessica Sula,Haley Lu Richardson,Anya Taylor-Joy",
+        "averageRating": 7.3,
+        "genres": "Horror,Thriller",
+        "primaryTitle": "Split",
+        "runtimeMinutes": 117,
+        "startYear": 2016,
+        "tconst": "tt4972582"
+    },
+    {
+        "actorList": "Johnny Depp,Christina Ricci,Miranda Richardson,Michael Gambon",
+        "averageRating": 7.3,
+        "genres": "Fantasy,Horror,Mystery",
+        "primaryTitle": "Sleepy Hollow",
+        "runtimeMinutes": 105,
+        "startYear": 1999,
+        "tconst": "tt0162661"
+    },
+    {
+        "actorList": "Cameron Diaz,Mike Myers,Julie Andrews,Eddie Murphy",
+        "averageRating": 7.3,
+        "genres": "Adventure,Animation,Comedy",
+        "primaryTitle": "Shrek 2",
+        "runtimeMinutes": 93,
+        "startYear": 2004,
+        "tconst": "tt0298148"
+    },
+    {
+        "actorList": "Daniel Craig,Rami Malek,Ana de Armas,Léa Seydoux",
+        "averageRating": 7.3,
+        "genres": "Action,Adventure,Thriller",
+        "primaryTitle": "No Time to Die",
+        "runtimeMinutes": 163,
+        "startYear": 2021,
+        "tconst": "tt2382320"
+    },
+    {
+        "actorList": "Steve Buscemi,Billy Crystal,John Goodman,Helen Mirren",
+        "averageRating": 7.3,
+        "genres": "Adventure,Animation,Comedy",
+        "primaryTitle": "Monsters University",
+        "runtimeMinutes": 104,
+        "startYear": 2013,
+        "tconst": "tt1453405"
+    },
+    {
+        "actorList": "Tommy Lee Jones,Will Smith,Vincent D'Onofrio,Linda Fiorentino",
+        "averageRating": 7.3,
+        "genres": "Action,Adventure,Comedy",
+        "primaryTitle": "Men in Black",
+        "runtimeMinutes": 98,
+        "startYear": 1997,
+        "tconst": "tt0119654"
+    },
+    {
+        "actorList": "Bill Skarsgård,Jaeden Martell,Finn Wolfhard,Sophia Lillis",
+        "averageRating": 7.3,
+        "genres": "Horror",
+        "primaryTitle": "It",
+        "runtimeMinutes": 135,
+        "startYear": 2017,
+        "tconst": "tt1396484"
+    },
+    {
+        "actorList": "Vin Diesel,Jordana Brewster,Dwayne Johnson,Paul Walker",
+        "averageRating": 7.3,
+        "genres": "Action,Adventure,Crime",
+        "primaryTitle": "Fast Five",
+        "runtimeMinutes": 130,
+        "startYear": 2011,
+        "tconst": "tt1596343"
+    },
+    {
+        "actorList": "Dan Fogler,Alison Sudol,Eddie Redmayne,Katherine Waterston",
+        "averageRating": 7.3,
+        "genres": "Adventure,Family,Fantasy",
+        "primaryTitle": "Fantastic Beasts and Where to Find Them",
+        "runtimeMinutes": 132,
+        "startYear": 2016,
+        "tconst": "tt3183660"
+    },
+    {
+        "actorList": "Nicolas Cage,John Travolta,Joan Allen,Alessandro Nivola",
+        "averageRating": 7.3,
+        "genres": "Action,Crime,Sci-Fi",
+        "primaryTitle": "Face/Off",
+        "runtimeMinutes": 138,
+        "startYear": 1997,
+        "tconst": "tt0119094"
+    },
+    {
+        "actorList": "Jim Carrey,Lauren Holly,Jeff Daniels,Mike Starr",
+        "averageRating": 7.3,
+        "genres": "Comedy",
+        "primaryTitle": "Dumb and Dumber",
+        "runtimeMinutes": 107,
+        "startYear": 1994,
+        "tconst": "tt0109686"
+    },
+    {
+        "actorList": "Benjamin Bratt,Steve Carell,Kristen Wiig,Miranda Cosgrove",
+        "averageRating": 7.3,
+        "genres": "Adventure,Animation,Comedy",
+        "primaryTitle": "Despicable Me 2",
+        "runtimeMinutes": 98,
+        "startYear": 2013,
+        "tconst": "tt1690953"
+    },
+    {
+        "actorList": "Michael B. Jordan,Chadwick Boseman,Danai Gurira,Lupita Nyong'o",
+        "averageRating": 7.3,
+        "genres": "Action,Adventure,Sci-Fi",
+        "primaryTitle": "Black Panther",
+        "runtimeMinutes": 134,
+        "startYear": 2018,
+        "tconst": "tt1825683"
+    },
+    {
+        "actorList": "Robert Downey Jr.,Chris Evans,Mark Ruffalo,Chris Hemsworth",
+        "averageRating": 7.3,
+        "genres": "Action,Adventure,Sci-Fi",
+        "primaryTitle": "Avengers: Age of Ultron",
+        "runtimeMinutes": 141,
+        "startYear": 2015,
+        "tconst": "tt2395427"
+    },
+    {
+        "actorList": "Michael Douglas,Paul Rudd,Corey Stoll,Evangeline Lilly",
+        "averageRating": 7.3,
+        "genres": "Action,Adventure,Comedy",
+        "primaryTitle": "Ant-Man",
+        "runtimeMinutes": 117,
+        "startYear": 2015,
+        "tconst": "tt0478970"
+    },
+    {
+        "actorList": "Bradley Cooper,Kyle Gallner,Sienna Miller,Cole Konis",
+        "averageRating": 7.3,
+        "genres": "Action,Biography,Drama",
+        "primaryTitle": "American Sniper",
+        "runtimeMinutes": 133,
+        "startYear": 2014,
+        "tconst": "tt2179136"
+    },
+    {
+        "actorList": "Christian Bale,Amy Adams,Bradley Cooper,Jennifer Lawrence",
+        "averageRating": 7.3,
+        "genres": "Crime,Drama",
+        "primaryTitle": "American Hustle",
+        "runtimeMinutes": 138,
+        "startYear": 2013,
+        "tconst": "tt1800241"
+    },
+    {
+        "actorList": "Heath Ledger,Julia Stiles,Joseph Gordon-Levitt,Larisa Oleynik",
+        "averageRating": 7.3,
+        "genres": "Comedy,Drama,Romance",
+        "primaryTitle": "10 Things I Hate About You",
+        "runtimeMinutes": 97,
+        "startYear": 1999,
+        "tconst": "tt0147800"
+    },
+    {
+        "actorList": "Idris Elba,John Cena,Joel Kinnaman,Margot Robbie",
+        "averageRating": 7.2,
+        "genres": "Action,Adventure,Comedy",
+        "primaryTitle": "The Suicide Squad",
+        "runtimeMinutes": 132,
+        "startYear": 2021,
+        "tconst": "tt6334354"
+    },
+    {
+        "actorList": "Keanu Reeves,Laurence Fishburne,Carrie-Anne Moss,Hugo Weaving",
+        "averageRating": 7.2,
+        "genres": "Action,Sci-Fi",
+        "primaryTitle": "The Matrix Reloaded",
+        "runtimeMinutes": 138,
+        "startYear": 2003,
+        "tconst": "tt0234215"
+    },
+    {
+        "actorList": "Stanley Tucci,Josh Hutcherson,Jennifer Lawrence,Liam Hemsworth",
+        "averageRating": 7.2,
+        "genres": "Action,Adventure,Sci-Fi",
+        "primaryTitle": "The Hunger Games",
+        "runtimeMinutes": 142,
+        "startYear": 2012,
+        "tconst": "tt1392170"
+    },
+    {
+        "actorList": "Leonardo DiCaprio,Tobey Maguire,Joel Edgerton,Carey Mulligan",
+        "averageRating": 7.2,
+        "genres": "Drama,Romance",
+        "primaryTitle": "The Great Gatsby",
+        "runtimeMinutes": 143,
+        "startYear": 2013,
+        "tconst": "tt1343092"
+    },
+    {
+        "actorList": "Denzel Washington,Marton Csokas,David Harbour,Chloë Grace Moretz",
+        "averageRating": 7.2,
+        "genres": "Action,Crime,Thriller",
+        "primaryTitle": "The Equalizer",
+        "runtimeMinutes": 132,
+        "startYear": 2014,
+        "tconst": "tt0455944"
+    },
+    {
+        "actorList": "Woody Harrelson,Jesse Eisenberg,Mark Ruffalo,Common",
+        "averageRating": 7.2,
+        "genres": "Crime,Mystery,Thriller",
+        "primaryTitle": "Now You See Me",
+        "runtimeMinutes": 115,
+        "startYear": 2013,
+        "tconst": "tt1670345"
+    },
+    {
+        "actorList": "Julia Roberts,Hugh Grant,Rhys Ifans,Richard McCabe",
+        "averageRating": 7.2,
+        "genres": "Comedy,Drama,Romance",
+        "primaryTitle": "Notting Hill",
+        "runtimeMinutes": 124,
+        "startYear": 1999,
+        "tconst": "tt0125439"
+    },
+    {
+        "actorList": "Don Cheadle,Robert Downey Jr.,Gwyneth Paltrow,Guy Pearce",
+        "averageRating": 7.2,
+        "genres": "Action,Adventure,Sci-Fi",
+        "primaryTitle": "Iron Man 3",
+        "runtimeMinutes": 130,
+        "startYear": 2013,
+        "tconst": "tt1300854"
+    },
+    {
+        "actorList": "Will Smith,Alice Braga,Salli Richardson-Whitfield,Charlie Tahan",
+        "averageRating": 7.2,
+        "genres": "Action,Drama,Sci-Fi",
+        "primaryTitle": "I Am Legend",
+        "runtimeMinutes": 101,
+        "startYear": 2007,
+        "tconst": "tt0480249"
+    },
+    {
+        "actorList": "Vin Diesel,Jason Statham,Dwayne Johnson,Paul Walker",
+        "averageRating": 7.2,
+        "genres": "Action,Crime,Thriller",
+        "primaryTitle": "Furious 7",
+        "runtimeMinutes": 137,
+        "startYear": 2015,
+        "tconst": "tt2820852"
+    },
+    {
+        "actorList": "George Clooney,Harvey Keitel,Quentin Tarantino,Juliette Lewis",
+        "averageRating": 7.2,
+        "genres": "Action,Crime,Horror",
+        "primaryTitle": "From Dusk Till Dawn",
+        "runtimeMinutes": 108,
+        "startYear": 1996,
+        "tconst": "tt0116367"
+    },
+    {
+        "actorList": "Ryan Reynolds,Taika Waititi,Lil Rel Howery,Jodie Comer",
+        "averageRating": 7.2,
+        "genres": "Action,Adventure,Comedy",
+        "primaryTitle": "Free Guy",
+        "runtimeMinutes": 115,
+        "startYear": 2021,
+        "tconst": "tt6264654"
+    },
+    {
+        "actorList": "Leonardo DiCaprio,Meryl Streep,Cate Blanchett,Jennifer Lawrence",
+        "averageRating": 7.2,
+        "genres": "Comedy,Drama,Sci-Fi",
+        "primaryTitle": "Don't Look Up",
+        "runtimeMinutes": 138,
+        "startYear": 2021,
+        "tconst": "tt11286314"
+    },
+    {
+        "actorList": "Bruce Willis,Bonnie Bedelia,Reginald VelJohnson,William Atherton",
+        "averageRating": 7.2,
+        "genres": "Action,Thriller",
+        "primaryTitle": "Die Hard 2",
+        "runtimeMinutes": 124,
+        "startYear": 1990,
+        "tconst": "tt0099423"
+    },
+    {
+        "actorList": "Paul Newman,Bonnie Hunt,Owen Wilson,Larry the Cable Guy",
+        "averageRating": 7.2,
+        "genres": "Adventure,Animation,Comedy",
+        "primaryTitle": "Cars",
+        "runtimeMinutes": 117,
+        "startYear": 2006,
+        "tconst": "tt0317219"
+    },
+    {
+        "actorList": "Jude Law,Haley Joel Osment,Frances O'Connor,Sam Robards",
+        "averageRating": 7.2,
+        "genres": "Drama,Sci-Fi",
+        "primaryTitle": "A.I. Artificial Intelligence",
+        "runtimeMinutes": 146,
+        "startYear": 2001,
+        "tconst": "tt0212720"
+    },
+    {
+        "actorList": "Ice Cube,Brie Larson,Channing Tatum,Jonah Hill",
+        "averageRating": 7.2,
+        "genres": "Action,Comedy,Crime",
+        "primaryTitle": "21 Jump Street",
+        "runtimeMinutes": 109,
+        "startYear": 2012,
+        "tconst": "tt1232829"
+    },
+    {
+        "actorList": "John Goodman,John Gallagher Jr.,Douglas M. Griffin,Mary Elizabeth Winstead",
+        "averageRating": 7.2,
+        "genres": "Action,Drama,Horror",
+        "primaryTitle": "10 Cloverfield Lane",
+        "runtimeMinutes": 103,
+        "startYear": 2016,
+        "tconst": "tt1179933"
+    },
+    {
+        "actorList": "Josh Duhamel,Shia LaBeouf,Tyrese Gibson,Megan Fox",
+        "averageRating": 7.1,
+        "genres": "Action,Adventure,Sci-Fi",
+        "primaryTitle": "Transformers",
+        "runtimeMinutes": 144,
+        "startYear": 2007,
+        "tconst": "tt0418279"
+    },
+    {
+        "actorList": "Cameron Diaz,Matt Dillon,Ben Stiller,Lee Evans",
+        "averageRating": 7.1,
+        "genres": "Comedy,Romance",
+        "primaryTitle": "There's Something About Mary",
+        "runtimeMinutes": 119,
+        "startYear": 1998,
+        "tconst": "tt0129387"
+    },
+    {
+        "actorList": "Brian Cox,David Dorfman,Martin Henderson,Naomi Watts",
+        "averageRating": 7.1,
+        "genres": "Horror,Mystery",
+        "primaryTitle": "The Ring",
+        "runtimeMinutes": 115,
+        "startYear": 2002,
+        "tconst": "tt0298130"
+    },
+    {
+        "actorList": "Brendan Fraser,John Hannah,Rachel Weisz,Arnold Vosloo",
+        "averageRating": 7.1,
+        "genres": "Action,Adventure,Fantasy",
+        "primaryTitle": "The Mummy",
+        "runtimeMinutes": 124,
+        "startYear": 1999,
+        "tconst": "tt0120616"
+    },
+    {
+        "actorList": "Catherine Keener,Steve Carell,Romany Malco,Paul Rudd",
+        "averageRating": 7.1,
+        "genres": "Comedy,Romance",
+        "primaryTitle": "The 40-Year-Old Virgin",
+        "runtimeMinutes": 116,
+        "startYear": 2005,
+        "tconst": "tt0405422"
+    },
+    {
+        "actorList": "Ed Harris,Jamie Bell,Chris Evans,Tilda Swinton",
+        "averageRating": 7.1,
+        "genres": "Action,Sci-Fi,Thriller",
+        "primaryTitle": "Snowpiercer",
+        "runtimeMinutes": 126,
+        "startYear": 2013,
+        "tconst": "tt1706620"
+    },
+    {
+        "actorList": "Hugh Jackman,Anthony Mackie,Evangeline Lilly,Dakota Goyo",
+        "averageRating": 7.1,
+        "genres": "Action,Drama,Sci-Fi",
+        "primaryTitle": "Real Steel",
+        "runtimeMinutes": 127,
+        "startYear": 2011,
+        "tconst": "tt0433035"
+    },
+    {
+        "actorList": "Richard Gere,Julia Roberts,Laura San Giacomo,Jason Alexander",
+        "averageRating": 7.1,
+        "genres": "Comedy,Romance",
+        "primaryTitle": "Pretty Woman",
+        "runtimeMinutes": 119,
+        "startYear": 1990,
+        "tconst": "tt0100405"
+    },
+    {
+        "actorList": "Johnny Depp,Geoffrey Rush,Orlando Bloom,Keira Knightley",
+        "averageRating": 7.1,
+        "genres": "Action,Adventure,Fantasy",
+        "primaryTitle": "Pirates of the Caribbean: At World's End",
+        "runtimeMinutes": 169,
+        "startYear": 2007,
+        "tconst": "tt0449088"
+    },
+    {
+        "actorList": "Tom Cruise,Emmanuelle Béart,Jon Voight,Henry Czerny",
+        "averageRating": 7.1,
+        "genres": "Action,Adventure,Thriller",
+        "primaryTitle": "Mission: Impossible",
+        "runtimeMinutes": 110,
+        "startYear": 1996,
+        "tconst": "tt0117060"
+    },
+    {
+        "actorList": "Tina Fey,Lindsay Lohan,Rachel McAdams,Jonathan Bennett",
+        "averageRating": 7.1,
+        "genres": "Comedy",
+        "primaryTitle": "Mean Girls",
+        "runtimeMinutes": 97,
+        "startYear": 2004,
+        "tconst": "tt0377092"
+    },
+    {
+        "actorList": "Diane Lane,Amy Adams,Henry Cavill,Michael Shannon",
+        "averageRating": 7.1,
+        "genres": "Action,Adventure,Sci-Fi",
+        "primaryTitle": "Man of Steel",
+        "runtimeMinutes": 143,
+        "startYear": 2013,
+        "tconst": "tt0770828"
+    },
+    {
+        "actorList": "Bruce Willis,Justin Long,Timothy Olyphant,Maggie Q",
+        "averageRating": 7.1,
+        "genres": "Action,Thriller",
+        "primaryTitle": "Live Free or Die Hard",
+        "runtimeMinutes": 128,
+        "startYear": 2007,
+        "tconst": "tt0337978"
+    },
+    {
+        "actorList": "Will Smith,Bridget Moynahan,Bruce Greenwood,Alan Tudyk",
+        "averageRating": 7.1,
+        "genres": "Action,Mystery,Sci-Fi",
+        "primaryTitle": "I, Robot",
+        "runtimeMinutes": 115,
+        "startYear": 2004,
+        "tconst": "tt0343818"
+    },
+    {
+        "actorList": "Vin Diesel,Dwayne Johnson,Michelle Rodriguez,Paul Walker",
+        "averageRating": 7.1,
+        "genres": "Action,Crime,Thriller",
+        "primaryTitle": "Fast & Furious 6",
+        "runtimeMinutes": 130,
+        "startYear": 2013,
+        "tconst": "tt1905041"
+    },
+    {
+        "actorList": "Emma Thompson,Billy Connolly,Kelly Macdonald,Julie Walters",
+        "averageRating": 7.1,
+        "genres": "Adventure,Animation,Comedy",
+        "primaryTitle": "Brave",
+        "runtimeMinutes": 93,
+        "startYear": 2012,
+        "tconst": "tt1217209"
+    },
+    {
+        "actorList": "Christina Applegate,Will Ferrell,Steve Carell,Paul Rudd",
+        "averageRating": 7.1,
+        "genres": "Comedy",
+        "primaryTitle": "Anchorman: The Legend of Ron Burgundy",
+        "runtimeMinutes": 94,
+        "startYear": 2004,
+        "tconst": "tt0357413"
+    },
+    {
+        "actorList": "Jason Biggs,Chris Klein,Thomas Ian Nicholas,Jennifer Coolidge",
+        "averageRating": 7.1,
+        "genres": "Comedy",
+        "primaryTitle": "American Pie",
+        "runtimeMinutes": 95,
+        "startYear": 1999,
+        "tconst": "tt0163651"
+    },
+    {
+        "actorList": "Brad Pitt,James Badge Dale,Mireille Enos,Daniella Kertesz",
+        "averageRating": 7.0,
+        "genres": "Action,Adventure,Horror",
+        "primaryTitle": "World War Z",
+        "runtimeMinutes": 116,
+        "startYear": 2013,
+        "tconst": "tt0816711"
+    },
+    {
+        "actorList": "Vince Vaughn,Christopher Walken,Owen Wilson,Rachel McAdams",
+        "averageRating": 7.0,
+        "genres": "Comedy,Romance",
+        "primaryTitle": "Wedding Crashers",
+        "runtimeMinutes": 119,
+        "startYear": 2005,
+        "tconst": "tt0396269"
+    },
+    {
+        "actorList": "Jennifer Aniston,Emma Roberts,Jason Sudeikis,Ed Helms",
+        "averageRating": 7.0,
+        "genres": "Comedy,Crime",
+        "primaryTitle": "We're the Millers",
+        "runtimeMinutes": 110,
+        "startYear": 2013,
+        "tconst": "tt1723121"
+    },
+    {
+        "actorList": "Robert Downey Jr.,Ben Stiller,Jack Black,Jeff Kahn",
+        "averageRating": 7.0,
+        "genres": "Action,Comedy,War",
+        "primaryTitle": "Tropic Thunder",
+        "runtimeMinutes": 107,
+        "startYear": 2008,
+        "tconst": "tt0942385"
+    },
+    {
+        "actorList": "Anthony Hopkins,Natalie Portman,Tom Hiddleston,Chris Hemsworth",
+        "averageRating": 7.0,
+        "genres": "Action,Adventure,Fantasy",
+        "primaryTitle": "Thor",
+        "runtimeMinutes": 115,
+        "startYear": 2011,
+        "tconst": "tt0800369"
+    },
+    {
+        "actorList": "Charlize Theron,Mark Wahlberg,Donald Sutherland,Edward Norton",
+        "averageRating": 7.0,
+        "genres": "Action,Crime,Thriller",
+        "primaryTitle": "The Italian Job",
+        "runtimeMinutes": 111,
+        "startYear": 2003,
+        "tconst": "tt0317740"
+    },
+    {
+        "actorList": "Anna Hutchison,Fran Kranz,Chris Hemsworth,Kristen Connolly",
+        "averageRating": 7.0,
+        "genres": "Horror,Mystery,Thriller",
+        "primaryTitle": "The Cabin in the Woods",
+        "runtimeMinutes": 95,
+        "startYear": 2011,
+        "tconst": "tt1259521"
+    },
+    {
+        "actorList": "Rhys Ifans,Irrfan Khan,Emma Stone,Andrew Garfield",
+        "averageRating": 7.0,
+        "genres": "Action,Adventure,Sci-Fi",
+        "primaryTitle": "The Amazing Spider-Man",
+        "runtimeMinutes": 136,
+        "startYear": 2012,
+        "tconst": "tt0948470"
+    },
+    {
+        "actorList": "Kyle Chandler,Elle Fanning,AJ Michalka,Joel Courtney",
+        "averageRating": 7.0,
+        "genres": "Action,Mystery,Sci-Fi",
+        "primaryTitle": "Super 8",
+        "runtimeMinutes": 112,
+        "startYear": 2011,
+        "tconst": "tt1650062"
+    },
+    {
+        "actorList": "Mark Strong,Zachary Levi,Asher Angel,Jack Dylan Grazer",
+        "averageRating": 7.0,
+        "genres": "Action,Adventure,Comedy",
+        "primaryTitle": "Shazam!",
+        "runtimeMinutes": 132,
+        "startYear": 2019,
+        "tconst": "tt0448115"
+    },
+    {
+        "actorList": "Morgan Freeman,Bruce Willis,Helen Mirren,Mary-Louise Parker",
+        "averageRating": 7.0,
+        "genres": "Action,Comedy,Crime",
+        "primaryTitle": "RED",
+        "runtimeMinutes": 111,
+        "startYear": 2010,
+        "tconst": "tt1245526"
+    },
+    {
+        "actorList": "Charlize Theron,Noomi Rapace,Michael Fassbender,Logan Marshall-Green",
+        "averageRating": 7.0,
+        "genres": "Adventure,Mystery,Sci-Fi",
+        "primaryTitle": "Prometheus",
+        "runtimeMinutes": 124,
+        "startYear": 2012,
+        "tconst": "tt1446714"
+    },
+    {
+        "actorList": "Laurence Fishburne,Chris Pratt,Michael Sheen,Jennifer Lawrence",
+        "averageRating": 7.0,
+        "genres": "Drama,Romance,Sci-Fi",
+        "primaryTitle": "Passengers",
+        "runtimeMinutes": 116,
+        "startYear": 2016,
+        "tconst": "tt1355644"
+    },
+    {
+        "actorList": "Tom Cruise,Morgan Freeman,Olga Kurylenko,Andrea Riseborough",
+        "averageRating": 7.0,
+        "genres": "Action,Adventure,Sci-Fi",
+        "primaryTitle": "Oblivion",
+        "runtimeMinutes": 124,
+        "startYear": 2013,
+        "tconst": "tt1483013"
+    },
+    {
+        "actorList": "Robert De Niro,Blythe Danner,Teri Polo,Ben Stiller",
+        "averageRating": 7.0,
+        "genres": "Comedy,Romance",
+        "primaryTitle": "Meet the Parents",
+        "runtimeMinutes": 108,
+        "startYear": 2000,
+        "tconst": "tt0212338"
+    },
+    {
+        "actorList": "Angelina Jolie,Lesley Manville,Elle Fanning,Sharlto Copley",
+        "averageRating": 7.0,
+        "genres": "Adventure,Family,Fantasy",
+        "primaryTitle": "Maleficent",
+        "runtimeMinutes": 97,
+        "startYear": 2014,
+        "tconst": "tt1587310"
+    },
+    {
+        "actorList": "Katherine Heigl,Leslie Mann,Seth Rogen,Paul Rudd",
+        "averageRating": 7.0,
+        "genres": "Comedy,Romance",
+        "primaryTitle": "Knocked Up",
+        "runtimeMinutes": 129,
+        "startYear": 2007,
+        "tconst": "tt0478311"
+    },
+    {
+        "actorList": "Judy Greer,Bryce Dallas Howard,Chris Pratt,Ty Simpkins",
+        "averageRating": 7.0,
+        "genres": "Action,Adventure,Sci-Fi",
+        "primaryTitle": "Jurassic World",
+        "runtimeMinutes": 124,
+        "startYear": 2015,
+        "tconst": "tt0369610"
+    },
+    {
+        "actorList": "Robin Williams,Kirsten Dunst,Bonnie Hunt,Jonathan Hyde",
+        "averageRating": 7.0,
+        "genres": "Adventure,Comedy,Family",
+        "primaryTitle": "Jumanji",
+        "runtimeMinutes": 104,
+        "startYear": 1995,
+        "tconst": "tt0113497"
+    },
+    {
+        "actorList": "Tom Cruise,Werner Herzog,Richard Jenkins,Rosamund Pike",
+        "averageRating": 7.0,
+        "genres": "Action,Mystery,Thriller",
+        "primaryTitle": "Jack Reacher",
+        "runtimeMinutes": 130,
+        "startYear": 2012,
+        "tconst": "tt0790724"
+    },
+    {
+        "actorList": "Don Cheadle,Robert Downey Jr.,Gwyneth Paltrow,Mickey Rourke",
+        "averageRating": 7.0,
+        "genres": "Action,Adventure,Sci-Fi",
+        "primaryTitle": "Iron Man 2",
+        "runtimeMinutes": 124,
+        "startYear": 2010,
+        "tconst": "tt1228705"
+    },
+    {
+        "actorList": "Jeff Goldblum,Will Smith,Bill Pullman,Mary McDonnell",
+        "averageRating": 7.0,
+        "genres": "Action,Adventure,Sci-Fi",
+        "primaryTitle": "Independence Day",
+        "runtimeMinutes": 145,
+        "startYear": 1996,
+        "tconst": "tt0116629"
+    },
+    {
+        "actorList": "Amanda Bynes,Penn Badgley,Dan Byrd,Emma Stone",
+        "averageRating": 7.0,
+        "genres": "Comedy,Drama,Romance",
+        "primaryTitle": "Easy A",
+        "runtimeMinutes": 92,
+        "startYear": 2010,
+        "tconst": "tt1282140"
+    },
+    {
+        "actorList": "Keanu Reeves,Rachel Weisz,Djimon Hounsou,Shia LaBeouf",
+        "averageRating": 7.0,
+        "genres": "Action,Fantasy,Horror",
+        "primaryTitle": "Constantine",
+        "runtimeMinutes": 121,
+        "startYear": 2005,
+        "tconst": "tt0360486"
+    },
+    {
+        "actorList": "Lizzy Caplan,Mike Vogel,Jessica Lucas,T.J. Miller",
+        "averageRating": 7.0,
+        "genres": "Action,Horror,Sci-Fi",
+        "primaryTitle": "Cloverfield",
+        "runtimeMinutes": 85,
+        "startYear": 2008,
+        "tconst": "tt1060277"
+    },
+    {
+        "actorList": "Brad Pitt,George Clooney,John Malkovich,Frances McDormand",
+        "averageRating": 7.0,
+        "genres": "Comedy,Crime,Drama",
+        "primaryTitle": "Burn After Reading",
+        "runtimeMinutes": 96,
+        "startYear": 2008,
+        "tconst": "tt0887883"
+    },
+    {
+        "actorList": "Walton Goggins,Michael Peña,Paul Rudd,Evangeline Lilly",
+        "averageRating": 7.0,
+        "genres": "Action,Adventure,Comedy",
+        "primaryTitle": "Ant-Man and the Wasp",
+        "runtimeMinutes": 118,
+        "startYear": 2018,
+        "tconst": "tt5095030"
+    },
+    {
+        "actorList": "Ice Cube,Nick Offerman,Channing Tatum,Jonah Hill",
+        "averageRating": 7.0,
+        "genres": "Action,Comedy,Crime",
+        "primaryTitle": "22 Jump Street",
+        "runtimeMinutes": 112,
+        "startYear": 2014,
+        "tconst": "tt2294449"
+    },
+    {
+        "actorList": "Nicholas Hoult,James McAvoy,Michael Fassbender,Jennifer Lawrence",
+        "averageRating": 6.9,
+        "genres": "Action,Adventure,Sci-Fi",
+        "primaryTitle": "X-Men: Apocalypse",
+        "runtimeMinutes": 144,
+        "startYear": 2016,
+        "tconst": "tt3385516"
+    },
+    {
+        "actorList": "Tom Cruise,Val Kilmer,Tim Robbins,Kelly McGillis",
+        "averageRating": 6.9,
+        "genres": "Action,Drama",
+        "primaryTitle": "Top Gun",
+        "runtimeMinutes": 110,
+        "startYear": 1986,
+        "tconst": "tt0092099"
+    },
+    {
+        "actorList": "Jim Carrey,Cameron Diaz,Peter Greene,Peter Riegert",
+        "averageRating": 6.9,
+        "genres": "Action,Comedy,Crime",
+        "primaryTitle": "The Mask",
+        "runtimeMinutes": 101,
+        "startYear": 1994,
+        "tconst": "tt0110475"
+    },
+    {
+        "actorList": "Steve Buscemi,Ewan McGregor,Djimon Hounsou,Scarlett Johansson",
+        "averageRating": 6.9,
+        "genres": "Action,Sci-Fi,Thriller",
+        "primaryTitle": "The Island",
+        "runtimeMinutes": 136,
+        "startYear": 2005,
+        "tconst": "tt0399201"
+    },
+    {
+        "actorList": "Meryl Streep,Anne Hathaway,Adrian Grenier,Emily Blunt",
+        "averageRating": 6.9,
+        "genres": "Comedy,Drama",
+        "primaryTitle": "The Devil Wears Prada",
+        "runtimeMinutes": 109,
+        "startYear": 2006,
+        "tconst": "tt0458352"
+    },
+    {
+        "actorList": "William Moseley,Tilda Swinton,Skandar Keynes,Georgie Henley",
+        "averageRating": 6.9,
+        "genres": "Adventure,Family,Fantasy",
+        "primaryTitle": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+        "runtimeMinutes": 143,
+        "startYear": 2005,
+        "tconst": "tt0363771"
+    },
+    {
+        "actorList": "Mark Wahlberg,Mila Kunis,Seth MacFarlane,Joel McHale",
+        "averageRating": 6.9,
+        "genres": "Comedy",
+        "primaryTitle": "Ted",
+        "runtimeMinutes": 106,
+        "startYear": 2012,
+        "tconst": "tt1637725"
+    },
+    {
+        "actorList": "Carrie Fisher,Mark Hamill,John Boyega,Daisy Ridley",
+        "averageRating": 6.9,
+        "genres": "Action,Adventure,Fantasy",
+        "primaryTitle": "Star Wars: Episode VIII - The Last Jedi",
+        "runtimeMinutes": 152,
+        "startYear": 2017,
+        "tconst": "tt2527336"
+    },
+    {
+        "actorList": "Woody Harrelson,Donald Glover,Alden Ehrenreich,Emilia Clarke",
+        "averageRating": 6.9,
+        "genres": "Action,Adventure,Sci-Fi",
+        "primaryTitle": "Solo: A Star Wars Story",
+        "runtimeMinutes": 135,
+        "startYear": 2018,
+        "tconst": "tt3778644"
+    },
+    {
+        "actorList": "Gary Cole,James Franco,Seth Rogen,Danny McBride",
+        "averageRating": 6.9,
+        "genres": "Action,Comedy,Crime",
+        "primaryTitle": "Pineapple Express",
+        "runtimeMinutes": 111,
+        "startYear": 2008,
+        "tconst": "tt0910936"
+    },
+    {
+        "actorList": "Charlie Day,Idris Elba,Charlie Hunnam,Rinko Kikuchi",
+        "averageRating": 6.9,
+        "genres": "Action,Adventure,Sci-Fi",
+        "primaryTitle": "Pacific Rim",
+        "runtimeMinutes": 131,
+        "startYear": 2013,
+        "tconst": "tt1663662"
+    },
+    {
+        "actorList": "Brad Pitt,George Clooney,Matt Damon,Michael Mantell",
+        "averageRating": 6.9,
+        "genres": "Crime,Thriller",
+        "primaryTitle": "Ocean's Thirteen",
+        "runtimeMinutes": 122,
+        "startYear": 2007,
+        "tconst": "tt0496806"
+    },
+    {
+        "actorList": "Nicolas Cage,Sean Bean,Justin Bartha,Diane Kruger",
+        "averageRating": 6.9,
+        "genres": "Action,Adventure,Mystery",
+        "primaryTitle": "National Treasure",
+        "runtimeMinutes": 131,
+        "startYear": 2004,
+        "tconst": "tt0368891"
+    },
+    {
+        "actorList": "Tom Cruise,Philip Seymour Hoffman,Ving Rhames,Michelle Monaghan",
+        "averageRating": 6.9,
+        "genres": "Action,Adventure,Thriller",
+        "primaryTitle": "Mission: Impossible III",
+        "runtimeMinutes": 126,
+        "startYear": 2006,
+        "tconst": "tt0317919"
+    },
+    {
+        "actorList": "Jada Pinkett Smith,Chris Rock,David Schwimmer,Ben Stiller",
+        "averageRating": 6.9,
+        "genres": "Adventure,Animation,Comedy",
+        "primaryTitle": "Madagascar",
+        "runtimeMinutes": 86,
+        "startYear": 2005,
+        "tconst": "tt0351283"
+    },
+    {
+        "actorList": "Jim Carrey,Jennifer Tilly,Amanda Donohoe,Maura Tierney",
+        "averageRating": 6.9,
+        "genres": "Comedy,Fantasy",
+        "primaryTitle": "Liar Liar",
+        "runtimeMinutes": 86,
+        "startYear": 1997,
+        "tconst": "tt0119528"
+    },
+    {
+        "actorList": "Jack Black,Kevin Hart,Dwayne Johnson,Karen Gillan",
+        "averageRating": 6.9,
+        "genres": "Action,Adventure,Comedy",
+        "primaryTitle": "Jumanji: Welcome to the Jungle",
+        "runtimeMinutes": 119,
+        "startYear": 2017,
+        "tconst": "tt2283362"
+    },
+    {
+        "actorList": "Jason Bateman,Charlie Day,Jason Sudeikis,Steve Wiebe",
+        "averageRating": 6.9,
+        "genres": "Comedy,Crime",
+        "primaryTitle": "Horrible Bosses",
+        "runtimeMinutes": 98,
+        "startYear": 2011,
+        "tconst": "tt1499658"
+    },
+    {
+        "actorList": "John Hurt,Ron Perlman,Selma Blair,Doug Jones",
+        "averageRating": 6.9,
+        "genres": "Action,Adventure,Fantasy",
+        "primaryTitle": "Hellboy",
+        "runtimeMinutes": 122,
+        "startYear": 2004,
+        "tconst": "tt0167190"
+    },
+    {
+        "actorList": "Samuel L. Jackson,Chris Evans,Hugo Weaving,Hayley Atwell",
+        "averageRating": 6.9,
+        "genres": "Action,Adventure,Sci-Fi",
+        "primaryTitle": "Captain America: The First Avenger",
+        "runtimeMinutes": 124,
+        "startYear": 2011,
+        "tconst": "tt0458339"
+    },
+    {
+        "actorList": "Willem Dafoe,Jason Momoa,Patrick Wilson,Amber Heard",
+        "averageRating": 6.9,
+        "genres": "Action,Adventure,Fantasy",
+        "primaryTitle": "Aquaman",
+        "runtimeMinutes": 143,
+        "startYear": 2018,
+        "tconst": "tt1477834"
+    },
+    {
+        "actorList": "Jim Carrey,Bradley Cooper,Zooey Deschanel,John Michael Higgins",
+        "averageRating": 6.8,
+        "genres": "Comedy,Romance",
+        "primaryTitle": "Yes Man",
+        "runtimeMinutes": 104,
+        "startYear": 2008,
+        "tconst": "tt1068680"
+    },
+    {
+        "actorList": "Natalie Portman,Stellan Skarsgård,Tom Hiddleston,Chris Hemsworth",
+        "averageRating": 6.8,
+        "genres": "Action,Adventure,Fantasy",
+        "primaryTitle": "Thor: The Dark World",
+        "runtimeMinutes": 112,
+        "startYear": 2013,
+        "tconst": "tt1981115"
+    },
+    {
+        "actorList": "Thomas Brodie-Sangster,Will Poulter,Kaya Scodelario,Dylan O'Brien",
+        "averageRating": 6.8,
+        "genres": "Action,Mystery,Sci-Fi",
+        "primaryTitle": "The Maze Runner",
+        "runtimeMinutes": 113,
+        "startYear": 2014,
+        "tconst": "tt1790864"
+    },
+    {
+        "actorList": "Vin Diesel,Jordana Brewster,Michelle Rodriguez,Paul Walker",
+        "averageRating": 6.8,
+        "genres": "Action,Crime,Thriller",
+        "primaryTitle": "The Fast and the Furious",
+        "runtimeMinutes": 106,
+        "startYear": 2001,
+        "tconst": "tt0232500"
+    },
+    {
+        "actorList": "Gary Oldman,Denzel Washington,Mila Kunis,Ray Stevenson",
+        "averageRating": 6.8,
+        "genres": "Action,Adventure,Drama",
+        "primaryTitle": "The Book of Eli",
+        "runtimeMinutes": 118,
+        "startYear": 2010,
+        "tconst": "tt1037705"
+    },
+    {
+        "actorList": "Bruce Boxleitner,Jeff Bridges,Olivia Wilde,Garrett Hedlund",
+        "averageRating": 6.8,
+        "genres": "Action,Adventure,Sci-Fi",
+        "primaryTitle": "TRON: Legacy",
+        "runtimeMinutes": 125,
+        "startYear": 2010,
+        "tconst": "tt1104001"
+    },
+    {
+        "actorList": "Ralph Fiennes,Daniel Craig,Christoph Waltz,Léa Seydoux",
+        "averageRating": 6.8,
+        "genres": "Action,Adventure,Thriller",
+        "primaryTitle": "Spectre",
+        "runtimeMinutes": 148,
+        "startYear": 2015,
+        "tconst": "tt2379713"
+    },
+    {
+        "actorList": "Mel Gibson,Joaquin Phoenix,Rory Culkin,Abigail Breslin",
+        "averageRating": 6.8,
+        "genres": "Drama,Mystery,Sci-Fi",
+        "primaryTitle": "Signs",
+        "runtimeMinutes": 106,
+        "startYear": 2002,
+        "tconst": "tt0286106"
+    },
+    {
+        "actorList": "Tommy Lee Jones,Will Smith,Josh Brolin",
+        "averageRating": 6.8,
+        "genres": "Action,Adventure,Comedy",
+        "primaryTitle": "Men in Black 3",
+        "runtimeMinutes": 106,
+        "startYear": 2012,
+        "tconst": "tt1409024"
+    },
+    {
+        "actorList": "Macaulay Culkin,Joe Pesci,Catherine O'Hara,Daniel Stern",
+        "averageRating": 6.8,
+        "genres": "Adventure,Comedy,Crime",
+        "primaryTitle": "Home Alone 2: Lost in New York",
+        "runtimeMinutes": 120,
+        "startYear": 1992,
+        "tconst": "tt0104431"
+    },
+    {
+        "actorList": "Samuel L. Jackson,Jude Law,Brie Larson,Ben Mendelsohn",
+        "averageRating": 6.8,
+        "genres": "Action,Adventure,Sci-Fi",
+        "primaryTitle": "Captain Marvel",
+        "runtimeMinutes": 123,
+        "startYear": 2019,
+        "tconst": "tt4154664"
+    },
+    {
+        "actorList": "Jennifer Aniston,Jim Carrey,Morgan Freeman,Philip Baker Hall",
+        "averageRating": 6.8,
+        "genres": "Comedy,Fantasy",
+        "primaryTitle": "Bruce Almighty",
+        "runtimeMinutes": 101,
+        "startYear": 2003,
+        "tconst": "tt0315327"
+    },
+    {
+        "actorList": "Natalie Portman,Jennifer Jason Leigh,Benedict Wong,Tessa Thompson",
+        "averageRating": 6.8,
+        "genres": "Adventure,Drama,Horror",
+        "primaryTitle": "Annihilation",
+        "runtimeMinutes": 115,
+        "startYear": 2018,
+        "tconst": "tt2798920"
+    },
+    {
+        "actorList": "Drew Barrymore,Sean Astin,Adam Sandler,Rob Schneider",
+        "averageRating": 6.8,
+        "genres": "Comedy,Drama,Romance",
+        "primaryTitle": "50 First Dates",
+        "runtimeMinutes": 99,
+        "startYear": 2004,
+        "tconst": "tt0343660"
+    },
+    {
+        "actorList": "Famke Janssen,Halle Berry,Patrick Stewart,Hugh Jackman",
+        "averageRating": 6.7,
+        "genres": "Action,Adventure,Sci-Fi",
+        "primaryTitle": "X-Men: The Last Stand",
+        "runtimeMinutes": 104,
+        "startYear": 2006,
+        "tconst": "tt0376994"
+    },
+    {
+        "actorList": "Tom Hardy,Michelle Williams,Riz Ahmed,Scott Haze",
+        "averageRating": 6.7,
+        "genres": "Action,Adventure,Sci-Fi",
+        "primaryTitle": "Venom",
+        "runtimeMinutes": 112,
+        "startYear": 2018,
+        "tconst": "tt1270797"
+    },
+    {
+        "actorList": "Hugh Jackman,Will Yun Lee,Rila Fukushima,Tao Okamoto",
+        "averageRating": 6.7,
+        "genres": "Action,Sci-Fi",
+        "primaryTitle": "The Wolverine",
+        "runtimeMinutes": 126,
+        "startYear": 2013,
+        "tconst": "tt1430132"
+    },
+    {
+        "actorList": "Sandra Bullock,Craig T. Nelson,Ryan Reynolds,Mary Steenburgen",
+        "averageRating": 6.7,
+        "genres": "Comedy,Drama,Romance",
+        "primaryTitle": "The Proposal",
+        "runtimeMinutes": 108,
+        "startYear": 2009,
+        "tconst": "tt1041829"
+    },
+    {
+        "actorList": "Keanu Reeves,Laurence Fishburne,Carrie-Anne Moss,Hugo Weaving",
+        "averageRating": 6.7,
+        "genres": "Action,Sci-Fi",
+        "primaryTitle": "The Matrix Revolutions",
+        "runtimeMinutes": 129,
+        "startYear": 2003,
+        "tconst": "tt0242653"
+    },
+    {
+        "actorList": "Liv Tyler,William Hurt,Tim Roth,Edward Norton",
+        "averageRating": 6.7,
+        "genres": "Action,Adventure,Sci-Fi",
+        "primaryTitle": "The Incredible Hulk",
+        "runtimeMinutes": 112,
+        "startYear": 2008,
+        "tconst": "tt0800080"
+    },
+    {
+        "actorList": "Samuel L. Jackson,John C. Reilly,Brie Larson,Tom Hiddleston",
+        "averageRating": 6.7,
+        "genres": "Action,Adventure,Fantasy",
+        "primaryTitle": "Kong: Skull Island",
+        "runtimeMinutes": 118,
+        "startYear": 2017,
+        "tconst": "tt3731562"
+    },
+    {
+        "actorList": "Colin Firth,Mark Strong,Channing Tatum,Taron Egerton",
+        "averageRating": 6.7,
+        "genres": "Action,Adventure,Comedy",
+        "primaryTitle": "Kingsman: The Golden Circle",
+        "runtimeMinutes": 141,
+        "startYear": 2017,
+        "tconst": "tt4649466"
+    },
+    {
+        "actorList": "Justin Timberlake,Cillian Murphy,Amanda Seyfried,Olivia Wilde",
+        "averageRating": 6.7,
+        "genres": "Action,Sci-Fi,Thriller",
+        "primaryTitle": "In Time",
+        "runtimeMinutes": 109,
+        "startYear": 2011,
+        "tconst": "tt1637688"
+    },
+    {
+        "actorList": "Will Smith,Amber Valletta,Kevin James,Eva Mendes",
+        "averageRating": 6.7,
+        "genres": "Comedy,Romance",
+        "primaryTitle": "Hitch",
+        "runtimeMinutes": 118,
+        "startYear": 2005,
+        "tconst": "tt0386588"
+    },
+    {
+        "actorList": "Kate Winslet,Shailene Woodley,Jai Courtney,Theo James",
+        "averageRating": 6.7,
+        "genres": "Action,Adventure,Mystery",
+        "primaryTitle": "Divergent",
+        "runtimeMinutes": 139,
+        "startYear": 2014,
+        "tconst": "tt1840309"
+    },
+    {
+        "actorList": "Johnny Depp,Helena Bonham Carter,Freddie Highmore,David Kelly",
+        "averageRating": 6.7,
+        "genres": "Adventure,Comedy,Family",
+        "primaryTitle": "Charlie and the Chocolate Factory",
+        "runtimeMinutes": 115,
+        "startYear": 2005,
+        "tconst": "tt0367594"
+    },
+    {
+        "actorList": "Rachel Weisz,Scarlett Johansson,David Harbour,Florence Pugh",
+        "averageRating": 6.7,
+        "genres": "Action,Adventure,Sci-Fi",
+        "primaryTitle": "Black Widow",
+        "runtimeMinutes": 134,
+        "startYear": 2021,
+        "tconst": "tt3480822"
+    },
+    {
+        "actorList": "Liv Tyler,Bruce Willis,Ben Affleck,Billy Bob Thornton",
+        "averageRating": 6.7,
+        "genres": "Action,Adventure,Sci-Fi",
+        "primaryTitle": "Armageddon",
+        "runtimeMinutes": 151,
+        "startYear": 1998,
+        "tconst": "tt0120591"
+    },
+    {
+        "actorList": "Liev Schreiber,Ryan Reynolds,Danny Huston,Hugh Jackman",
+        "averageRating": 6.6,
+        "genres": "Action,Sci-Fi",
+        "primaryTitle": "X-Men Origins: Wolverine",
+        "runtimeMinutes": 107,
+        "startYear": 2009,
+        "tconst": "tt0458525"
+    },
+    {
+        "actorList": "Jay Baruchel,James Franco,Seth Rogen,Jonah Hill",
+        "averageRating": 6.6,
+        "genres": "Comedy",
+        "primaryTitle": "This Is the End",
+        "runtimeMinutes": 107,
+        "startYear": 2013,
+        "tconst": "tt1245492"
+    },
+    {
+        "actorList": "Woody Harrelson,Josh Hutcherson,Jennifer Lawrence,Liam Hemsworth",
+        "averageRating": 6.6,
+        "genres": "Action,Adventure,Sci-Fi",
+        "primaryTitle": "The Hunger Games: Mockingjay - Part 1",
+        "runtimeMinutes": 123,
+        "startYear": 2014,
+        "tconst": "tt1951265"
+    },
+    {
+        "actorList": "Sylvester Stallone,Jean-Claude Van Damme,Randy Couture,Liam Hemsworth",
+        "averageRating": 6.6,
+        "genres": "Action,Adventure,Thriller",
+        "primaryTitle": "The Expendables 2",
+        "runtimeMinutes": 103,
+        "startYear": 2012,
+        "tconst": "tt1764651"
+    },
+    {
+        "actorList": "Tom Hanks,Jean Reno,Ian McKellen,Audrey Tautou",
+        "averageRating": 6.6,
+        "genres": "Mystery,Thriller",
+        "primaryTitle": "The Da Vinci Code",
+        "runtimeMinutes": 149,
+        "startYear": 2006,
+        "tconst": "tt0382625"
+    },
+    {
+        "actorList": "Jamie Foxx,Paul Giamatti,Emma Stone,Andrew Garfield",
+        "averageRating": 6.6,
+        "genres": "Action,Adventure,Sci-Fi",
+        "primaryTitle": "The Amazing Spider-Man 2",
+        "runtimeMinutes": 142,
+        "startYear": 2014,
+        "tconst": "tt1872181"
+    },
+    {
+        "actorList": "Ewan McGregor,Natalie Portman,Christopher Lee,Hayden Christensen",
+        "averageRating": 6.6,
+        "genres": "Action,Adventure,Fantasy",
+        "primaryTitle": "Star Wars: Episode II - Attack of the Clones",
+        "runtimeMinutes": 142,
+        "startYear": 2002,
+        "tconst": "tt0121765"
+    },
+    {
+        "actorList": "Judi Dench,Mathieu Amalric,Daniel Craig,Olga Kurylenko",
+        "averageRating": 6.6,
+        "genres": "Action,Adventure,Thriller",
+        "primaryTitle": "Quantum of Solace",
+        "runtimeMinutes": 106,
+        "startYear": 2008,
+        "tconst": "tt0830515"
+    },
+    {
+        "actorList": "Johnny Depp,Geoffrey Rush,Penélope Cruz,Ian McShane",
+        "averageRating": 6.6,
+        "genres": "Action,Adventure,Fantasy",
+        "primaryTitle": "Pirates of the Caribbean: On Stranger Tides",
+        "runtimeMinutes": 137,
+        "startYear": 2011,
+        "tconst": "tt1298650"
+    },
+    {
+        "actorList": "Jenna Elfman,Mila Kunis,Justin Timberlake,Patricia Clarkson",
+        "averageRating": 6.6,
+        "genres": "Comedy,Romance",
+        "primaryTitle": "Friends with Benefits",
+        "runtimeMinutes": 109,
+        "startYear": 2011,
+        "tconst": "tt1632708"
+    },
+    {
+        "actorList": "Jodie Foster,Matt Damon,Alice Braga,Sharlto Copley",
+        "averageRating": 6.6,
+        "genres": "Action,Drama,Sci-Fi",
+        "primaryTitle": "Elysium",
+        "runtimeMinutes": 109,
+        "startYear": 2013,
+        "tconst": "tt1535108"
+    },
+    {
+        "actorList": "Sandra Bullock,John Malkovich,Sarah Paulson,Trevante Rhodes",
+        "averageRating": 6.6,
+        "genres": "Horror,Sci-Fi",
+        "primaryTitle": "Bird Box",
+        "runtimeMinutes": 124,
+        "startYear": 2018,
+        "tconst": "tt2737304"
+    },
+    {
+        "actorList": "Tom Cruise,Tim Robbins,Miranda Otto,Dakota Fanning",
+        "averageRating": 6.5,
+        "genres": "Action,Adventure,Sci-Fi",
+        "primaryTitle": "War of the Worlds",
+        "runtimeMinutes": 116,
+        "startYear": 2005,
+        "tconst": "tt0407304"
+    },
+    {
+        "actorList": "Jeff Goldblum,Julianne Moore,Pete Postlethwaite,Vince Vaughn",
+        "averageRating": 6.5,
+        "genres": "Action,Adventure,Sci-Fi",
+        "primaryTitle": "The Lost World: Jurassic Park",
+        "runtimeMinutes": 129,
+        "startYear": 1997,
+        "tconst": "tt0119567"
+    },
+    {
+        "actorList": "Lizzy Caplan,James Franco,Seth Rogen,Randall Park",
+        "averageRating": 6.5,
+        "genres": "Action,Adventure,Comedy",
+        "primaryTitle": "The Interview",
+        "runtimeMinutes": 112,
+        "startYear": 2014,
+        "tconst": "tt2788710"
+    },
+    {
+        "actorList": "Woody Harrelson,Josh Hutcherson,Jennifer Lawrence,Liam Hemsworth",
+        "averageRating": 6.5,
+        "genres": "Action,Adventure,Sci-Fi",
+        "primaryTitle": "The Hunger Games: Mockingjay - Part 2",
+        "runtimeMinutes": 137,
+        "startYear": 2015,
+        "tconst": "tt1951266"
+    },
+    {
+        "actorList": "Justin Bartha,Bradley Cooper,Zach Galifianakis,Ed Helms",
+        "averageRating": 6.5,
+        "genres": "Comedy",
+        "primaryTitle": "The Hangover Part II",
+        "runtimeMinutes": 102,
+        "startYear": 2011,
+        "tconst": "tt1411697"
+    },
+    {
+        "actorList": "Christian Bale,Sam Worthington,Anton Yelchin,Moon Bloodgood",
+        "averageRating": 6.5,
+        "genres": "Action,Sci-Fi",
+        "primaryTitle": "Terminator Salvation",
+        "runtimeMinutes": 115,
+        "startYear": 2009,
+        "tconst": "tt0438488"
+    },
+    {
+        "actorList": "Oscar Isaac,Adam Driver,John Boyega,Daisy Ridley",
+        "averageRating": 6.5,
+        "genres": "Action,Adventure,Fantasy",
+        "primaryTitle": "Star Wars: Episode IX - The Rise of Skywalker",
+        "runtimeMinutes": 141,
+        "startYear": 2019,
+        "tconst": "tt2527338"
+    },
+    {
+        "actorList": "Ewan McGregor,Natalie Portman,Liam Neeson,Jake Lloyd",
+        "averageRating": 6.5,
+        "genres": "Action,Adventure,Fantasy",
+        "primaryTitle": "Star Wars: Episode I - The Phantom Menace",
+        "runtimeMinutes": 136,
+        "startYear": 1999,
+        "tconst": "tt0120915"
+    },
+    {
+        "actorList": "Liev Schreiber,Angelina Jolie,Chiwetel Ejiofor,Daniel Olbrychski",
+        "averageRating": 6.5,
+        "genres": "Action,Thriller",
+        "primaryTitle": "Salt",
+        "runtimeMinutes": 100,
+        "startYear": 2010,
+        "tconst": "tt0944835"
+    },
+    {
+        "actorList": "Brad Pitt,George Clooney,Julia Roberts,Catherine Zeta-Jones",
+        "averageRating": 6.5,
+        "genres": "Crime,Thriller",
+        "primaryTitle": "Ocean's Twelve",
+        "runtimeMinutes": 125,
+        "startYear": 2004,
+        "tconst": "tt0349903"
+    },
+    {
+        "actorList": "Brad Pitt,Vince Vaughn,Angelina Jolie,Adam Brody",
+        "averageRating": 6.5,
+        "genres": "Action,Comedy,Crime",
+        "primaryTitle": "Mr. & Mrs. Smith",
+        "runtimeMinutes": 120,
+        "startYear": 2005,
+        "tconst": "tt0356910"
+    },
+    {
+        "actorList": "Robert Downey Jr.,Jamie Foxx,Zach Galifianakis,Michelle Monaghan",
+        "averageRating": 6.5,
+        "genres": "Comedy,Drama",
+        "primaryTitle": "Due Date",
+        "runtimeMinutes": 95,
+        "startYear": 2010,
+        "tconst": "tt1231583"
+    },
+    {
+        "actorList": "Ben Affleck,Amy Adams,Henry Cavill,Jesse Eisenberg",
+        "averageRating": 6.5,
+        "genres": "Action,Adventure,Sci-Fi",
+        "primaryTitle": "Batman v Superman: Dawn of Justice",
+        "runtimeMinutes": 152,
+        "startYear": 2016,
+        "tconst": "tt2975590"
+    },
+    {
+        "actorList": "Brendan Fraser,John Hannah,Rachel Weisz,Arnold Vosloo",
+        "averageRating": 6.4,
+        "genres": "Action,Adventure,Fantasy",
+        "primaryTitle": "The Mummy Returns",
+        "runtimeMinutes": 130,
+        "startYear": 2001,
+        "tconst": "tt0209163"
+    },
+    {
+        "actorList": "Dolph Lundgren,Sylvester Stallone,Jet Li,Jason Statham",
+        "averageRating": 6.4,
+        "genres": "Action,Adventure,Thriller",
+        "primaryTitle": "The Expendables",
+        "runtimeMinutes": 103,
+        "startYear": 2010,
+        "tconst": "tt1320253"
+    },
+    {
+        "actorList": "Dennis Quaid,Emmy Rossum,Dash Mihok,Jake Gyllenhaal",
+        "averageRating": 6.4,
+        "genres": "Action,Adventure,Sci-Fi",
+        "primaryTitle": "The Day After Tomorrow",
+        "runtimeMinutes": 124,
+        "startYear": 2004,
+        "tconst": "tt0319262"
+    },
+    {
+        "actorList": "Carla Gugino,Ben Stiller,Dick Van Dyke,Ricky Gervais",
+        "averageRating": 6.4,
+        "genres": "Adventure,Comedy,Family",
+        "primaryTitle": "Night at the Museum",
+        "runtimeMinutes": 108,
+        "startYear": 2006,
+        "tconst": "tt0477347"
+    },
+    {
+        "actorList": "Morgan Freeman,Choi Min-sik,Scarlett Johansson,Amr Waked",
+        "averageRating": 6.4,
+        "genres": "Action,Sci-Fi,Thriller",
+        "primaryTitle": "Lucy",
+        "runtimeMinutes": 89,
+        "startYear": 2014,
+        "tconst": "tt2872732"
+    },
+    {
+        "actorList": "Will Smith,Charlize Theron,Jason Bateman,Jae Head",
+        "averageRating": 6.4,
+        "genres": "Action,Drama,Fantasy",
+        "primaryTitle": "Hancock",
+        "runtimeMinutes": 92,
+        "startYear": 2008,
+        "tconst": "tt0448157"
+    },
+    {
+        "actorList": "Bryan Cranston,Elizabeth Olsen,Ken Watanabe,Aaron Taylor-Johnson",
+        "averageRating": 6.4,
+        "genres": "Action,Adventure,Sci-Fi",
+        "primaryTitle": "Godzilla",
+        "runtimeMinutes": 123,
+        "startYear": 2014,
+        "tconst": "tt0831387"
+    },
+    {
+        "actorList": "Johnny Depp,Helena Bonham Carter,Anne Hathaway,Mia Wasikowska",
+        "averageRating": 6.4,
+        "genres": "Adventure,Family,Fantasy",
+        "primaryTitle": "Alice in Wonderland",
+        "runtimeMinutes": 108,
+        "startYear": 2010,
+        "tconst": "tt1014759"
+    },
+    {
+        "actorList": "Claire Danes,Arnold Schwarzenegger,Nick Stahl,Kristanna Loken",
+        "averageRating": 6.3,
+        "genres": "Action,Sci-Fi",
+        "primaryTitle": "Terminator 3: Rise of the Machines",
+        "runtimeMinutes": 109,
+        "startYear": 2003,
+        "tconst": "tt0181852"
+    },
+    {
+        "actorList": "Kirsten Dunst,Tobey Maguire,Thomas Haden Church,Topher Grace",
+        "averageRating": 6.3,
+        "genres": "Action,Adventure,Sci-Fi",
+        "primaryTitle": "Spider-Man 3",
+        "runtimeMinutes": 139,
+        "startYear": 2007,
+        "tconst": "tt0413300"
+    },
+    {
+        "actorList": "Lisa Kudrow,Rose Byrne,Seth Rogen,Zac Efron",
+        "averageRating": 6.3,
+        "genres": "Comedy",
+        "primaryTitle": "Neighbors",
+        "runtimeMinutes": 97,
+        "startYear": 2014,
+        "tconst": "tt2004420"
+    },
+    {
+        "actorList": "Josh Duhamel,Shia LaBeouf,Tyrese Gibson,Rosie Huntington-Whiteley",
+        "averageRating": 6.2,
+        "genres": "Action,Adventure,Sci-Fi",
+        "primaryTitle": "Transformers: Dark of the Moon",
+        "runtimeMinutes": 154,
+        "startYear": 2011,
+        "tconst": "tt1399103"
+    },
+    {
+        "actorList": "Famke Janssen,Liam Neeson,Leland Orser,Maggie Grace",
+        "averageRating": 6.2,
+        "genres": "Action,Crime,Thriller",
+        "primaryTitle": "Taken 2",
+        "runtimeMinutes": 92,
+        "startYear": 2012,
+        "tconst": "tt1397280"
+    },
+    {
+        "actorList": "Ben Affleck,Kate Beckinsale,Josh Hartnett,William Lee Scott",
+        "averageRating": 6.2,
+        "genres": "Action,Drama,History",
+        "primaryTitle": "Pearl Harbor",
+        "runtimeMinutes": 183,
+        "startYear": 2001,
+        "tconst": "tt0213149"
+    },
+    {
+        "actorList": "Harrison Ford,Karen Allen,Cate Blanchett,Shia LaBeouf",
+        "averageRating": 6.2,
+        "genres": "Action,Adventure",
+        "primaryTitle": "Indiana Jones and the Kingdom of the Crystal Skull",
+        "runtimeMinutes": 122,
+        "startYear": 2008,
+        "tconst": "tt0367882"
+    },
+    {
+        "actorList": "Tom Cruise,Ving Rhames,Thandiwe Newton,Dougray Scott",
+        "averageRating": 6.1,
+        "genres": "Action,Adventure,Thriller",
+        "primaryTitle": "Mission: Impossible II",
+        "runtimeMinutes": 123,
+        "startYear": 2000,
+        "tconst": "tt0120755"
+    },
+    {
+        "actorList": "Tommy Lee Jones,Will Smith,Lara Flynn Boyle,Rip Torn",
+        "averageRating": 6.1,
+        "genres": "Action,Adventure,Comedy",
+        "primaryTitle": "Men in Black II",
+        "runtimeMinutes": 88,
+        "startYear": 2002,
+        "tconst": "tt0120912"
+    },
+    {
+        "actorList": "Ben Affleck,Jason Momoa,Gal Gadot,Ezra Miller",
+        "averageRating": 6.1,
+        "genres": "Action,Adventure,Fantasy",
+        "primaryTitle": "Justice League",
+        "runtimeMinutes": 120,
+        "startYear": 2017,
+        "tconst": "tt0974015"
+    },
+    {
+        "actorList": "Samuel L. Jackson,Jamie Bell,Hayden Christensen,Rachel Bilson",
+        "averageRating": 6.1,
+        "genres": "Action,Adventure,Sci-Fi",
+        "primaryTitle": "Jumper",
+        "runtimeMinutes": 88,
+        "startYear": 2008,
+        "tconst": "tt0489099"
+    },
+    {
+        "actorList": "Josh Duhamel,Shia LaBeouf,Tyrese Gibson,Megan Fox",
+        "averageRating": 6.0,
+        "genres": "Action,Adventure,Sci-Fi",
+        "primaryTitle": "Transformers: Revenge of the Fallen",
+        "runtimeMinutes": 149,
+        "startYear": 2009,
+        "tconst": "tt1055369"
+    },
+    {
+        "actorList": "Will Smith,Jared Leto,Viola Davis,Margot Robbie",
+        "averageRating": 5.9,
+        "genres": "Action,Adventure,Fantasy",
+        "primaryTitle": "Suicide Squad",
+        "runtimeMinutes": 123,
+        "startYear": 2016,
+        "tconst": "tt1386697"
+    },
+    {
+        "actorList": "Téa Leoni,William H. Macy,Sam Neill,Alessandro Nivola",
+        "averageRating": 5.9,
+        "genres": "Action,Adventure,Sci-Fi",
+        "primaryTitle": "Jurassic Park III",
+        "runtimeMinutes": 92,
+        "startYear": 2001,
+        "tconst": "tt0163025"
+    },
+    {
+        "actorList": "Justin Bartha,Bradley Cooper,Zach Galifianakis,Ed Helms",
+        "averageRating": 5.8,
+        "genres": "Comedy,Crime",
+        "primaryTitle": "The Hangover Part III",
+        "runtimeMinutes": 100,
+        "startYear": 2013,
+        "tconst": "tt1951261"
+    },
+    {
+        "actorList": "John Cusack,Amanda Peet,Chiwetel Ejiofor,Thandiwe Newton",
+        "averageRating": 5.8,
+        "genres": "Action,Adventure,Sci-Fi",
+        "primaryTitle": "2012",
+        "runtimeMinutes": 158,
+        "startYear": 2009,
+        "tconst": "tt1190080"
+    },
+    {
+        "actorList": "Jessica Alba,Michael Chiklis,Chris Evans,Ioan Gruffudd",
+        "averageRating": 5.7,
+        "genres": "Action,Adventure,Fantasy",
+        "primaryTitle": "Fantastic Four",
+        "runtimeMinutes": 106,
+        "startYear": 2005,
+        "tconst": "tt0120667"
+    },
+    {
+        "actorList": "Mark Wahlberg,Stanley Tucci,Nicola Peltz,Jack Reynor",
+        "averageRating": 5.6,
+        "genres": "Action,Adventure,Sci-Fi",
+        "primaryTitle": "Transformers: Age of Extinction",
+        "runtimeMinutes": 165,
+        "startYear": 2014,
+        "tconst": "tt2109248"
+    },
+    {
+        "actorList": "Billy Burke,Kristen Stewart,Sarah Clarke,Robert Pattinson",
+        "averageRating": 5.3,
+        "genres": "Drama,Fantasy,Romance",
+        "primaryTitle": "Twilight",
+        "runtimeMinutes": 122,
+        "startYear": 2008,
+        "tconst": "tt1099212"
+    },
+    {
+        "actorList": "Jennifer Ehle,Dakota Johnson,Jamie Dornan,Eloise Mumford",
+        "averageRating": 4.2,
+        "genres": "Drama,Romance,Thriller",
+        "primaryTitle": "Fifty Shades of Grey",
+        "runtimeMinutes": 125,
+        "startYear": 2015,
+        "tconst": "tt2322441"
+    }
+]

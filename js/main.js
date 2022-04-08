@@ -6,15 +6,33 @@ var color_correct = "#456355"
 var color_close = "#FCD16B"
 var color_wrong = "#AEA8A8"
 
+var up_arrow = "\u2B06";
+var down_arrow = "\u2B07"
+var number_unicode = [
+    "\u0030\uFE0F\u20E3",
+    "\u0031\uFE0F\u20E3",
+    "\u0032\uFE0F\u20E3",
+    "\u0033\uFE0F\u20E3",
+    "\u0034\uFE0F\u20E3"
+];
+var green_tile = "🟩";
+var black_tile = "⬛"
+var orange_tile = "🟧"
+
+var today = new Date();
+var date = String(today.getFullYear()+'-'+String((today.getMonth()+1)).padStart(2, '0')+'-'+String(today.getDate()).padStart(2, '0'));
+var movle_nr = 0;
+
+var clipboard_rows = [];
+
 var finished = false;
+var won = false;
 
 $(document).ready(function(){
     var films_temp = [];
-    $.getJSON("db/titles-60-final.json", function(data){
+    $.getJSON("db/titles-300-temp.json", function(data){
         films = data;
 
-        var today = new Date();
-        var date = String(today.getFullYear()+'-'+String((today.getMonth()+1)).padStart(2, '0')+'-'+String(today.getDate()).padStart(2, '0'));
 
         for (var i = 0; i<films.length;i++){
             if (date === films[i].date){
@@ -23,6 +41,7 @@ $(document).ready(function(){
                 qt_field = document.getElementById('quote-tag');
                 qt_field.innerHTML = quote;
                 
+                movle_nr = i;
                 console.log("Film found on " + i)
             }
         }
@@ -79,6 +98,7 @@ function guess(g){
     guessed_film =  getFilmByName(g)[0];
     inp = document.getElementById("guess-input");
     inp.value = getFilmString(guessed_film);
+    var clip_row = "";
     
     
     if (guesses <= 7 && !finished){
@@ -89,6 +109,7 @@ function guess(g){
             msg = document.getElementById("finish-message")
             if (guessed_film.primaryTitle == answer.primaryTitle){
                 msg.innerHTML = "(｡◕‿◕｡)";
+                won = true;
             }
             else{
                 var jammer = document.createTextNode("į̶̨̥̥̠͓̃̌͐̅̚ɒ̶̯̖̞͍̍̈́͂̎͜͝m̵̫̗̻̼͇̊̓̾͆̓m̶̡̞̺͙̙͐̀̿͝͝ɘ̸̟͓̺͇̞͒͂̓̌͊ɿ̷̨̨̡͖̬͗͋̊̿͝ ");
@@ -113,18 +134,25 @@ function guess(g){
         year_sp = document.createElement("SPAN");
         year.style.backgroundColor = color_wrong;
 
-        if (Math.abs(guessed_film.startYear - answer.startYear) <= 2){
+        if (Math.abs(guessed_film.startYear - answer.startYear) <= 2 && Math.abs(guessed_film.startYear - answer.startYear) > 0){
             year.style.backgroundColor = color_close;
+            clip_row += orange_tile;
+        }
+        else if (Math.abs(guessed_film.startYear - answer.startYear) > 2){
+            clip_row += black_tile;
+        }
+        else {
+            year.style.backgroundColor = color_correct;
+            clip_row += green_tile;
         }
 
         if (guessed_film.startYear < answer.startYear){
             year_result += " &#8593";
+            // clip_row += up_arrow;
         }
         else if (guessed_film.startYear > answer.startYear){
             year_result += " &#8595"
-        }
-        else {
-            year.style.backgroundColor = color_correct;
+            // clip_row += down_arrow;
         }
         year_sp.innerHTML = year_result;
         year.appendChild(year_sp)
@@ -149,10 +177,16 @@ function guess(g){
             sp.innerHTML = directors_arr[i] + end;
             directors.appendChild(sp);
         }
-        console.log(answer.directors.split(",").length)
-        console.log(correct_directors)
+
         if (correct_directors == answer.directors.split(",").length){
             directors.style.backgroundColor = color_correct;
+            clip_row += green_tile;
+        } 
+        else if (correct_directors == 0) {
+            clip_row += black_tile;
+        }
+        else{
+            clip_row += orange_tile;
         }
         var col = directors.parentElement;
         col.style.transform = "rotateY(180deg)";
@@ -183,6 +217,13 @@ function guess(g){
         
         if (correct_genres == answer.genres.split(",").length){
             genres.style.backgroundColor = color_correct;
+            clip_row += green_tile;
+        } 
+        else if (correct_genres == 0) {
+            clip_row += black_tile;
+        }
+        else{
+            clip_row += orange_tile;
         }
 
         col.style.transform = "rotateY(180deg)";
@@ -194,18 +235,26 @@ function guess(g){
         rating_sp = document.createElement("SPAN");
         rating.style.backgroundColor = color_wrong;
 
-        if (Math.abs(guessed_film.averageRating - answer.averageRating) <= .3){
+        if (Math.abs(guessed_film.averageRating - answer.averageRating) <= .3 && Math.abs(guessed_film.averageRating - answer.averageRating) > 0){
             rating.style.backgroundColor = color_close;
+            clip_row += orange_tile;
         }
-
-        if (guessed_film.averageRating < answer.averageRating){
-            rating_result += " &#8593";
-        }
-        else if (guessed_film.averageRating > answer.averageRating){
-            rating_result += " &#8595"
+        else if (Math.abs(guessed_film.averageRating - answer.averageRating) > .3){
+            clip_row += black_tile;
         }
         else {
             rating.style.backgroundColor = color_correct;
+            clip_row += green_tile;
+        }
+
+
+        if (guessed_film.averageRating < answer.averageRating){
+            rating_result += " &#8593";
+            // clip_row += up_arrow;
+        }
+        else if (guessed_film.averageRating > answer.averageRating){
+            rating_result += " &#8595"
+            // clip_row += down_arrow;
         }
 
         rating_sp.innerHTML = rating_result;
@@ -236,7 +285,14 @@ function guess(g){
         }
 
         if (actors_count == actors_arr.length){
-            actors.style.backgroundColor = color_correct
+            actors.style.backgroundColor = color_correct;
+            clip_row += green_tile;
+        }
+        else if (actors_count == 0) {
+            clip_row += black_tile;
+        }
+        else {
+            clip_row += orange_tile;
         }
 
         var col = actors.parentElement;
@@ -251,6 +307,10 @@ function guess(g){
 
         if (company_result == answer.productionCompany){
             company.style.backgroundColor = color_correct;
+            clip_row += green_tile;
+        }
+        else {
+            clip_row += black_tile;
         }
 
         company_sp.innerHTML = company_result;
@@ -264,6 +324,7 @@ function guess(g){
         g_name = document.getElementById("guess " + String(guesses));
         g_name.innerHTML = getFilmString(guessed_film) + ": "
 
+        clipboard_rows.push(clip_row);
     }
 
 }
@@ -377,4 +438,20 @@ function CSVtoJSON(csv){
 
 function close_popup(){
     $('.hover_bkgr_fricc').hide();
+}
+
+function copy_to_clipboard(){
+    var output_text = "";
+
+    var top = "Movle " + movle_nr +" ";
+    var res_string = won ? String(guesses) + "/8\n" : "X/8\n";
+
+    top += res_string;
+    output_text += top;
+
+    for (var i=0;i<clipboard_rows.length;i++){
+        output_text += "\n" + clipboard_rows[i];
+    }
+
+    navigator.clipboard.writeText(output_text);
 }
