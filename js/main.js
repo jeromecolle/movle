@@ -39,7 +39,7 @@ $(document).ready(function(){
                 answer = films[i];
                 var quote = answer.quotes[Math.floor(Math.random() * answer.quotes.length)];
                 qt_field = document.getElementById('quote-tag');
-                qt_field.innerHTML = quote;
+                qt_field.innerHTML = "Tagline: " + answer.tagline;
                 
                 movle_nr = i;
                 console.log("Film found on " + i)
