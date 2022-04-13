@@ -28,40 +28,82 @@ var clipboard_rows = [];
 var finished = false;
 var won = false;
 
-$(document).ready(function(){
-    var films_temp = [];
-    $.getJSON("db/titles-300-temp.json", function(data){
-        films = data;
+var daily;
+var db_file = "db/titles-300-actors.json";
 
+function start_daily(){
+    daily = true;
+    start_movle();
+}
 
+function start_unlimited(){
+    daily = false;
+    start_movle();
+}
+
+function start_movle(){
+
+    $.ajax({
+        url: db_file,
+        async: false,
+        dataType: 'json',
+        success: function (data) {
+          films = data;
+        }
+      });
+
+    if (daily){
         for (var i = 0; i<films.length;i++){
             if (date === films[i].date){
                 answer = films[i];
                 var quote = answer.quotes[Math.floor(Math.random() * answer.quotes.length)];
-                qt_field = document.getElementById('quote-tag');
-                qt_field.innerHTML = "Tagline: " + answer.tagline;
+                
                 
                 movle_nr = i;
                 console.log("Film found on " + i)
             }
         }
-
+    }
+    else{
         shuffle(films);
+        answer = films[0];
+    }
 
-        // Uncomment for quick random
-        // answer = films[0];
-        // console.log(answer);
-        // var quote = answer.quotes[Math.floor(Math.random() * answer.quotes.length)];
-        // qt_field = document.getElementById('quote-tag');
-        // qt_field.innerHTML = quote;
-    });
+    shuffle(films);
 
-         // Here the data in films is NOT available because this line
-         //     of code will run ***before*** the response from the AJAX
-         //     request from above is received.
-         // In other words, this alert() executes **immediately** without
-         //     waiting for the $.getJSON() to receive its response.
-});
+    qt_field = document.getElementById('quote-tag');
+    qt_field.innerHTML = "Tagline: " + answer.tagline;
+
+    document.body.style.display = "block";
+
+    var welcome_btns = document.getElementById("w-btns");
+    welcome_btns.style.display = "none";
+
+    var welcome_div = document.getElementById("welcome-div");
+    welcome_div.style.margin = "0 0"
+    welcome_div.style.height = "10%"
+    welcome_div.style.display = "block"
+
+    
+    
+    var game = document.getElementById("main-game");
+    game.style.display = "block";
+
+
+    // Uncomment for quick random
+    // answer = films[0];
+    // console.log(answer);
+    // var quote = answer.quotes[Math.floor(Math.random() * answer.quotes.length)];
+    // qt_field = document.getElementById('quote-tag');
+    // qt_field.innerHTML = quote;
+
+
+        // Here the data in films is NOT available because this line
+        //     of code will run ***before*** the response from the AJAX
+        //     request from above is received.
+        // In other words, this alert() executes **immediately** without
+        //     waiting for the $.getJSON() to receive its response.
+};
 
 
 function populate(string){
@@ -265,35 +307,37 @@ function guess(g){
 
         // Assess actors
         var actors = document.getElementById("actors " + String(guesses))
-        var actors_count = 0;
-        var actors_arr = guessed_film.actorList.split(",");
+        var correct_actors = [];
         actors.style.backgroundColor = color_wrong
 
-        for (var i=0;i<actors_arr.length;i++){
-            sp = document.createElement("SPAN");
-            if (answer.actorList.toLowerCase().includes(actors_arr[i].toLowerCase())){
-                actors_count++;
-                sp.className = "genre-true";
+        for (var i=0;i<guessed_film.actorList.length;i++){
+            if (answer.actorList.includes(guessed_film.actorList[i])){
+                correct_actors.push(guessed_film.actorList[i]);
                 actors.style.backgroundColor = color_close;
             }
-            else {
-                sp.className = "genre-false"; //new
-            }
-            var end = (i==actors_arr.length-1) ? " " : ", ";
-            sp.innerHTML = actors_arr[i] + end;
+        }
+
+        if (correct_actors.length == answer.actorList.length){
+            actors.style.backgroundColor = color_correct;
+            actors.innerHTML = "All actors correct";
+            clip_row += green_tile;
+        }
+        else if (correct_actors.length == 0) {
+            clip_row += black_tile;
+            actors.innerHTML = "No actors correct"
+        }
+        else {
+            var sp = document.createElement("SPAN");
+            sp.className = "actors-correct";
+            clip_row += orange_tile;
+            var end = correct_actors.length == 1 ? " actor correct" : " actors correct";
+            actors.innerHTML =  correct_actors.length + end;
+            sp.innerHTML = correct_actors.join(",\n");
             actors.appendChild(sp);
         }
 
-        if (actors_count == actors_arr.length){
-            actors.style.backgroundColor = color_correct;
-            clip_row += green_tile;
-        }
-        else if (actors_count == 0) {
-            clip_row += black_tile;
-        }
-        else {
-            clip_row += orange_tile;
-        }
+        console.log(correct_actors)
+        
 
         var col = actors.parentElement;
         col.style.transform = "rotateY(180deg)";

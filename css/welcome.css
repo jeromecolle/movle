@@ -1,0 +1,15 @@
+html, body {
+    height: 90%;
+    width: 100%;
+    display: flex;
+    align-content: center;
+}
+
+.welcome{
+    margin:auto auto;
+    text-align: center;
+}
+
+.welcome-title {
+
+}

@@ -1,6 +1,7 @@
 html, body {
     height: 90%;
-    display: flexbox;
+    width: 100%;
+    display: flex;
 }
 
 @font-face {
@@ -35,6 +36,35 @@ h1 {
     margin: 5px;
     height: 10%;
     font-family: 'Oswald', sans-serif;
+    transition: .5s;
+}
+
+.welcome {
+    margin: auto;
+    align-content: center;
+    text-align: center;
+    transition: .5s;
+}
+
+.welcome-buttons {
+    display: flexbox;
+    padding: 10px;
+}
+
+.welcome-btn {
+    font-family: 'Oswald', sans-serif;
+    margin: 10px auto;
+    display: block;
+    width: 100%;
+    height: 100%;
+    padding: 10px;
+    background-color: white;
+    transition: .5s;
+    border-radius: 2px;
+}
+
+.welcome-btn:hover {
+    background-color: #f3bd5f;
 }
 
 #quote-tag-container {
@@ -65,7 +95,6 @@ h1 {
     height: 3em;
     font-size-adjust: .5;
     perspective: 1000px;
-    
 }
 
 #center-header {
@@ -111,12 +140,14 @@ input[type=text]:focus, input[type=text]:active  {
 }
 
 .game {
+    display: none;
     text-align: center;
     /* background-color: bisque; */
     padding: 5px;
     margin: auto;
     height: 90%;
-    width:90%
+    width:90%;
+    transition: .5s;
 }
 
 .guess {
@@ -208,6 +239,21 @@ background: #f3bd5f;
 .genres, .actors {
     font-weight: 700;
     font-size:small;
+}
+
+.actors-correct {
+    visibility: hidden;
+    position: absolute;
+    left: 70%;
+    width: 33%;
+    max-height: 230%;
+    background-color:#999;
+    z-index: 10;
+    /* transition: .5s; */
+}
+
+.actors:hover .actors-correct {
+    visibility: visible;
 }
 
 .genre-true {

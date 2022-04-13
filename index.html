@@ -15,10 +15,16 @@
     <title>Movle</title>
 </head>
 <body>
-    <div class="header">
-        <h1>Movle</h1>
+    <div id="welcome-div" class="welcome">
+        <div class="header">
+            <h1>Movle</h1>
+        </div>
+        <div id="w-btns" class="welcome-buttons">
+            <button class="welcome-btn" type="button" onclick="start_daily()">Daily</button>
+            <button class="welcome-btn" type="button" onclick="start_unlimited()">Unlimited</button>
+        </div>
     </div>
-    <div class="game">
+    <div id="main-game" class="game">
         <div id="quote-tag-container">
             <!-- <button type="button" id="toggle-btn" onclick="toggle_qt(this)">Click for tagline</button> -->
             <div id="quote-tag"></div>
