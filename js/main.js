@@ -110,7 +110,7 @@ function populate(string){
     // window.alert(string);
     list = document.getElementById("drop-menu");
     list.replaceChildren()
-    shuffle(films)
+    // shuffle(films)
     if (string){
         var selection = [];
         var divs = [];
@@ -124,7 +124,9 @@ function populate(string){
                 // div.setAttribute("href","javascript:void(0)");
                 let touchEvent = 'ontouchstart' in window ? 'touchstart' : 'click';
                 div.addEventListener(touchEvent, function(string){
-                    film_guess = string.path[0].innerHTML.split('(')[0].trim();
+                    // console.info("Title clicked");
+                    // console.info(string.target);
+                    film_guess = string.target.innerHTML.split('(')[0].trim();
                     guess(film_guess);
                 });
                 divs.push(div);
@@ -320,11 +322,15 @@ function guess(g){
         if (correct_actors.length == answer.actorList.length){
             actors.style.backgroundColor = color_correct;
             actors.innerHTML = "All actors correct";
+            actors.style.textDecoration = "none";
+
             clip_row += green_tile;
         }
         else if (correct_actors.length == 0) {
             clip_row += black_tile;
             actors.innerHTML = "No actors correct"
+            actors.style.textDecoration = "none";
+
         }
         else {
             var sp = document.createElement("SPAN");
@@ -334,6 +340,7 @@ function guess(g){
             actors.innerHTML =  correct_actors.length + end;
             sp.innerHTML = correct_actors.join(",\n");
             actors.appendChild(sp);
+            actors.style.textDecoration = "underline";
         }
 
         console.log(correct_actors)
@@ -369,6 +376,9 @@ function guess(g){
         g_name.innerHTML = getFilmString(guessed_film) + ": "
 
         clipboard_rows.push(clip_row);
+
+        // clear guess
+        inp.innerHTML = "";
     }
 
 }
@@ -488,7 +498,7 @@ function copy_to_clipboard(){
     var output_text = "";
 
     var top = "Movle " + movle_nr +" ";
-    var res_string = won ? String(guesses) + "/8\n" : "X/8\n";
+    var res_string = won ? String(guesses) + "/7\n" : "X/7\n";
 
     top += res_string;
     output_text += top;

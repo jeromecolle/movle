@@ -152,7 +152,7 @@ input[type=text]:focus, input[type=text]:active  {
 
 .guess {
     display: flexbox;
-    height: 25%;
+    height: 40%;
     padding: 5px;
     /* background-color: blueviolet; */
 }
@@ -173,6 +173,7 @@ input[type=text]:focus, input[type=text]:active  {
     max-height: 75%;
     overflow: scroll;
     background:linear-gradient(transparent 150px, white);
+    direction: rtl;
 }
 
 .drop-item {
@@ -190,6 +191,7 @@ input[type=text]:focus, input[type=text]:active  {
 /* width */
 ::-webkit-scrollbar {
     width: 10px;
+    direction:ltr;
 }
   
 /* Track */
