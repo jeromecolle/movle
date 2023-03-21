@@ -203,6 +203,8 @@ function guess(g){
         
         col.style.transform = "rotateY(180deg)";
 
+        // deploy --- 
+
         // Assess directors
         var directors = document.getElementById("directors " + String(guesses))
         var directors_result = String(guessed_film.runtimeMinutes);
